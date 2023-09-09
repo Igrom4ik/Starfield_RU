@@ -1,0 +1,3581 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="00437C" Partial="1">
+      <EDID>FloraBiomeForestDeciduous03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Atlas Weed</Source>
+      <Dest>атласная трава</Dest>
+    </String>
+    <String List="0" sID="00437D">
+      <EDID>FloraBiomeForestDeciduous03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00437E">
+      <EDID>FloraBiomeForestDeciduous02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00437F" Partial="1">
+      <EDID>FloraBiomeForestDeciduous02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Leafy Morningstar</Source>
+      <Dest>листья Утренней звезды</Dest>
+    </String>
+    <String List="0" sID="004380">
+      <EDID>FloraBiomeForestTropical01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004381" Partial="1">
+      <EDID>FloraBiomeForestTropical01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweet Root</Source>
+      <Dest>сладкий корень</Dest>
+    </String>
+    <String List="0" sID="004382" Partial="1">
+      <EDID>FloraBiomeForestDeciduous01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Blue Weeping Shrub</Source>
+      <Dest>голубой Плакучий кустарник</Dest>
+    </String>
+    <String List="0" sID="004383">
+      <EDID>FloraBiomeForestDeciduous01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004384" Partial="1">
+      <EDID>FloraBiomeHills05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Augustus Creeper</Source>
+      <Dest>плющ Августа</Dest>
+    </String>
+    <String List="0" sID="004385">
+      <EDID>FloraBiomeHills05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004386">
+      <EDID>FloraBiomeHills04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004387" Partial="1">
+      <EDID>FloraBiomeHills04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tundra Vine</Source>
+      <Dest>лоза Тундровая </Dest>
+    </String>
+    <String List="0" sID="004388" Partial="1">
+      <EDID>FloraBiomeHills03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Blooming Slopefeather</Source>
+      <Dest>цветущее Склонное &quot;перо&quot;</Dest>
+    </String>
+    <String List="0" sID="004389">
+      <EDID>FloraBiomeHills03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00438A">
+      <EDID>FloraBiomeHills02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00438B" Partial="1">
+      <EDID>FloraBiomeHills02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aruna Goldenglow</Source>
+      <Dest>златосвет Аруна </Dest>
+    </String>
+    <String List="0" sID="00438C" Partial="1">
+      <EDID>FloraBiomeHills01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bleeding Heart Vine</Source>
+      <Dest>лоза Кровоточащее сердце</Dest>
+    </String>
+    <String List="0" sID="00438D">
+      <EDID>FloraBiomeHills01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00438E" Partial="1">
+      <EDID>FloraBiomeMountains05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Star Bloom Root</Source>
+      <Dest>корень Звездного цветка</Dest>
+    </String>
+    <String List="0" sID="00438F">
+      <EDID>FloraBiomeMountains05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004390" Partial="1">
+      <EDID>FloraBiomeMountains04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spiral Bloom</Source>
+      <Dest>спиральный цветок</Dest>
+    </String>
+    <String List="0" sID="004391">
+      <EDID>FloraBiomeMountains04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004392" Partial="1">
+      <EDID>FloraBiomeMountains03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Enduring Bugleweed</Source>
+      <Dest>стойкий живокост</Dest>
+    </String>
+    <String List="0" sID="004393">
+      <EDID>FloraBiomeMountains03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004394" Partial="1">
+      <EDID>FloraBiomeMountains02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Cliff Laurel</Source>
+      <Dest>лавр Скалистый</Dest>
+    </String>
+    <String List="0" sID="004395">
+      <EDID>FloraBiomeMountains02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004396">
+      <EDID>FloraBiomeMountains01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004397" Partial="1">
+      <EDID>FloraBiomeMountains01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Stunted Pine</Source>
+      <Dest>кривая сосна</Dest>
+    </String>
+    <String List="0" sID="004398">
+      <EDID>FloraBiomeVolcanicWorn10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004399" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Crusher Leaf</Source>
+      <Dest>лист &quot;Дробилки&quot;</Dest>
+    </String>
+    <String List="0" sID="00439A">
+      <EDID>FloraBiomeVolcanicWorn05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00439B" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ash Flower</Source>
+      <Dest>цветок ясеня</Dest>
+    </String>
+    <String List="0" sID="00439C">
+      <EDID>FloraBiomeVolcanicWorn04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00439D" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Moon Root</Source>
+      <Dest>лунный корень</Dest>
+    </String>
+    <String List="0" sID="00439E">
+      <EDID>FloraBiomeVolcanicWorn03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00439F" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aries Vine</Source>
+      <Dest>лоза Овна</Dest>
+    </String>
+    <String List="0" sID="0043A0">
+      <EDID>FloraBiomeVolcanicWorn02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043A1" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Passenger Vine</Source>
+      <Dest>лоза &quot;Пассажир&quot;</Dest>
+    </String>
+    <String List="0" sID="0043A2" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Rosy Tendril Weed</Source>
+      <Dest>сорняк розовый</Dest>
+    </String>
+    <String List="0" sID="0043A3">
+      <EDID>FloraBiomeVolcanicWorn01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043A4" Partial="1">
+      <EDID>FloraBiomeVolcanicRough05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Crimson Courtstalk</Source>
+      <Dest>багровый стебель</Dest>
+    </String>
+    <String List="0" sID="0043A5">
+      <EDID>FloraBiomeVolcanicRough05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043A6" Partial="1">
+      <EDID>FloraBiomeVolcanicRough04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Haven Vine</Source>
+      <Dest>лоза Небесная</Dest>
+    </String>
+    <String List="0" sID="0043A7">
+      <EDID>FloraBiomeVolcanicRough04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043A8">
+      <EDID>FloraBiomeVolcanicRough03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043A9" Partial="1">
+      <EDID>FloraBiomeVolcanicRough03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spiny Ghost Cactus</Source>
+      <Dest>колючий Призрачный кактус</Dest>
+    </String>
+    <String List="0" sID="0043AA">
+      <EDID>FloraBiomeVolcanicRough02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043AB">
+      <EDID>FloraBiomeVolcanicRough02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ash Sweeper</Source>
+      <Dest>ясень Чистильщик</Dest>
+    </String>
+    <String List="0" sID="0043AC" Partial="1">
+      <EDID>FloraBiomeVolcanicRough01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Dust Root</Source>
+      <Dest>пыльный корень</Dest>
+    </String>
+    <String List="0" sID="0043AD">
+      <EDID>FloraBiomeVolcanicRough01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043AE">
+      <EDID>FloraBiomeSavanna05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043AF" Partial="1">
+      <EDID>FloraBiomeSavanna05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Nova Bloom</Source>
+      <Dest>цветок Новы</Dest>
+    </String>
+    <String List="0" sID="0043B0">
+      <EDID>FloraBiomeSavanna04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043B1" Partial="1">
+      <EDID>FloraBiomeSavanna04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sage Shrub</Source>
+      <Dest>кустарник Шалфейный</Dest>
+    </String>
+    <String List="0" sID="0043B2">
+      <EDID>FloraBiomeSavanna03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043B3" Partial="1">
+      <EDID>FloraBiomeSavanna03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Canary Reed</Source>
+      <Dest>тростник Канареечный </Dest>
+    </String>
+    <String List="0" sID="0043B4">
+      <EDID>FloraBiomeSavanna02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043B5" Partial="1">
+      <EDID>FloraBiomeSavanna02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Broken Heart Vine</Source>
+      <Dest>лоза Разбитого сердца</Dest>
+    </String>
+    <String List="0" sID="0043B6">
+      <EDID>FloraBiomeSavanna01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043B7" Partial="1">
+      <EDID>FloraBiomeSavanna01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Savanna Sweetbush</Source>
+      <Dest>саванный Сладкий куст</Dest>
+    </String>
+    <String List="0" sID="0043B8">
+      <EDID>FloraBiomeDesertRocky10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043B9" Partial="1">
+      <EDID>FloraBiomeDesertRocky10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Burnt Pokeleaf</Source>
+      <Dest>опаленный Лист лаконоса</Dest>
+    </String>
+    <String List="0" sID="0043BA" Partial="1">
+      <EDID>FloraBiomeDesertRocky09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bitter Goldenglow</Source>
+      <Dest>золотосвет Горький </Dest>
+    </String>
+    <String List="0" sID="0043BB">
+      <EDID>FloraBiomeDesertRocky09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043BC">
+      <EDID>FloraBiomeDesertRocky08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043BD" Partial="1">
+      <EDID>FloraBiomeDesertRocky08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Canis Palm</Source>
+      <Dest>пальма Собачья</Dest>
+    </String>
+    <String List="0" sID="0043BE">
+      <EDID>FloraBiomeDesertRocky07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043BF" Partial="1">
+      <EDID>FloraBiomeDesertRocky07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Gasping Fireleaf</Source>
+      <Dest>огнелист Удущающий</Dest>
+    </String>
+    <String List="0" sID="0043C0" Partial="1">
+      <EDID>FloraBiomeDesertRocky06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sleeping Giant Thorn</Source>
+      <Dest>шип Спящего гиганта</Dest>
+    </String>
+    <String List="0" sID="0043C1">
+      <EDID>FloraBiomeDesertRocky06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043C2">
+      <EDID>FloraBiomeDesertRocky05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043C3" Partial="1">
+      <EDID>FloraBiomeDesertRocky05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweetwater Cactus</Source>
+      <Dest>кактус Сладководный</Dest>
+    </String>
+    <String List="0" sID="0043C4" Partial="1">
+      <EDID>FloraBiomeDesertRocky04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Golden Sand Root</Source>
+      <Dest>золотой Песчаный корень</Dest>
+    </String>
+    <String List="0" sID="0043C5">
+      <EDID>FloraBiomeDesertRocky04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043C6" Partial="1">
+      <EDID>FloraBiomeDesertRocky03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Barrenbulb</Source>
+      <Dest>бесплодная луковица</Dest>
+    </String>
+    <String List="0" sID="0043C7">
+      <EDID>FloraBiomeDesertRocky03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043C8">
+      <EDID>FloraBiomeDesertRocky02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043C9" Partial="1">
+      <EDID>FloraBiomeDesertRocky02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Prickly Awaj</Source>
+      <Dest>авадж Колючий </Dest>
+    </String>
+    <String List="0" sID="0043CA" Partial="1">
+      <EDID>FloraBiomeDesertRocky01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tremor Root</Source>
+      <Dest>корень Тремора</Dest>
+    </String>
+    <String List="0" sID="0043CB">
+      <EDID>FloraBiomeDesertRocky01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043CC" Partial="1">
+      <EDID>FloraBiomeDesertSandy10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweet Fumewort</Source>
+      <Dest>сладкий Дымчатый корень</Dest>
+    </String>
+    <String List="0" sID="0043CD">
+      <EDID>FloraBiomeDesertSandy10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043CE">
+      <EDID>FloraBiomeDesertSandy09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bristle Barrel</Source>
+      <Dest>бочонок Щетинистый</Dest>
+    </String>
+    <String List="0" sID="0043CF">
+      <EDID>FloraBiomeDesertSandy09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043D0">
+      <EDID>FloraBiomeDesertSandy08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043D1" Partial="1">
+      <EDID>FloraBiomeDesertSandy08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mustard Bugweed</Source>
+      <Dest>клоповник Горчичный</Dest>
+    </String>
+    <String List="0" sID="0043D2" Partial="1">
+      <EDID>FloraBiomeDesertSandy07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Stinging Flutterleaf</Source>
+      <Dest>жгучий Трепетальник</Dest>
+    </String>
+    <String List="0" sID="0043D3">
+      <EDID>FloraBiomeDesertSandy07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043D4">
+      <EDID>FloraBiomeDesertSandy06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043D5" Partial="1">
+      <EDID>FloraBiomeDesertSandy06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Dunetangle</Source>
+      <Dest>дюнный вьюн</Dest>
+    </String>
+    <String List="0" sID="0043D6">
+      <EDID>FloraBiomeDesertSandy05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043D7" Partial="1">
+      <EDID>FloraBiomeDesertSandy05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Wanderer&apos;s Husk</Source>
+      <Dest>шелуха &quot;Странника&quot;</Dest>
+    </String>
+    <String List="0" sID="0043D8">
+      <EDID>FloraBiomeDesertSandy04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043D9" Partial="1">
+      <EDID>FloraBiomeDesertSandy04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Hecate&apos;s Fireleaf</Source>
+      <Dest>огнелист Гекаты</Dest>
+    </String>
+    <String List="0" sID="0043DA">
+      <EDID>FloraBiomeDesertSandy03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043DB" Partial="1">
+      <EDID>FloraBiomeDesertSandy03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sandclaw</Source>
+      <Dest>песчаный Коготь</Dest>
+    </String>
+    <String List="0" sID="0043DC" Partial="1">
+      <EDID>FloraBiomeDesertSandy02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sandy Goldenglow</Source>
+      <Dest>златосвет Песчаный </Dest>
+    </String>
+    <String List="0" sID="0043DD">
+      <EDID>FloraBiomeDesertSandy02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043DE" Partial="1">
+      <EDID>FloraBiomeDesertSandy01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spiny Bell Cactus</Source>
+      <Dest>колючий Колокольчиковый кактус</Dest>
+    </String>
+    <String List="0" sID="0043DF">
+      <EDID>FloraBiomeDesertSandy01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0043E1" Partial="1">
+      <EDID>TrapFloraSpikeSpitter</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spike Spitter</Source>
+      <Dest>Шипострел</Dest>
+    </String>
+    <String List="0" sID="0046C5" Partial="1">
+      <EDID>FloraNAHangingPalm01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Hanging Palm</Source>
+      <Dest>висячая пальма</Dest>
+    </String>
+    <String List="0" sID="0046C6">
+      <EDID>FloraNAHangingPalm01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046CF" Partial="1">
+      <EDID>MineralDepositCommonLead01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Lead Deposit</Source>
+      <Dest>залежи свинца</Dest>
+    </String>
+    <String List="0" sID="0046D0">
+      <EDID>MineralDepositCommonLead01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046D1">
+      <EDID>MineralDepositCommonNickel01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046D2" Partial="1">
+      <EDID>MineralDepositCommonNickel01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Nickel Deposit</Source>
+      <Dest>залежи никеля</Dest>
+    </String>
+    <String List="0" sID="0046D3">
+      <EDID>MineralDepositCommonAluminum01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046D4" Partial="1">
+      <EDID>MineralDepositCommonAluminum01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aluminum Deposit</Source>
+      <Dest>залежи алюминия</Dest>
+    </String>
+    <String List="0" sID="0046D5">
+      <EDID>MineralDepositCommonChlorine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046D6" Partial="1">
+      <EDID>MineralDepositCommonChlorine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorine Vent</Source>
+      <Dest>газорожденеи хлора</Dest>
+    </String>
+    <String List="0" sID="0046D7">
+      <EDID>MineralDepositCommonCopper01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046D8" Partial="1">
+      <EDID>MineralDepositCommonCopper01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Copper Deposit</Source>
+      <Dest>залежи меди</Dest>
+    </String>
+    <String List="0" sID="0046D9" Partial="1">
+      <EDID>MineralDepositCommonIron01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Iron Deposit</Source>
+      <Dest>залежи железа</Dest>
+    </String>
+    <String List="0" sID="0046DA">
+      <EDID>MineralDepositCommonIron01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046DB" Partial="1">
+      <EDID>MineralDepositCommonHelium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Helium-3 Vent</Source>
+      <Dest>газорождение гелия-3</Dest>
+    </String>
+    <String List="0" sID="0046DC">
+      <EDID>MineralDepositCommonHelium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046DD">
+      <EDID>MineralDepositUncommonBenzene01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046DE" Partial="1">
+      <EDID>MineralDepositUncommonBenzene01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Benzenes Vent</Source>
+      <Dest>газорождение бензола</Dest>
+    </String>
+    <String List="0" sID="0046DF">
+      <EDID>MineralDepositCommonUranium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046E0" Partial="1">
+      <EDID>MineralDepositCommonUranium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Uranium Deposit</Source>
+      <Dest>залежи урана</Dest>
+    </String>
+    <String List="0" sID="0046E1" Partial="1">
+      <EDID>MineralDepositCommonWater01_Solid</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ice Deposit</Source>
+      <Dest>залежи льда</Dest>
+    </String>
+    <String List="0" sID="0046E2">
+      <EDID>MineralDepositCommonWater01_Solid</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046E3" Partial="1">
+      <EDID>MineralDepositExoticAntimony01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Antimony Deposit</Source>
+      <Dest>залежи сурьмы</Dest>
+    </String>
+    <String List="0" sID="0046E4">
+      <EDID>MineralDepositExoticAntimony01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046E5">
+      <EDID>MineralDepositCommonArgon01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046E6" Partial="1">
+      <EDID>MineralDepositCommonArgon01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Argon Vent</Source>
+      <Dest>газорождение аргона</Dest>
+    </String>
+    <String List="0" sID="0046E7">
+      <EDID>MineralDepositExoticCaesium01_OBSOLETE</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046E8" Partial="1">
+      <EDID>MineralDepositExoticCaesium01_OBSOLETE</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caesium Deposit</Source>
+      <Dest>залежи цезия</Dest>
+    </String>
+    <String List="0" sID="0046E9" Partial="1">
+      <EDID>MineralDepositExoticEuropium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Europium Deposit</Source>
+      <Dest>залежи европия</Dest>
+    </String>
+    <String List="0" sID="0046EA">
+      <EDID>MineralDepositExoticEuropium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046EB" Partial="1">
+      <EDID>MineralDepositUncommonCobalt01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Cobalt Deposit</Source>
+      <Dest>залежи кобальта</Dest>
+    </String>
+    <String List="0" sID="0046EC">
+      <EDID>MineralDepositUncommonCobalt01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046ED" Partial="1">
+      <EDID>MineralDepositExoticIonicLiquids01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ionic Liquids Seep</Source>
+      <Dest>выделение ионных жидкостей</Dest>
+    </String>
+    <String List="0" sID="0046EE">
+      <EDID>MineralDepositExoticIonicLiquids01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046EF" Partial="1">
+      <EDID>MineralDepositExoticPlutonium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Plutonium Deposit</Source>
+      <Dest>залежи плутония</Dest>
+    </String>
+    <String List="0" sID="0046F0">
+      <EDID>MineralDepositExoticPlutonium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046F1">
+      <EDID>MineralDepositRareTitanium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046F2" Partial="1">
+      <EDID>MineralDepositRareTitanium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Titanium Deposit</Source>
+      <Dest>залежи титана</Dest>
+    </String>
+    <String List="0" sID="0046F3" Partial="1">
+      <EDID>MineralDepositExoticXenon01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Xenon Vent</Source>
+      <Dest>газорожденеи ксенона</Dest>
+    </String>
+    <String List="0" sID="0046F4">
+      <EDID>MineralDepositExoticXenon01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046F5" Partial="1">
+      <EDID>MineralDepositExoticYtterbium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ytterbium Deposit</Source>
+      <Dest>залежи иттербия</Dest>
+    </String>
+    <String List="0" sID="0046F6">
+      <EDID>MineralDepositExoticYtterbium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046F7">
+      <EDID>MineralDepositUncommonAlkanes01_OBSOLETE</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046F8" Partial="1">
+      <EDID>MineralDepositUncommonAlkanes01_OBSOLETE</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Alkanes Seep</Source>
+      <Dest>выделение алканов</Dest>
+    </String>
+    <String List="0" sID="0046F9">
+      <EDID>MineralDepositRareGold01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046FA" Partial="1">
+      <EDID>MineralDepositRareGold01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Gold Deposit</Source>
+      <Dest>залежи золота</Dest>
+    </String>
+    <String List="0" sID="0046FB" Partial="1">
+      <EDID>MineralDepositRareLithium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Lithium Deposit</Source>
+      <Dest>залежи лития</Dest>
+    </String>
+    <String List="0" sID="0046FC">
+      <EDID>MineralDepositRareLithium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046FD">
+      <EDID>MineralDepositRareNeodymium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0046FE" Partial="1">
+      <EDID>MineralDepositRareNeodymium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neodymium Deposit</Source>
+      <Dest>залежи неодима</Dest>
+    </String>
+    <String List="0" sID="0046FF">
+      <EDID>MineralDepositExoticNeon01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neon Vent</Source>
+      <Dest>газорождение неона</Dest>
+    </String>
+    <String List="0" sID="004700">
+      <EDID>MineralDepositExoticNeon01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004701" Partial="1">
+      <EDID>MineralDepositRareTetrafluoride01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газообразование тетрафторида</Dest>
+    </String>
+    <String List="0" sID="004702">
+      <EDID>MineralDepositRareTetrafluoride01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004703">
+      <EDID>MineralDepositExoticPalladium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004704" Partial="1">
+      <EDID>MineralDepositExoticPalladium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Palladium Deposit</Source>
+      <Dest>залежи палладия</Dest>
+    </String>
+    <String List="0" sID="004705" Partial="1">
+      <EDID>MineralDepositRareVanadium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Vanadium Deposit</Source>
+      <Dest>залежи ванадия</Dest>
+    </String>
+    <String List="0" sID="004706">
+      <EDID>MineralDepositRareVanadium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004707">
+      <EDID>MineralDepositUncommonTungsten01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004708" Partial="1">
+      <EDID>MineralDepositUncommonTungsten01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tungsten Deposit</Source>
+      <Dest>залежи вольфрама</Dest>
+    </String>
+    <String List="0" sID="004709">
+      <EDID>MineralDepositUncommonChlorosilanes01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00470A" Partial="1">
+      <EDID>MineralDepositUncommonChlorosilanes01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorosilanes Seep</Source>
+      <Dest>выделение хлорсиланов</Dest>
+    </String>
+    <String List="0" sID="00470B" Partial="1">
+      <EDID>MineralDepositUncommonFluorine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fluorine Vent</Source>
+      <Dest>газорождение фтора</Dest>
+    </String>
+    <String List="0" sID="00470C">
+      <EDID>MineralDepositUncommonFluorine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00470D" Partial="1">
+      <EDID>MineralDepositRareTantalum01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tantalum Deposit</Source>
+      <Dest>залежи тантала</Dest>
+    </String>
+    <String List="0" sID="00470E">
+      <EDID>MineralDepositRareTantalum01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00470F" Partial="1">
+      <EDID>MineralDepositRarePlatinum01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Platinum Deposit</Source>
+      <Dest>залежи платины</Dest>
+    </String>
+    <String List="0" sID="004710">
+      <EDID>MineralDepositRarePlatinum01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004711">
+      <EDID>MineralDepositUncommonSilver01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004712" Partial="1">
+      <EDID>MineralDepositUncommonSilver01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Silver Deposit</Source>
+      <Dest>залежи серебра</Dest>
+    </String>
+    <String List="0" sID="004713" Partial="1">
+      <EDID>MineralDepositRareCarboxylicAcids01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carboxylic Acids Seep</Source>
+      <Dest>выделение карбоновых кислот</Dest>
+    </String>
+    <String List="0" sID="004714">
+      <EDID>MineralDepositRareCarboxylicAcids01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004715">
+      <EDID>MineralDepositExoticDysprosium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004716" Partial="1">
+      <EDID>MineralDepositExoticDysprosium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Dypsrosium Deposit</Source>
+      <Dest>залежи диспрозия</Dest>
+    </String>
+    <String List="0" sID="004717" Partial="1">
+      <EDID>MineralDepositUncommonIridium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Iridium Deposit</Source>
+      <Dest>залежи иридия</Dest>
+    </String>
+    <String List="0" sID="004718">
+      <EDID>MineralDepositUncommonIridium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004719">
+      <EDID>MineralDepositUniqueAldumite01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00471A" Partial="1">
+      <EDID>MineralDepositUniqueAldumite01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aldumite Deposit</Source>
+      <Dest>залежи альдумита</Dest>
+    </String>
+    <String List="0" sID="00471B" Partial="1">
+      <EDID>MineralDepositUniqueIndicite01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Indicite Deposit</Source>
+      <Dest>залежи индицита</Dest>
+    </String>
+    <String List="0" sID="00471C">
+      <EDID>MineralDepositUniqueIndicite01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00471D" Partial="1">
+      <EDID>MineralDepositUniqueRothicite01_NOCLUTTER</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Rothicite Deposit</Source>
+      <Dest>залежи ротицита</Dest>
+    </String>
+    <String List="0" sID="00471E">
+      <EDID>MineralDepositUniqueRothicite01_NOCLUTTER</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00471F" Partial="1">
+      <EDID>MineralDepositUniqueTasine01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tasine Seep</Source>
+      <Dest>выделение тасина</Dest>
+    </String>
+    <String List="0" sID="004720">
+      <EDID>MineralDepositUniqueTasine01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004721">
+      <EDID>MineralDepositUniqueVeryl01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004722" Partial="1">
+      <EDID>MineralDepositUniqueVeryl01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Veryl Vent</Source>
+      <Dest>газорожденеи верилия</Dest>
+    </String>
+    <String List="0" sID="004723">
+      <EDID>MineralDepositUniqueVytinium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004724" Partial="1">
+      <EDID>MineralDepositUniqueVytinium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Vytinium Deposit</Source>
+      <Dest>залежи витиниума</Dest>
+    </String>
+    <String List="0" sID="004725" Partial="1">
+      <EDID>MineralDepositUncommonBenzene03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Benzenes Vent</Source>
+      <Dest>газорождение бензола</Dest>
+    </String>
+    <String List="0" sID="004726">
+      <EDID>MineralDepositUncommonBenzene03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004727" Partial="1">
+      <EDID>MineralDepositUncommonBenzene02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Benzenes Vent</Source>
+      <Dest>газорождение бензола</Dest>
+    </String>
+    <String List="0" sID="004728">
+      <EDID>MineralDepositUncommonBenzene02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004729">
+      <EDID>MineralDepositRareMercury03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00472A" Partial="1">
+      <EDID>MineralDepositRareMercury03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mercury Seep</Source>
+      <Dest>выделенеи ртути</Dest>
+    </String>
+    <String List="0" sID="00472B">
+      <EDID>MineralDepositRareCarboxylicAcids03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00472C" Partial="1">
+      <EDID>MineralDepositRareCarboxylicAcids03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carboxylic Acids Seep</Source>
+      <Dest>выделение карбоновых кислот</Dest>
+    </String>
+    <String List="0" sID="00472D" Partial="1">
+      <EDID>MineralDepositUncommonFluorine03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fluorine Vent</Source>
+      <Dest>газорождение фтора</Dest>
+    </String>
+    <String List="0" sID="00472E">
+      <EDID>MineralDepositUncommonFluorine03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00472F" Partial="1">
+      <EDID>MineralDepositUncommonChlorosilanes03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorosilanes Seep</Source>
+      <Dest>выделение хлорсиланов</Dest>
+    </String>
+    <String List="0" sID="004730">
+      <EDID>MineralDepositUncommonChlorosilanes03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004731" Partial="1">
+      <EDID>MineralDepositRareTetrafluoride03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газообразование тетрафторида</Dest>
+    </String>
+    <String List="0" sID="004732">
+      <EDID>MineralDepositRareTetrafluoride03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004733">
+      <EDID>MineralDepositExoticNeon03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neon Vent</Source>
+      <Dest>газорождение неона</Dest>
+    </String>
+    <String List="0" sID="004734">
+      <EDID>MineralDepositExoticNeon03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004735">
+      <EDID>MineralDepositUncommonAlkanes03_OBSOLETE</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004736" Partial="1">
+      <EDID>MineralDepositUncommonAlkanes03_OBSOLETE</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Alkanes Seep</Source>
+      <Dest>выделение алканов</Dest>
+    </String>
+    <String List="0" sID="004737" Partial="1">
+      <EDID>MineralDepositExoticXenon03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Xenon Vent</Source>
+      <Dest>газорожденеи ксенона</Dest>
+    </String>
+    <String List="0" sID="004738">
+      <EDID>MineralDepositExoticXenon03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004739" Partial="1">
+      <EDID>MineralDepositExoticIonicLiquids03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ionic Liquids Seep</Source>
+      <Dest>выделение ионных жидкостей</Dest>
+    </String>
+    <String List="0" sID="00473A">
+      <EDID>MineralDepositExoticIonicLiquids03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00473B" Partial="1">
+      <EDID>MineralDepositCommonArgon03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Argon Vent</Source>
+      <Dest>газорождение аргона</Dest>
+    </String>
+    <String List="0" sID="00473C">
+      <EDID>MineralDepositCommonArgon03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00473D" Partial="1">
+      <EDID>MineralDepositCommonWater03_Solid</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ice Deposit</Source>
+      <Dest>залежи льда</Dest>
+    </String>
+    <String List="0" sID="00473E">
+      <EDID>MineralDepositCommonWater03_Solid</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00473F" Partial="1">
+      <EDID>MineralDepositCommonHelium03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Helium-3 Vent</Source>
+      <Dest>газорождение гелия-3</Dest>
+    </String>
+    <String List="0" sID="004740">
+      <EDID>MineralDepositCommonHelium03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004741">
+      <EDID>MineralDepositCommonChlorine03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004742" Partial="1">
+      <EDID>MineralDepositCommonChlorine03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorine Vent</Source>
+      <Dest>газорожденеи хлора</Dest>
+    </String>
+    <String List="0" sID="004743">
+      <EDID>MineralDepositRareMercury02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004744" Partial="1">
+      <EDID>MineralDepositRareMercury02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mercury Seep</Source>
+      <Dest>выделенеи ртути</Dest>
+    </String>
+    <String List="0" sID="004745">
+      <EDID>MineralDepositRareCarboxylicAcids02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004746" Partial="1">
+      <EDID>MineralDepositRareCarboxylicAcids02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carboxylic Acids Seep</Source>
+      <Dest>выделение карбоновых кислот</Dest>
+    </String>
+    <String List="0" sID="004747">
+      <EDID>MineralDepositUncommonFluorine02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004748" Partial="1">
+      <EDID>MineralDepositUncommonFluorine02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fluorine Vent</Source>
+      <Dest>газорождение фтора</Dest>
+    </String>
+    <String List="0" sID="004749">
+      <EDID>MineralDepositUncommonChlorosilanes02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00474A" Partial="1">
+      <EDID>MineralDepositUncommonChlorosilanes02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorosilanes Seep</Source>
+      <Dest>выделение хлорсиланов</Dest>
+    </String>
+    <String List="0" sID="00474B">
+      <EDID>MineralDepositRareTetrafluoride02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00474C" Partial="1">
+      <EDID>MineralDepositRareTetrafluoride02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газообразование тетрафторида</Dest>
+    </String>
+    <String List="0" sID="00474D">
+      <EDID>MineralDepositExoticNeon02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00474E">
+      <EDID>MineralDepositExoticNeon02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neon Vent</Source>
+      <Dest>газорождение неона</Dest>
+    </String>
+    <String List="0" sID="00474F" Partial="1">
+      <EDID>MineralDepositUncommonAlkanes02_OBSOLETE</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Alkanes Seep</Source>
+      <Dest>выделение алканов</Dest>
+    </String>
+    <String List="0" sID="004750">
+      <EDID>MineralDepositUncommonAlkanes02_OBSOLETE</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004751" Partial="1">
+      <EDID>MineralDepositExoticXenon02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Xenon Vent</Source>
+      <Dest>газорожденеи ксенона</Dest>
+    </String>
+    <String List="0" sID="004752">
+      <EDID>MineralDepositExoticXenon02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004753" Partial="1">
+      <EDID>MineralDepositExoticIonicLiquids02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ionic Liquids Seep</Source>
+      <Dest>выделение ионных жидкостей</Dest>
+    </String>
+    <String List="0" sID="004754">
+      <EDID>MineralDepositExoticIonicLiquids02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004755" Partial="1">
+      <EDID>MineralDepositCommonArgon02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Argon Vent</Source>
+      <Dest>газорождение аргона</Dest>
+    </String>
+    <String List="0" sID="004756">
+      <EDID>MineralDepositCommonArgon02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004757" Partial="1">
+      <EDID>MineralDepositCommonWater02_Solid</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ice Deposit</Source>
+      <Dest>залежи льда</Dest>
+    </String>
+    <String List="0" sID="004758">
+      <EDID>MineralDepositCommonWater02_Solid</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004759">
+      <EDID>MineralDepositCommonHelium02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00475A" Partial="1">
+      <EDID>MineralDepositCommonHelium02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Helium-3 Vent</Source>
+      <Dest>газорождение гелия-3</Dest>
+    </String>
+    <String List="0" sID="00475B" Partial="1">
+      <EDID>MineralDepositCommonChlorine02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorine Vent</Source>
+      <Dest>газорожденеи хлора</Dest>
+    </String>
+    <String List="0" sID="00475C">
+      <EDID>MineralDepositCommonChlorine02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00475F">
+      <EDID>MineralDepositRareMercury01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004760" Partial="1">
+      <EDID>MineralDepositRareMercury01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mercury Seep</Source>
+      <Dest>выделенеи ртути</Dest>
+    </String>
+    <String List="0" sID="004761" Partial="1">
+      <EDID>MineralDepositUniqueHematite</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aqueous Hematite Deposit</Source>
+      <Dest>залежи водного гематита</Dest>
+    </String>
+    <String List="0" sID="004762">
+      <EDID>MineralDepositUniqueHematite</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004769" Partial="1">
+      <EDID>FloraBiomeCageBrain01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Cage Brain</Source>
+      <Dest>клеточный Мозг</Dest>
+    </String>
+    <String List="0" sID="00476A">
+      <EDID>FloraBiomeCageBrain01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00476B">
+      <EDID>FloraBiomeForestTropical06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00476C" Partial="1">
+      <EDID>FloraBiomeForestTropical06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fire Rose</Source>
+      <Dest>роза Огненная </Dest>
+    </String>
+    <String List="0" sID="00476D">
+      <EDID>FloraBiomeForestDeciduous10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00476E" Partial="1">
+      <EDID>FloraBiomeForestDeciduous10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweet Yellow Creeper</Source>
+      <Dest>сладкий Желтый плющ</Dest>
+    </String>
+    <String List="0" sID="00476F" Partial="1">
+      <EDID>FloraBiomeForestTropical07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tropical Maw Palm</Source>
+      <Dest>тропическая Материнская пальма </Dest>
+    </String>
+    <String List="0" sID="004770">
+      <EDID>FloraBiomeForestTropical07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004771" Partial="1">
+      <EDID>FloraBiomeForestTropical08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Autumn Junglebloom</Source>
+      <Dest>осенний Цветок джуглей</Dest>
+    </String>
+    <String List="0" sID="004772">
+      <EDID>FloraBiomeForestTropical08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004773" Partial="1">
+      <EDID>FloraBiomeForestTropical09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Moth Vine</Source>
+      <Dest>лоза Мотыльковая </Dest>
+    </String>
+    <String List="0" sID="004774">
+      <EDID>FloraBiomeForestTropical09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004775" Partial="1">
+      <EDID>FloraBiomeForestTropical10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Firecracker Vine</Source>
+      <Dest>виногрдная Петарда</Dest>
+    </String>
+    <String List="0" sID="004776">
+      <EDID>FloraBiomeForestTropical10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004777">
+      <EDID>FloraBiomeFrozen06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004778" Partial="1">
+      <EDID>FloraBiomeFrozen06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chillhook</Source>
+      <Dest>Чиллхук</Dest>
+    </String>
+    <String List="0" sID="004779" Partial="1">
+      <EDID>FloraBiomeFrozen07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Iceblood Vine</Source>
+      <Dest>лоза Хладнокрованая</Dest>
+    </String>
+    <String List="0" sID="00477A">
+      <EDID>FloraBiomeFrozen07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00477B" Partial="1">
+      <EDID>FloraBiomeFrozen08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ice Creeper</Source>
+      <Dest>плющ Ледяной</Dest>
+    </String>
+    <String List="0" sID="00477C">
+      <EDID>FloraBiomeFrozen08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00477D">
+      <EDID>FloraBiomeFrozen09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00477E" Partial="1">
+      <EDID>FloraBiomeFrozen09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Stinging Ice Stalk</Source>
+      <Dest>стебель жгучего льда</Dest>
+    </String>
+    <String List="0" sID="00477F">
+      <EDID>FloraBiomeFrozen10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004780" Partial="1">
+      <EDID>FloraBiomeFrozen10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Cold Cave Nettle</Source>
+      <Dest>крапива Пещерной хлади</Dest>
+    </String>
+    <String List="0" sID="004781">
+      <EDID>FloraBiomeHills06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004782" Partial="1">
+      <EDID>FloraBiomeHills06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bowing Shadeleaf</Source>
+      <Dest>кланящийся Тенелист</Dest>
+    </String>
+    <String List="0" sID="004783">
+      <EDID>FloraBiomeHills07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004784" Partial="1">
+      <EDID>FloraBiomeHills07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Crimson Gibbet</Source>
+      <Dest>багровая Виселица</Dest>
+    </String>
+    <String List="0" sID="004785">
+      <EDID>FloraBiomeHills08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004786" Partial="1">
+      <EDID>FloraBiomeHills08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Red Latticebulb</Source>
+      <Dest>красный Решетчатый лук</Dest>
+    </String>
+    <String List="0" sID="004787" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Duster Shrub</Source>
+      <Dest>кустарник Пыльник</Dest>
+    </String>
+    <String List="0" sID="004788">
+      <EDID>FloraBiomeVolcanicWorn06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004789">
+      <EDID>FloraBiomeVolcanicWorn07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00478A" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Desiccated Yarberry</Source>
+      <Dest>высохшая ягода</Dest>
+    </String>
+    <String List="0" sID="00478B" Partial="1">
+      <EDID>FloraBiomeHills09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Scarlet Hillfrond</Source>
+      <Dest>алый Холмовой папоротник</Dest>
+    </String>
+    <String List="0" sID="00478C">
+      <EDID>FloraBiomeHills09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00478D">
+      <EDID>FloraBiomeHills10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00478E" Partial="1">
+      <EDID>FloraBiomeHills10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Warren Nettle</Source>
+      <Dest>крапива Кроличья </Dest>
+    </String>
+    <String List="0" sID="00478F" Partial="1">
+      <EDID>FloraBiomeMountains06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mountain Silkweed</Source>
+      <Dest>ватчоник Горный</Dest>
+    </String>
+    <String List="0" sID="004790">
+      <EDID>FloraBiomeMountains06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004791" Partial="1">
+      <EDID>FloraBiomeMountains07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Nebula Vine</Source>
+      <Dest>лоза Туманная </Dest>
+    </String>
+    <String List="0" sID="004792">
+      <EDID>FloraBiomeMountains07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004793">
+      <EDID>FloraBiomeMountains08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004794" Partial="1">
+      <EDID>FloraBiomeMountains08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Cliffberry</Source>
+      <Dest>скальная ягода</Dest>
+    </String>
+    <String List="0" sID="004795" Partial="1">
+      <EDID>FloraBiomeMountains10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aurora Palm</Source>
+      <Dest>пальма Авроры</Dest>
+    </String>
+    <String List="0" sID="004796">
+      <EDID>FloraBiomeMountains10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004797">
+      <EDID>FloraBiomeMountains09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="004798" Partial="1">
+      <EDID>FloraBiomeMountains09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Crag Root</Source>
+      <Dest>утесный корень</Dest>
+    </String>
+    <String List="0" sID="004799" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Blood Palm</Source>
+      <Dest>пальма Кровавая</Dest>
+    </String>
+    <String List="0" sID="00479A">
+      <EDID>FloraBiomeVolcanicWorn08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00479B" Partial="1">
+      <EDID>FloraBiomeVolcanicRough07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Leaning Fireleaf</Source>
+      <Dest>склонившейся Огнелист</Dest>
+    </String>
+    <String List="0" sID="00479C">
+      <EDID>FloraBiomeVolcanicRough07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00479D" Partial="1">
+      <EDID>FloraBiomeVolcanicRough08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Crater Weed</Source>
+      <Dest>кратерная трава</Dest>
+    </String>
+    <String List="0" sID="00479E">
+      <EDID>FloraBiomeVolcanicRough08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="00479F" Partial="1">
+      <EDID>FloraBiomeVolcanicWorn09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Dappled Ash Bloom</Source>
+      <Dest>пестрый цветок ясеня</Dest>
+    </String>
+    <String List="0" sID="0047A0">
+      <EDID>FloraBiomeVolcanicWorn09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047A1" Partial="1">
+      <EDID>FloraBiomeVolcanicRough09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Kingshead Bugloss</Source>
+      <Dest>голубика Королевская </Dest>
+    </String>
+    <String List="0" sID="0047A2">
+      <EDID>FloraBiomeVolcanicRough09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047A3">
+      <EDID>FloraBiomeVolcanicRough10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047A4" Partial="1">
+      <EDID>FloraBiomeVolcanicRough10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Jealous Heart Vine</Source>
+      <Dest>лоза Ревнивого сердца</Dest>
+    </String>
+    <String List="0" sID="0047A5" Partial="1">
+      <EDID>FloraBiomeSavanna06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Starpod Silkweed</Source>
+      <Dest>ваточник звездчатый</Dest>
+    </String>
+    <String List="0" sID="0047A6">
+      <EDID>FloraBiomeSavanna06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047A7" Partial="1">
+      <EDID>FloraBiomeSavanna07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Satellite Ghostvine</Source>
+      <Dest>спутниковая Призрачная лоза</Dest>
+    </String>
+    <String List="0" sID="0047A8">
+      <EDID>FloraBiomeSavanna07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047A9" Partial="1">
+      <EDID>FloraBiomeSavanna08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spitting Goatweed</Source>
+      <Dest>козлятник Плюгавый</Dest>
+    </String>
+    <String List="0" sID="0047AA">
+      <EDID>FloraBiomeSavanna08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047AB" Partial="1">
+      <EDID>FloraBiomeSavanna09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fallen Star Palm</Source>
+      <Dest>пальма Падшая звезда</Dest>
+    </String>
+    <String List="0" sID="0047AC">
+      <EDID>FloraBiomeSavanna09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047AD" Partial="1">
+      <EDID>FloraBiomeSavanna10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Twilight Cradleleaf</Source>
+      <Dest>лист Сумеречной колыбели</Dest>
+    </String>
+    <String List="0" sID="0047AE">
+      <EDID>FloraBiomeSavanna10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047AF" Partial="1">
+      <EDID>FFCydoniaZ07_MineralDepositHeartOfMarsTitanium</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Heart Of Mars (Titanium Deposit)</Source>
+      <Dest>сердце Марса (залежи титана)</Dest>
+    </String>
+    <String List="0" sID="0047B0">
+      <EDID>FFCydoniaZ07_MineralDepositHeartOfMarsTitanium</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047B2">
+      <EDID>FloraBiomeVolcanicRough06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0047B3" Partial="1">
+      <EDID>FloraBiomeVolcanicRough06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Creeping Twin Shrub</Source>
+      <Dest>ползучий Близнецовый кустарник</Dest>
+    </String>
+    <String List="0" sID="006D07">
+      <EDID>FloraBiomeCratered05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D08" Partial="1">
+      <EDID>FloraBiomeCratered05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bitter Bramble</Source>
+      <Dest>горькая ежевика</Dest>
+    </String>
+    <String List="0" sID="006D09">
+      <EDID>FloraBiomeCratered04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D0A" Partial="1">
+      <EDID>FloraBiomeCratered04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mimic Pokeweed</Source>
+      <Dest>лаконос Мимик</Dest>
+    </String>
+    <String List="0" sID="006D0B">
+      <EDID>FloraBiomeCratered03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D0C" Partial="1">
+      <EDID>FloraBiomeCratered03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Phoenix Briar</Source>
+      <Dest>кустарник Феникс</Dest>
+    </String>
+    <String List="0" sID="006D0D">
+      <EDID>FloraBiomeCratered02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D0E" Partial="1">
+      <EDID>FloraBiomeCratered02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Dovefoot Pedestal</Source>
+      <Dest>пьедестал Голубиная лапка</Dest>
+    </String>
+    <String List="0" sID="006D0F">
+      <EDID>FloraBiomeArchipelago02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D10" Partial="1">
+      <EDID>FloraBiomeArchipelago02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Flame Vine</Source>
+      <Dest>пламенная лоза</Dest>
+    </String>
+    <String List="0" sID="006D11">
+      <EDID>FloraBiomeOcean05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D12" Partial="1">
+      <EDID>FloraBiomeOcean05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spiny Seagourd</Source>
+      <Dest>колючая Морская тыква</Dest>
+    </String>
+    <String List="0" sID="006D13">
+      <EDID>FloraBiomeOcean04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D14" Partial="1">
+      <EDID>FloraBiomeOcean04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Kraken Stalk</Source>
+      <Dest>стебель Кракена</Dest>
+    </String>
+    <String List="0" sID="006D15">
+      <EDID>FloraBiomeOcean03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D16" Partial="1">
+      <EDID>FloraBiomeOcean03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aquatic Snake Root</Source>
+      <Dest>корень Водной змеи </Dest>
+    </String>
+    <String List="0" sID="006D17">
+      <EDID>FloraBiomeOcean02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D18" Partial="1">
+      <EDID>FloraBiomeOcean02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spined Seasceptre</Source>
+      <Dest>шипастый Морской жезл</Dest>
+    </String>
+    <String List="0" sID="006D19">
+      <EDID>FloraMaizeCrop03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D1A" Partial="1">
+      <EDID>FloraMaizeCrop03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Metamaize</Source>
+      <Dest>мета-маис</Dest>
+    </String>
+    <String List="0" sID="006D1B">
+      <EDID>FloraBiomeCratered07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D1C" Partial="1">
+      <EDID>FloraBiomeCratered07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Blistered Hornbulb</Source>
+      <Dest>пузырчатая Роговая луковица</Dest>
+    </String>
+    <String List="0" sID="006D1D">
+      <EDID>FloraBiomeForestTropical05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D1E" Partial="1">
+      <EDID>FloraBiomeForestTropical05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Lattice leaf</Source>
+      <Dest>решетчатый лист</Dest>
+    </String>
+    <String List="0" sID="006D1F">
+      <EDID>FloraBiomeForestTropical04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D20" Partial="1">
+      <EDID>FloraBiomeForestTropical04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Festering Junglecreep</Source>
+      <Dest>гниющий ползучие джунгли</Dest>
+    </String>
+    <String List="0" sID="006D21">
+      <EDID>FloraBiomeForestTropical03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D22" Partial="1">
+      <EDID>FloraBiomeForestTropical03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweet Goldenglow</Source>
+      <Dest>злотосвет Сладкий</Dest>
+    </String>
+    <String List="0" sID="006D23">
+      <EDID>FloraBiomeForestTropical02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D24" Partial="1">
+      <EDID>FloraBiomeForestTropical02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Apollo Fireleaf</Source>
+      <Dest>огнелистный Аполлон </Dest>
+    </String>
+    <String List="0" sID="006D25">
+      <EDID>FloraBiomeCanyons03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D26" Partial="1">
+      <EDID>FloraBiomeCanyons03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Rotorstalk</Source>
+      <Dest>крутящийся стебель</Dest>
+    </String>
+    <String List="0" sID="006D27">
+      <EDID>FloraBiomeForestDeciduous08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D28" Partial="1">
+      <EDID>FloraBiomeForestDeciduous08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Nebula weed</Source>
+      <Dest>трава Туманная </Dest>
+    </String>
+    <String List="0" sID="006D29">
+      <EDID>FloraBiomeForestDeciduous07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D2A" Partial="1">
+      <EDID>FloraBiomeForestDeciduous07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spirit Laurel</Source>
+      <Dest>лавр Душистый</Dest>
+    </String>
+    <String List="0" sID="006D2B">
+      <EDID>FloraBiomeForestDeciduous06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D2C" Partial="1">
+      <EDID>FloraBiomeForestDeciduous06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Explorer&apos;s Coleus</Source>
+      <Dest>колей Исследовательский</Dest>
+    </String>
+    <String List="0" sID="006D2D">
+      <EDID>FloraBiomeForestDeciduous05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D2E" Partial="1">
+      <EDID>FloraBiomeForestDeciduous05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Jagged Heart leaf</Source>
+      <Dest>лист Зазубренного сердца</Dest>
+    </String>
+    <String List="0" sID="006D2F">
+      <EDID>FloraBiomeArchipelago01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D30" Partial="1">
+      <EDID>FloraBiomeArchipelago01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Weeping Fireleaf</Source>
+      <Dest>огнелист Плакуччий </Dest>
+    </String>
+    <String List="0" sID="006D31">
+      <EDID>FloraBiomeCratered06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D32" Partial="1">
+      <EDID>FloraBiomeCratered06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Altar Clusterpod</Source>
+      <Dest>кластерпод Алтарный </Dest>
+    </String>
+    <String List="0" sID="006D33">
+      <EDID>FloraBiomeForestConiferous10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D34" Partial="1">
+      <EDID>FloraBiomeForestConiferous10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Terra Root</Source>
+      <Dest>земляной корень</Dest>
+    </String>
+    <String List="0" sID="006D35">
+      <EDID>FloraBiomeCanyons07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D36" Partial="1">
+      <EDID>FloraBiomeCanyons07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Red Stinging Nettle</Source>
+      <Dest>крапива Красножгучая</Dest>
+    </String>
+    <String List="0" sID="006D37">
+      <EDID>FloraBiomeCanyons06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D38" Partial="1">
+      <EDID>FloraBiomeCanyons06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bitter Orange Root</Source>
+      <Dest>корень Горького апельсина</Dest>
+    </String>
+    <String List="0" sID="006D39">
+      <EDID>FloraBiomeCanyons05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D3A" Partial="1">
+      <EDID>FloraBiomeCanyons05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Titan Coleus</Source>
+      <Dest>титан Колеус</Dest>
+    </String>
+    <String List="0" sID="006D3B">
+      <EDID>FloraBiomeCanyons04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D3C" Partial="1">
+      <EDID>FloraBiomeCanyons04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Arc Root</Source>
+      <Dest>корень Арки</Dest>
+    </String>
+    <String List="0" sID="006D3D">
+      <EDID>FloraBiomeForestDeciduous09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D3E" Partial="1">
+      <EDID>FloraBiomeForestDeciduous09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spitting Pokeweed</Source>
+      <Dest>лаконос Плюющийся </Dest>
+    </String>
+    <String List="0" sID="006D3F">
+      <EDID>FloraBiomeCanyons02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D40">
+      <EDID>FloraBiomeCanyons02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bright Fire Reed</Source>
+      <Dest>тростник Ярко-огненный</Dest>
+    </String>
+    <String List="0" sID="006D41">
+      <EDID>FloraBiomeCanyons01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D42" Partial="1">
+      <EDID>FloraBiomeCanyons01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Canyon Rose</Source>
+      <Dest>каньонная Роза</Dest>
+    </String>
+    <String List="0" sID="006D43">
+      <EDID>FloraBiomeArchipelago10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D44" Partial="1">
+      <EDID>FloraBiomeArchipelago10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spike Spit Trap</Source>
+      <Dest>шипоплюйна Мухоловка</Dest>
+    </String>
+    <String List="0" sID="006D45">
+      <EDID>FloraBiomeArchipelago09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D46" Partial="1">
+      <EDID>FloraBiomeArchipelago09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caelus Pokeweed</Source>
+      <Dest>лаконос Небесный</Dest>
+    </String>
+    <String List="0" sID="006D47">
+      <EDID>FloraBiomeCanyons08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D48" Partial="1">
+      <EDID>FloraBiomeCanyons08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Starleaf</Source>
+      <Dest>Звездолист</Dest>
+    </String>
+    <String List="0" sID="006D49">
+      <EDID>FloraBiomeArchipelago07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D4A" Partial="1">
+      <EDID>FloraBiomeArchipelago07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Savage Woundwort</Source>
+      <Dest>пустырник Дикорастущий</Dest>
+    </String>
+    <String List="0" sID="006D4B">
+      <EDID>FloraBiomeArchipelago06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D4C" Partial="1">
+      <EDID>FloraBiomeArchipelago06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Velvet Bloom</Source>
+      <Dest>бархатный цветок</Dest>
+    </String>
+    <String List="0" sID="006D4D">
+      <EDID>FloraBiomeArchipelago05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D4E" Partial="1">
+      <EDID>FloraBiomeArchipelago05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweeping Silkweed</Source>
+      <Dest>ваточник Звездный</Dest>
+    </String>
+    <String List="0" sID="006D4F">
+      <EDID>FloraBiomeArchipelago04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D50" Partial="1">
+      <EDID>FloraBiomeArchipelago04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bellona Bush</Source>
+      <Dest>куст Беллоны</Dest>
+    </String>
+    <String List="0" sID="006D51">
+      <EDID>FloraBiomeArchipelago03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D52" Partial="1">
+      <EDID>FloraBiomeArchipelago03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Crag Root</Source>
+      <Dest>утесный корень</Dest>
+    </String>
+    <String List="0" sID="006D53">
+      <EDID>FloraBiomeCratered01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D54" Partial="1">
+      <EDID>FloraBiomeCratered01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Craterhorn Shrub</Source>
+      <Dest>кустарник Кратерный рог</Dest>
+    </String>
+    <String List="0" sID="006D55">
+      <EDID>FloraBiomeCratered10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D56" Partial="1">
+      <EDID>FloraBiomeCratered10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweet Wallflower</Source>
+      <Dest>сладкий Медонос</Dest>
+    </String>
+    <String List="0" sID="006D57">
+      <EDID>FloraBiomeCratered09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D58" Partial="1">
+      <EDID>FloraBiomeCratered09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aniline Blackweed</Source>
+      <Dest>черноплодный анилин </Dest>
+    </String>
+    <String List="0" sID="006D59">
+      <EDID>FloraBiomeCratered08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D5A" Partial="1">
+      <EDID>FloraBiomeCratered08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Haviva Vine</Source>
+      <Dest>лоза Хавивы</Dest>
+    </String>
+    <String List="0" sID="006D5B">
+      <EDID>FloraBiomeForestDeciduous04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D5C" Partial="1">
+      <EDID>FloraBiomeForestDeciduous04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Spiral Creeper</Source>
+      <Dest>плющ Спиральный</Dest>
+    </String>
+    <String List="0" sID="006D5D">
+      <EDID>FloraBiomeCanyons09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D5E" Partial="1">
+      <EDID>FloraBiomeCanyons09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Eurymedon Bulb</Source>
+      <Dest>луковица Эвримедона</Dest>
+    </String>
+    <String List="0" sID="006D5F">
+      <EDID>FloraBiomeWetlands05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D60" Partial="1">
+      <EDID>FloraBiomeWetlands05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Split Leaf Watercress</Source>
+      <Dest>раздельнолистный Водный кресс</Dest>
+    </String>
+    <String List="0" sID="006D61">
+      <EDID>FloraBiomeWetlands04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D62" Partial="1">
+      <EDID>FloraBiomeWetlands04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Gnaw Stalk</Source>
+      <Dest>грызущий стебель</Dest>
+    </String>
+    <String List="0" sID="006D63">
+      <EDID>FloraBiomeWetlands03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D64" Partial="1">
+      <EDID>FloraBiomeWetlands03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Rotting Stinkroot</Source>
+      <Dest>гниющий корнеплод</Dest>
+    </String>
+    <String List="0" sID="006D65">
+      <EDID>FloraBiomeWetlands02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D66" Partial="1">
+      <EDID>FloraBiomeWetlands02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Swamp Weed</Source>
+      <Dest>болотная трава</Dest>
+    </String>
+    <String List="0" sID="006D67">
+      <EDID>FloraNABriar01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D68" Partial="1">
+      <EDID>FloraNABriar01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Briar</Source>
+      <Dest>кустарник</Dest>
+    </String>
+    <String List="0" sID="006D69">
+      <EDID>FloraBiomeFrozen05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D6A" Partial="1">
+      <EDID>FloraBiomeFrozen05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Boreas Root</Source>
+      <Dest>корень Борея</Dest>
+    </String>
+    <String List="0" sID="006D6B">
+      <EDID>FloraBiomeFrozen04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D6C" Partial="1">
+      <EDID>FloraBiomeFrozen04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tufted Snow Willow</Source>
+      <Dest>пушистая Снежная ива</Dest>
+    </String>
+    <String List="0" sID="006D6D">
+      <EDID>FloraBiomeFrozen03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D6E" Partial="1">
+      <EDID>FloraBiomeFrozen03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Frost Reed</Source>
+      <Dest>тростник Морозный </Dest>
+    </String>
+    <String List="0" sID="006D6F">
+      <EDID>FloraBiomeFrozen02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D70" Partial="1">
+      <EDID>FloraBiomeFrozen02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Frigid Palm</Source>
+      <Dest>пальма Хладная </Dest>
+    </String>
+    <String List="0" sID="006D71">
+      <EDID>FloraBiomeFrozen01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D72" Partial="1">
+      <EDID>FloraBiomeFrozen01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sub-Zero Silkweed</Source>
+      <Dest>ваточник Хладостойкий</Dest>
+    </String>
+    <String List="0" sID="006D73">
+      <EDID>FloraBiomeCanyons10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D74" Partial="1">
+      <EDID>FloraBiomeCanyons10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ginger Cage Vine</Source>
+      <Dest>лоза Имбирная клетка</Dest>
+    </String>
+    <String List="0" sID="006D75">
+      <EDID>FloraBiomeForestConiferous09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D76" Partial="1">
+      <EDID>FloraBiomeForestConiferous09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Starburst Silkweed</Source>
+      <Dest>ваточник Звездчатый</Dest>
+    </String>
+    <String List="0" sID="006D77">
+      <EDID>FloraBiomeForestConiferous08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D78" Partial="1">
+      <EDID>FloraBiomeForestConiferous08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Glossy Stickweed</Source>
+      <Dest>глянцевый Липучник</Dest>
+    </String>
+    <String List="0" sID="006D79">
+      <EDID>FloraBiomeForestConiferous07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D7A" Partial="1">
+      <EDID>FloraBiomeForestConiferous07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Sweet Canis Vine</Source>
+      <Dest>лоза Милый песик</Dest>
+    </String>
+    <String List="0" sID="006D7B">
+      <EDID>FloraBiomeForestConiferous06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D7C" Partial="1">
+      <EDID>FloraBiomeForestConiferous06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Forest Wisp</Source>
+      <Dest>лесная Искра</Dest>
+    </String>
+    <String List="0" sID="006D7D">
+      <EDID>FloraBiomeTyrantHeart03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D7E" Partial="1">
+      <EDID>FloraBiomeTyrantHeart03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tyrant&apos;s Heart</Source>
+      <Dest>сердце Тирана</Dest>
+    </String>
+    <String List="0" sID="006D7F">
+      <EDID>FloraBiomeForestConiferous04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D80" Partial="1">
+      <EDID>FloraBiomeForestConiferous04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Laga Plant</Source>
+      <Dest>растение Лага</Dest>
+    </String>
+    <String List="0" sID="006D81">
+      <EDID>FloraBiomeForestConiferous03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D82" Partial="1">
+      <EDID>FloraBiomeForestConiferous03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Golden Creeper</Source>
+      <Dest>плющ Золотой </Dest>
+    </String>
+    <String List="0" sID="006D83">
+      <EDID>FloraBiomeForestConiferous02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D84" Partial="1">
+      <EDID>FloraBiomeForestConiferous02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Abyss Pine Seedling</Source>
+      <Dest>саженец Бездонной сосны </Dest>
+    </String>
+    <String List="0" sID="006D85">
+      <EDID>FloraBiomeForestConiferous01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D86">
+      <EDID>FloraBiomeForestConiferous01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Broadleaf Rose</Source>
+      <Dest>роза Широколистная</Dest>
+    </String>
+    <String List="0" sID="006D87">
+      <EDID>FloraBiomeArchipelago08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D88" Partial="1">
+      <EDID>FloraBiomeArchipelago08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Aruna Goldenglow</Source>
+      <Dest>златосвет Аруна </Dest>
+    </String>
+    <String List="0" sID="006D89">
+      <EDID>FloraBloodStoneTall</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D8A" Partial="1">
+      <EDID>FloraBloodStoneTall</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Blood Stone</Source>
+      <Dest>кровавый камень</Dest>
+    </String>
+    <String List="0" sID="006D8D">
+      <EDID>FloraBloodStoneFlat</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D8E" Partial="1">
+      <EDID>FloraBloodStoneFlat</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Blood Stone</Source>
+      <Dest>кровавый камень</Dest>
+    </String>
+    <String List="0" sID="006D8F">
+      <EDID>FFNewHomeSteadR04_MineralDepositCommonWater02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D90" Partial="1">
+      <EDID>FFNewHomeSteadR04_MineralDepositCommonWater02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ice Deposit</Source>
+      <Dest>залежи льда</Dest>
+    </String>
+    <String List="0" sID="006D91">
+      <EDID>AkilaLife05_MineralDepositCommonIron01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D92" Partial="1">
+      <EDID>AkilaLife05_MineralDepositCommonIron01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Hard Rock</Source>
+      <Dest>твердая скала</Dest>
+    </String>
+    <String List="0" sID="006D93">
+      <EDID>MineralDepositUncommonBeryllium01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D94" Partial="1">
+      <EDID>MineralDepositUncommonBeryllium01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Beryllium Deposit</Source>
+      <Dest>залежи бериллия</Dest>
+    </String>
+    <String List="0" sID="006D95">
+      <EDID>FloraBiomeForestConiferous05</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D96" Partial="1">
+      <EDID>FloraBiomeForestConiferous05</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Christina Bloom</Source>
+      <Dest>цветок Кристины</Dest>
+    </String>
+    <String List="0" sID="006D97">
+      <EDID>MineralDepositUniqueCaelumite01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D98" Partial="1">
+      <EDID>MineralDepositUniqueCaelumite01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caelumite Deposit</Source>
+      <Dest>залежи цейлумита</Dest>
+    </String>
+    <String List="0" sID="006D99">
+      <EDID>MineralDepositUniqueCaelumite02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D9A" Partial="1">
+      <EDID>MineralDepositUniqueCaelumite02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caelumite Deposit</Source>
+      <Dest>залежи цейлумита</Dest>
+    </String>
+    <String List="0" sID="006D9B">
+      <EDID>MineralDepositUniqueCaelumite03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D9C" Partial="1">
+      <EDID>MineralDepositUniqueCaelumite03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caelumite Deposit</Source>
+      <Dest>залежи цейлумита</Dest>
+    </String>
+    <String List="0" sID="006D9D">
+      <EDID>MineralDepositUniqueCaelumite04</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006D9E" Partial="1">
+      <EDID>MineralDepositUniqueCaelumite04</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caelumite Deposit</Source>
+      <Dest>залежи цейлумита</Dest>
+    </String>
+    <String List="0" sID="006D9F">
+      <EDID>FloraBiomeWetlands06</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DA0" Partial="1">
+      <EDID>FloraBiomeWetlands06</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Bog Bloom</Source>
+      <Dest>болотный цветок</Dest>
+    </String>
+    <String List="0" sID="006DA1">
+      <EDID>FloraBiomeOcean01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DA2" Partial="1">
+      <EDID>FloraBiomeOcean01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ramshead Aquastalk</Source>
+      <Dest> водный Баранеголов</Dest>
+    </String>
+    <String List="0" sID="006DA3">
+      <EDID>FloraMaizeCrop02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DA4" Partial="1">
+      <EDID>FloraMaizeCrop02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Metamaize</Source>
+      <Dest>мета-маис</Dest>
+    </String>
+    <String List="0" sID="006DA5">
+      <EDID>FloraAkilaWheat03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DA6" Partial="1">
+      <EDID>FloraAkilaWheat03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Akila Wheat</Source>
+      <Dest>пшеница Акила</Dest>
+    </String>
+    <String List="0" sID="006DA7">
+      <EDID>FloraMaizeCrop01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DA8" Partial="1">
+      <EDID>FloraMaizeCrop01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Metamaize</Source>
+      <Dest>мета-маис</Dest>
+    </String>
+    <String List="0" sID="006DA9">
+      <EDID>FloraAkilaWheat02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DAA" Partial="1">
+      <EDID>FloraAkilaWheat02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Akila Wheat</Source>
+      <Dest>пшеница Акила</Dest>
+    </String>
+    <String List="0" sID="006DAB">
+      <EDID>FloraAkilaWheat01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DAC" Partial="1">
+      <EDID>FloraAkilaWheat01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Akila Wheat</Source>
+      <Dest>пшеница Акила</Dest>
+    </String>
+    <String List="0" sID="006DAD">
+      <EDID>FloraBiomeWetlands01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DAE" Partial="1">
+      <EDID>FloraBiomeWetlands01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Swamp Pedestal</Source>
+      <Dest>болотный Пьедестал</Dest>
+    </String>
+    <String List="0" sID="006DAF">
+      <EDID>FloraBiomeWetlands10</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DB0" Partial="1">
+      <EDID>FloraBiomeWetlands10</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mire Root</Source>
+      <Dest>корень Трясинный</Dest>
+    </String>
+    <String List="0" sID="006DB1">
+      <EDID>FloraBiomeWetlands09</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DB2" Partial="1">
+      <EDID>FloraBiomeWetlands09</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Swamp Bottle Root</Source>
+      <Dest>корень Болотной бутылки</Dest>
+    </String>
+    <String List="0" sID="006DB3">
+      <EDID>FloraBiomeWetlands08</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DB4" Partial="1">
+      <EDID>FloraBiomeWetlands08</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Hardy Woundwort</Source>
+      <Dest>пустырник Жесткий</Dest>
+    </String>
+    <String List="0" sID="006DB5">
+      <EDID>FloraBiomeWetlands07</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="006DB6" Partial="1">
+      <EDID>FloraBiomeWetlands07</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Hunter&apos;s Stalk</Source>
+      <Dest>стебель Охотника</Dest>
+    </String>
+    <String List="0" sID="02E65D" Partial="1">
+      <EDID>Loot_CredStick_Small</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Take</Source>
+      <Dest>Взять</Dest>
+    </String>
+    <String List="0" sID="02E65E" Partial="1">
+      <EDID>Loot_CredStick_Small</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>CredStik</Source>
+      <Dest>кредиты</Dest>
+    </String>
+    <String List="0" sID="02E65F" Partial="1">
+      <EDID>Loot_CredStick_Common</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Take</Source>
+      <Dest>Взять</Dest>
+    </String>
+    <String List="0" sID="02E660" Partial="1">
+      <EDID>Loot_CredStick_Common</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>CredStik</Source>
+      <Dest>кредиты</Dest>
+    </String>
+    <String List="0" sID="02E661" Partial="1">
+      <EDID>Loot_CredStick_Rare</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Take</Source>
+      <Dest>Взять</Dest>
+    </String>
+    <String List="0" sID="02E662" Partial="1">
+      <EDID>Loot_CredStick_Rare</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>CredStik</Source>
+      <Dest>кредиты</Dest>
+    </String>
+    <String List="0" sID="0313B2">
+      <EDID>MineralDepositCommonWaterLiquid01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0313B3" Partial="1">
+      <EDID>MineralDepositCommonWaterLiquid01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Water Spring</Source>
+      <Dest>Родник</Dest>
+    </String>
+    <String List="0" sID="031977">
+      <EDID>FloraBiomeTyrantHeart02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="031978" Partial="1">
+      <EDID>FloraBiomeTyrantHeart02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tyrant&apos;s Heart</Source>
+      <Dest>сердце Тирана</Dest>
+    </String>
+    <String List="0" sID="031979">
+      <EDID>FloraBiomeTyrantHeart01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03197A" Partial="1">
+      <EDID>FloraBiomeTyrantHeart01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tyrant&apos;s Heart</Source>
+      <Dest>сердце Тирана</Dest>
+    </String>
+    <String List="0" sID="03304C">
+      <EDID>MineralDepositExoticCaesium01_Liquid</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03304D" Partial="1">
+      <EDID>MineralDepositExoticCaesium01_Liquid</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caesium Seep</Source>
+      <Dest>выделение цезия</Dest>
+    </String>
+    <String List="0" sID="033056">
+      <EDID>MineralDepositUncommonAlkanes01_G</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033057" Partial="1">
+      <EDID>MineralDepositUncommonAlkanes01_G</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Alkanes Vent</Source>
+      <Dest>алкановое газорождение</Dest>
+    </String>
+    <String List="0" sID="0330D0">
+      <EDID>MineralDepositCommonHeliumSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330D1" Partial="1">
+      <EDID>MineralDepositCommonHeliumSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Helium-3 Vent</Source>
+      <Dest>газорождение гелия-3</Dest>
+    </String>
+    <String List="0" sID="0330D2">
+      <EDID>MineralDepositCommonHeliumSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330D3" Partial="1">
+      <EDID>MineralDepositCommonHeliumSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Helium-3 Vent</Source>
+      <Dest>газорождение гелия-3</Dest>
+    </String>
+    <String List="0" sID="0330D4">
+      <EDID>MineralDepositCommonHeliumSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330D5" Partial="1">
+      <EDID>MineralDepositCommonHeliumSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Helium-3 Vent</Source>
+      <Dest>газорождение гелия-3</Dest>
+    </String>
+    <String List="0" sID="0330D6">
+      <EDID>MineralDepositCommonChlorineSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330D7" Partial="1">
+      <EDID>MineralDepositCommonChlorineSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorine Vent</Source>
+      <Dest>газорожденеи хлора</Dest>
+    </String>
+    <String List="0" sID="0330D8">
+      <EDID>MineralDepositCommonChlorineSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330D9" Partial="1">
+      <EDID>MineralDepositCommonChlorineSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorine Vent</Source>
+      <Dest>газорожденеи хлора</Dest>
+    </String>
+    <String List="0" sID="0330DA">
+      <EDID>MineralDepositCommonChlorineSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330DB" Partial="1">
+      <EDID>MineralDepositCommonChlorineSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorine Vent</Source>
+      <Dest>газорожденеи хлора</Dest>
+    </String>
+    <String List="0" sID="0330DC">
+      <EDID>MineralDepositCommonArgonSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330DD" Partial="1">
+      <EDID>MineralDepositCommonArgonSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Argon Vent</Source>
+      <Dest>газорождение аргона</Dest>
+    </String>
+    <String List="0" sID="0330DE">
+      <EDID>MineralDepositExoticXenonSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330DF" Partial="1">
+      <EDID>MineralDepositExoticXenonSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Xenon Vent</Source>
+      <Dest>газорожденеи ксенона</Dest>
+    </String>
+    <String List="0" sID="0330E0">
+      <EDID>MineralDepositCommonArgonSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330E1" Partial="1">
+      <EDID>MineralDepositCommonArgonSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Argon Vent</Source>
+      <Dest>газорождение аргона</Dest>
+    </String>
+    <String List="0" sID="0330E2">
+      <EDID>MineralDepositRareTetrafluorideSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330E3" Partial="1">
+      <EDID>MineralDepositRareTetrafluorideSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газообразование тетрафторида</Dest>
+    </String>
+    <String List="0" sID="0330E4">
+      <EDID>MineralDepositRareMercurySmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330E5" Partial="1">
+      <EDID>MineralDepositRareMercurySmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mercury Seep</Source>
+      <Dest>выделенеи ртути</Dest>
+    </String>
+    <String List="0" sID="0330E6">
+      <EDID>MineralDepositRareMercurySmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330E7" Partial="1">
+      <EDID>MineralDepositRareMercurySmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mercury Seep</Source>
+      <Dest>выделенеи ртути</Dest>
+    </String>
+    <String List="0" sID="0330E8">
+      <EDID>MineralDepositRareMercurySmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330E9" Partial="1">
+      <EDID>MineralDepositRareMercurySmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Mercury Seep</Source>
+      <Dest>выделенеи ртути</Dest>
+    </String>
+    <String List="0" sID="0330EA">
+      <EDID>MineralDepositRareCarboxylicAcidsSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330EB" Partial="1">
+      <EDID>MineralDepositRareCarboxylicAcidsSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carboxylic Acids Seep</Source>
+      <Dest>выделение карбоновых кислот</Dest>
+    </String>
+    <String List="0" sID="0330EC">
+      <EDID>MineralDepositRareCarboxylicAcidsSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330ED" Partial="1">
+      <EDID>MineralDepositRareCarboxylicAcidsSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carboxylic Acids Seep</Source>
+      <Dest>выделение карбоновых кислот</Dest>
+    </String>
+    <String List="0" sID="0330EE">
+      <EDID>MineralDepositRareCarboxylicAcidsSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330EF" Partial="1">
+      <EDID>MineralDepositRareCarboxylicAcidsSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Carboxylic Acids Seep</Source>
+      <Dest>выделение карбоновых кислот</Dest>
+    </String>
+    <String List="0" sID="0330F0">
+      <EDID>MineralDepositExoticXenonSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330F1" Partial="1">
+      <EDID>MineralDepositExoticXenonSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Xenon Vent</Source>
+      <Dest>газорожденеи ксенона</Dest>
+    </String>
+    <String List="0" sID="0330F2">
+      <EDID>MineralDepositExoticXenonSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330F3" Partial="1">
+      <EDID>MineralDepositExoticXenonSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Xenon Vent</Source>
+      <Dest>газорожденеи ксенона</Dest>
+    </String>
+    <String List="0" sID="0330F4">
+      <EDID>MineralDepositCommonArgonSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330F5" Partial="1">
+      <EDID>MineralDepositCommonArgonSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Argon Vent</Source>
+      <Dest>газорождение аргона</Dest>
+    </String>
+    <String List="0" sID="0330F6">
+      <EDID>MineralDepositExoticNeonSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330F7">
+      <EDID>MineralDepositExoticNeonSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neon Vent</Source>
+      <Dest>газорождение неона</Dest>
+    </String>
+    <String List="0" sID="0330F8">
+      <EDID>MineralDepositExoticNeonSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330F9">
+      <EDID>MineralDepositExoticNeonSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neon Vent</Source>
+      <Dest>газорождение неона</Dest>
+    </String>
+    <String List="0" sID="0330FA">
+      <EDID>MineralDepositExoticNeonSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330FB">
+      <EDID>MineralDepositExoticNeonSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Neon Vent</Source>
+      <Dest>газорождение неона</Dest>
+    </String>
+    <String List="0" sID="0330FC">
+      <EDID>MineralDepositExoticIonicLiquidsSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330FD" Partial="1">
+      <EDID>MineralDepositExoticIonicLiquidsSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ionic Liquids Seep</Source>
+      <Dest>выделение ионных жидкостей</Dest>
+    </String>
+    <String List="0" sID="0330FE">
+      <EDID>MineralDepositExoticIonicLiquidsSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="0330FF" Partial="1">
+      <EDID>MineralDepositExoticIonicLiquidsSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ionic Liquids Seep</Source>
+      <Dest>выделение ионных жидкостей</Dest>
+    </String>
+    <String List="0" sID="033100">
+      <EDID>MineralDepositExoticIonicLiquidsSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033101" Partial="1">
+      <EDID>MineralDepositExoticIonicLiquidsSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Ionic Liquids Seep</Source>
+      <Dest>выделение ионных жидкостей</Dest>
+    </String>
+    <String List="0" sID="033102">
+      <EDID>MineralDepositUncommonChlorosilanesSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033103" Partial="1">
+      <EDID>MineralDepositUncommonChlorosilanesSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorosilanes Seep</Source>
+      <Dest>выделение хлорсиланов</Dest>
+    </String>
+    <String List="0" sID="033104">
+      <EDID>MineralDepositExoticCaesiumSmall01_Liquid</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033105" Partial="1">
+      <EDID>MineralDepositExoticCaesiumSmall01_Liquid</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Caesium Seep</Source>
+      <Dest>выделение цезия</Dest>
+    </String>
+    <String List="0" sID="033106">
+      <EDID>MineralDepositUniqueVerylSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033107" Partial="1">
+      <EDID>MineralDepositUniqueVerylSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Veryl Vent</Source>
+      <Dest>газорожденеи верилия</Dest>
+    </String>
+    <String List="0" sID="033108">
+      <EDID>MineralDepositUniqueTasineSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033109" Partial="1">
+      <EDID>MineralDepositUniqueTasineSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tasine Seep</Source>
+      <Dest>выделение тасина</Dest>
+    </String>
+    <String List="0" sID="03310A">
+      <EDID>MineralDepositUncommonFluorineSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03310B" Partial="1">
+      <EDID>MineralDepositUncommonFluorineSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fluorine Vent</Source>
+      <Dest>газорождение фтора</Dest>
+    </String>
+    <String List="0" sID="03310C">
+      <EDID>MineralDepositUncommonFluorineSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03310D" Partial="1">
+      <EDID>MineralDepositUncommonFluorineSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fluorine Vent</Source>
+      <Dest>газорождение фтора</Dest>
+    </String>
+    <String List="0" sID="03310E">
+      <EDID>MineralDepositUncommonFluorineSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03310F" Partial="1">
+      <EDID>MineralDepositUncommonFluorineSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Fluorine Vent</Source>
+      <Dest>газорождение фтора</Dest>
+    </String>
+    <String List="0" sID="033110">
+      <EDID>MineralDepositUncommonChlorosilanesSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033111" Partial="1">
+      <EDID>MineralDepositUncommonChlorosilanesSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorosilanes Seep</Source>
+      <Dest>выделение хлорсиланов</Dest>
+    </String>
+    <String List="0" sID="033112">
+      <EDID>MineralDepositCommonWaterLiquidSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033113" Partial="1">
+      <EDID>MineralDepositCommonWaterLiquidSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Water Spring</Source>
+      <Dest>Родник</Dest>
+    </String>
+    <String List="0" sID="033114">
+      <EDID>MineralDepositUncommonChlorosilanesSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033115" Partial="1">
+      <EDID>MineralDepositUncommonChlorosilanesSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Chlorosilanes Seep</Source>
+      <Dest>выделение хлорсиланов</Dest>
+    </String>
+    <String List="0" sID="033116">
+      <EDID>MineralDepositUncommonBenzeneSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033117" Partial="1">
+      <EDID>MineralDepositUncommonBenzeneSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Benzenes Vent</Source>
+      <Dest>газорождение бензола</Dest>
+    </String>
+    <String List="0" sID="033118">
+      <EDID>MineralDepositUncommonBenzeneSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033119" Partial="1">
+      <EDID>MineralDepositUncommonBenzeneSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Benzenes Vent</Source>
+      <Dest>газорождение бензола</Dest>
+    </String>
+    <String List="0" sID="03311A">
+      <EDID>MineralDepositUncommonBenzeneSmall01</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03311B" Partial="1">
+      <EDID>MineralDepositUncommonBenzeneSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Benzenes Vent</Source>
+      <Dest>газорождение бензола</Dest>
+    </String>
+    <String List="0" sID="03311C">
+      <EDID>MineralDepositUncommonAlkanesSmall01_G</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03311D" Partial="1">
+      <EDID>MineralDepositUncommonAlkanesSmall01_G</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Alkanes Vent</Source>
+      <Dest>алкановое газорождение</Dest>
+    </String>
+    <String List="0" sID="03311E">
+      <EDID>MineralDepositRareTetrafluorideSmall03</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="03311F" Partial="1">
+      <EDID>MineralDepositRareTetrafluorideSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газообразование тетрафторида</Dest>
+    </String>
+    <String List="0" sID="033120">
+      <EDID>MineralDepositRareTetrafluorideSmall02</EDID>
+      <REC>FLOR:ATTX</REC>
+      <Source>Harvest</Source>
+      <Dest>Собрать</Dest>
+    </String>
+    <String List="0" sID="033121" Partial="1">
+      <EDID>MineralDepositRareTetrafluorideSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газообразование тетрафторида</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
