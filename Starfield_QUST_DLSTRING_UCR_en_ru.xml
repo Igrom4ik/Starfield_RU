@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="1" sID="00367B">
+      <EDID>UCR05_TargetSlate</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>ASDKJN:kmda;klAMsdlknAsl;kndAskldn
+_(*9uK#@4lkjma)(DUjKFM0-I_)I#@-[
+NJnlkjsand9i-0I*pojADKMsl;kmdA:km
+Na;osikjndpoi9u34-9i832-4[ikml;dkfms
+)(I[09jOANSd0[9u09[34ui5rpjkamsdpo
+J)(j0p9u34nklknm&apos;p[ka-8-09asjl;pj549
+)(Uoij3k;4m23lkmlkwnfl;wknflkn;akjas
+
+&lt;i&gt;[Hidden among pages of garbage text are a set of coordinates, a description, and a pair of initials: VV.]&lt;/i&gt;</Source>
+      <Dest>ASDKJN:kmda;klAMsdlknAsl;kndAskldn
+_(*9uK#@4lkjma)(DUjKFM0-I_)I#@-[
+NJnlkjsand9i-0I*pojADKMsl;kmdA:km
+Na;osikjndpoi9u34-9i832-4[ikml;dkfms
+)(I[09jOANSd0[9u09[34ui5rpjkamsdpo
+J)(j0p9u34nklknm&apos;p[ka-8-09asjl;pj549
+)(Uoij3k;4m23lkmlkwnfl;wknflkn;akjas
+
+&lt;i&gt;[Среди страниц мусорного текста скрыты набор координат, описание и пара инициалов: VV.]&lt;/i&gt;</Dest>
+    </String>
+    <String List="1" sID="02D231" Partial="1">
+      <EDID>UCR04_Dupe00</EDID>
+      <REC id="2" idMax="2">QUST:CNAM</REC>
+      <Source>I handed over the samples to Percival and got my payment. If I&apos;m looking to collect more, I&apos;m sure he&apos;d be willing to get me the specifics.</Source>
+      <Dest>Образцы переданы Персивалю и мною получена оплата. Если мне потребуется собрать ещё образцов, он готов предоставить мне все необходимое.</Dest>
+    </String>
+    <String List="1" sID="02D232">
+      <EDID>UCR04</EDID>
+      <REC id="1" idMax="2">QUST:CNAM</REC>
+      <Source>Samples collected. Now I just need to return them to Percival at TMD HQ on Mars.</Source>
+      <Dest>Образцы собраны. Теперь их нужно передать Персивалю в штаб-квартиру ДКТ на Марсе.</Dest>
+    </String>
+    <String List="1" sID="02D233" Partial="1">
+      <EDID>UCR04</EDID>
+      <REC id="0" idMax="2">QUST:CNAM</REC>
+      <Source>I&apos;ve got my targets. Time to head to &lt;Alias=PlanetLocation&gt; and harvest those samples.</Source>
+      <Dest>У меня есть цели. Пора отправиться в &lt;Alias=PlanetLocation&gt; и собрать образцы.</Dest>
+    </String>
+    <String List="1" sID="02D897">
+      <EDID>UCR03</EDID>
+      <REC id="1" idMax="1">QUST:CNAM</REC>
+      <Source>All bogeys down. These UC skies are safe. I should pay Commander Tuala a visit if I&apos;m looking to take down any more.</Source>
+      <Dest>Все цели сбиты. Эти небеса ОК безопасны. Мне следует навестить командира Туала, если я хочу посбивать еще больше врагов.</Dest>
+    </String>
+    <String List="1" sID="02D898">
+      <EDID>UCR03</EDID>
+      <REC id="0" idMax="1">QUST:CNAM</REC>
+      <Source>Commander Tuala&apos;s directed me to pay a visit to &lt;Alias=TargetPlanet&gt; and deal with any hostile ships in the area.</Source>
+      <Dest>Командир Туала поручил мне нанести визит на &lt;Alias=TargetPlanet&gt; и разобраться с любыми враждебными кораблями в этом секторе.</Dest>
+    </String>
+    <String List="1" sID="02EB33">
+      <EDID>UCR05</EDID>
+      <REC id="2" idMax="2">QUST:CNAM</REC>
+      <Source>I&apos;ve successfully eliminated the target. I should check in with Vae Victis if I want to do any more... clean up work.</Source>
+      <Dest>Я успешно ликвидировал цель. Мне следует связаться с Вае Виктис, если я хочу сделать еще что-нибудь... в качестве чистильщика.</Dest>
+    </String>
+    <String List="1" sID="02EB34">
+      <EDID>UCR05</EDID>
+      <REC id="1" idMax="2">QUST:CNAM</REC>
+      <Source>Vae Victis has given me my target on &lt;Alias=PlanetLocation&gt;. I&apos;m to track them down and kill them. He warned me to expect resistance.</Source>
+      <Dest>Вае Виктис указал мне цель на &lt;Alias=PlanetLocation&gt;. Я должен выследить их и убить. Он предупредил меня, чтобы я был осторожен.</Dest>
+    </String>
+    <String List="1" sID="02EB35">
+      <EDID>UCR05</EDID>
+      <REC id="0" idMax="2">QUST:CNAM</REC>
+      <Source>I&apos;ve agreed to help Vae Victis eliminate a &quot;threat&quot; to the UC. He&apos;s directed me to collect the details from the transfer system.</Source>
+      <Dest>Я согласился помочь Вае Виктис устранить &quot;угрозу&quot; для ОК. Он поручил мне собрать информацию из системы передачи данных.</Dest>
+    </String>
+    <String List="1" sID="02F7E5">
+      <EDID>UCR01</EDID>
+      <REC id="1" idMax="1">QUST:CNAM</REC>
+      <Source>&lt;Alias=PlanetLocation&gt; is cleaned up. I should reach out to Commander Tuala if I want any more extermination work.</Source>
+      <Dest>&lt;Alias=PlanetLocation&gt; очищен. Я должен связаться с коммандером Туалой, если мне нужна еще какая-нибудь подобная работа.</Dest>
+    </String>
+    <String List="1" sID="02F7E6">
+      <EDID>UCR01</EDID>
+      <REC id="0" idMax="1">QUST:CNAM</REC>
+      <Source>Commander Tuala&apos;s given me the location of my target. I&apos;m to head to &lt;Alias=PlanetLocation&gt; and eliminate any Terrormorphs I encounter.</Source>
+      <Dest>Командир Туала сообщил местоположение моей цели. Мне необходимо отправиться на &lt;Alias=PlanetLocation&gt; и уничтожить всех встреченных Террорморфов.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

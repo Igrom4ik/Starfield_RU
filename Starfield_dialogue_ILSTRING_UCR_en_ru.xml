@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="2" sID="010472">
+      <EDID>[0000498D]</EDID>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
+      <Source>And so you know, you shouldn&apos;t need to kill these critters to harvest the required cells. This isn&apos;t the same level of analysis we were doing with the Terrormorphs.</Source>
+      <Dest>И чтобы вы знали, вам не нужно убивать этих существ, чтобы собрать необходимые клетки. Это не такой же уровень анализа, который мы проводили с террорморфами.</Dest>
+    </String>
+    <String List="2" sID="010473">
+      <EDID>[001E79D6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here are the creature samples you asked for.</Source>
+      <Dest>Вот образцы существ, которые вы просили.</Dest>
+    </String>
+    <String List="2" sID="01090A" Partial="2">
+      <EDID>[001EA2CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Aceles aren&apos;t as mean as they look... unless you&apos;re a Terrormorph.</Source>
+      <Dest>Аселесы не такие злобные, как кажутся... если только ты не Террорморф.</Dest>
+    </String>
+    <String List="2" sID="010913">
+      <EDID>[001E79C7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Don&apos;t let them get the best of you, all right?</Source>
+      <Dest>Не позволяй им одержать над собой верх, хорошо?</Dest>
+    </String>
+    <String List="2" sID="010DAA" Partial="2">
+      <EDID>[001EA2C6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Head there and send that Tango to its maker.</Source>
+      <Dest>Отправляйтесь туда и отправьте &apos;Танго&apos; к создателю.</Dest>
+    </String>
+    <String List="2" sID="010DAB" Partial="2">
+      <EDID>[001EA2C7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mission spec&apos;s the same as before - find the Morph and exterminate.</Source>
+      <Dest>Спецификация миссии такая же, как и раньше - найти Морфа и уничтожь.</Dest>
+    </String>
+    <String List="2" sID="010DAC" Partial="2">
+      <EDID>[001EA2B0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Understood.</Source>
+      <Dest>Понятно.</Dest>
+    </String>
+    <String List="2" sID="010DAD" Partial="2">
+      <EDID>[001EA2D4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your call, Captain. We&apos;ll be here.</Source>
+      <Dest>Твое право, капитан. Мы будем здесь.</Dest>
+    </String>
+    <String List="2" sID="011210" Partial="1">
+      <EDID>[0017D3CB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Report suggests you&apos;ll be going up against Ecliptic. Time to remind them what the UC&apos;s capable of.</Source>
+      <Dest>Судя по сообщению, вам предстоит сразиться с Эклиптикой. Пора напомнить им, на что способны ОК.</Dest>
+    </String>
+    <String List="2" sID="011211" Partial="1">
+      <EDID>[001E8FDA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just getting those coordinates to you... now.</Source>
+      <Dest>Передаю вам эти координаты... сейчас.</Dest>
+    </String>
+    <String List="2" sID="0116A3" Partial="1">
+      <EDID>[001E8FD7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Do us proud.</Source>
+      <Dest>Заставь нас гордиться.</Dest>
+    </String>
+    <String List="2" sID="0116AE">
+      <EDID>[0017C654]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just don&apos;t let those critters get under your skin... seriously. I&apos;ve met some that&apos;ll try.</Source>
+      <Dest>Только не позволяйте этим тварям залезть к вам в душу... серьезно. Я встречал тех, которые пытались.</Dest>
+    </String>
+    <String List="2" sID="011B85" Partial="2">
+      <EDID>[001EA2DC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That must make you our captain. We&apos;ve got a bead on the target. Ready to head out?</Source>
+      <Dest>Тогда вы, должно быть, наш капитан. Мы определили местоположение цели. Готовы отправиться?&quot;</Dest>
+    </String>
+    <String List="2" sID="011B92">
+      <EDID>[001E79CD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>If you&apos;re looking to hand off some samples, talk to the xeno tech outside. Hopefully those critters weren&apos;t too much of a challenge for you.</Source>
+      <Dest>Если вы хотите передать образцы, поговорите с ксенотехником снаружи. Надеюсь, эти твари не доставили вам проблем.</Dest>
+    </String>
+    <String List="2" sID="01204D" Partial="2">
+      <EDID>[001EA2B5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Should keep chatter to a minimum.</Source>
+      <Dest>Лучше сократить болтовню до минимума.</Dest>
+    </String>
+    <String List="2" sID="0124EB" Partial="2">
+      <EDID>[001EA302]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I&apos;ll handle this one myself.</Source>
+      <Dest>Я сам разберусь с этим.</Dest>
+    </String>
+    <String List="2" sID="0129E2" Partial="2">
+      <EDID>[001EA2DA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You must be our ringer, then. Target&apos;s nearby. We can get started on your word.</Source>
+      <Dest>Должно быть вы наше секретное оружие. Цель рядом. Мы можем начинать по вашему сигналу.</Dest>
+    </String>
+    <String List="2" sID="0129E3" Partial="2">
+      <EDID>[001EA2CA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>These missions are straightforward: proceed to the location, kill the critter before it can do any more harm.</Source>
+      <Dest>Эти задачи просты: отправляйся на место, уничтожь тварь, пока она еще сильнее не навредила.</Dest>
+    </String>
+    <String List="2" sID="0129E4" Partial="2">
+      <EDID>[001EA2F9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Eyes up, weapons out.</Source>
+      <Dest>Ушки на макушки, оружие на изготовку.</Dest>
+    </String>
+    <String List="2" sID="0147D4" Partial="2">
+      <EDID>[001EA2E6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good hunting.</Source>
+      <Dest>Удачной охоты.</Dest>
+    </String>
+    <String List="2" sID="0155D0" Partial="2">
+      <EDID>[001EA2FD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just need to... uh huh. Coordinates sent.</Source>
+      <Dest>Просто нужно... угу. Координаты переданы.</Dest>
+    </String>
+    <String List="2" sID="0163BD">
+      <EDID>[001E70C4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>See that they never become more than a nuisance.</Source>
+      <Dest>Следите за тем, чтобы они не стали большой проблемой.</Dest>
+    </String>
+    <String List="2" sID="01684D" Partial="2">
+      <EDID>[001EA2D0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>About to die of boredom over here.</Source>
+      <Dest>Можно сдохнуть со скуки.</Dest>
+    </String>
+    <String List="2" sID="01684E" Partial="2">
+      <EDID>[001EA2DB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You must be the cavalry. Ready to engage?</Source>
+      <Dest>Должны быть вы и есть кавалерия. Готовы начинать?</Dest>
+    </String>
+    <String List="2" sID="016850" Partial="1">
+      <EDID>[0000CF52]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Witnesses say their attackers appeared to be Va&apos;ruun craft, so I&apos;d bring the meanest firepower you&apos;ve got.</Source>
+      <Dest>Свидетели говорят, что нападавшими, судя по всему, были корабли Ва&apos;руун, так что я бы взял с собой самое мощное оружие, которое у вас есть.</Dest>
+    </String>
+    <String List="2" sID="016CAF" Partial="2">
+      <EDID>[0017F93A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let&apos;s find that Tango first.</Source>
+      <Dest>Давайте сначала найдем этого танго.</Dest>
+    </String>
+    <String List="2" sID="018377" Partial="2">
+      <EDID>[001EA2B2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Roger that.</Source>
+      <Dest>Вас понял.</Dest>
+    </String>
+    <String List="2" sID="01837B" Partial="1">
+      <EDID>[001E8FE4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You&apos;re authorized to eliminate any hostiles you find in that sector.</Source>
+      <Dest>У вас есть разрешение на уничтожение любого противника, которого вы встретите в этом секторе</Dest>
+    </String>
+    <String List="2" sID="0191E9">
+      <EDID>[001E79C3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Knew I could count on you. I&apos;ll get these catalogued.</Source>
+      <Dest>Я знал, что могу на вас рассчитывать. Я внесу их в каталог.</Dest>
+    </String>
+    <String List="2" sID="01A015">
+      <EDID>[001E79BA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Head there, find the specimens, and bring the samples back to me.</Source>
+      <Dest>Отправляйтесь туда, найдите образцы и принесите их мне.</Dest>
+    </String>
+    <String List="2" sID="01AD3F">
+      <EDID>[0017AABA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I&apos;d urge caution. The target has likely surrounded themselves with unsavory elements.</Source>
+      <Dest>Я бы настоятельно рекомендовал проявлять осторожность. Скорее всего, цель окружила себя криминальными элементами.</Dest>
+    </String>
+    <String List="2" sID="01B62C" Partial="2">
+      <EDID>[001EA2F8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let&apos;s rock and roll.</Source>
+      <Dest>Устроим рок-н-ролл.</Dest>
+    </String>
+    <String List="2" sID="01BF71" Partial="2">
+      <EDID>[001EA2F4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Aceles team should be there when you arrive.</Source>
+      <Dest>Команда Аселеса должна быть там к вашему прилету.</Dest>
+    </String>
+    <String List="2" sID="01BF76" Partial="1">
+      <EDID>[0017D3C6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Notes mention a Spacer presence in that sector, so be ready for a nasty one.</Source>
+      <Dest>В записях упоминается присутствие спейсеров в этом секторе, так что будьте готовы к неприятностям.</Dest>
+    </String>
+    <String List="2" sID="01BF81">
+      <EDID>[001E70C5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Track them down and ensure they don&apos;t get the chance to cause more harm.</Source>
+      <Dest>Выследите их и убедитесь, что они не смогут причинить больше никакого вред.</Dest>
+    </String>
+    <String List="2" sID="01C3EB" Partial="1">
+      <EDID>[0017D3CA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Attackers were Ecliptic-affiliated, so I&apos;d bust out the big guns.</Source>
+      <Dest>Нападавшие были связаны с Эклиптикой, поэтому я рекомендую использовать пушки помощнее. </Dest>
+    </String>
+    <String List="2" sID="01CD1D" Partial="1">
+      <EDID>[001E8FDC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmm. Ah, here we go.</Source>
+      <Dest>Хм. А, вот и мы.</Dest>
+    </String>
+    <String List="2" sID="01CD24">
+      <EDID>[000066C2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>And remember - proximity should be all you need to get your samples. Get close, harvest, and get out before they spot you.</Source>
+      <Dest>И помните - близкое расстояние должно быть достаточным для получения образцов. Подойдите поближе, соберите образец и уходите, пока они вас не заметили.</Dest>
+    </String>
+    <String List="2" sID="01D1AF" Partial="1">
+      <EDID>[0017D3CD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Crimson Fleet decided to rear their ugly heads. Make them regret it.</Source>
+      <Dest>Багровый флот решил показать свою уродливую морду. Заставьте их пожалеть об этом.</Dest>
+    </String>
+    <String List="2" sID="01D1B5">
+      <EDID>[00092C5D]</EDID>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
+      <Source>This all of them? Good. Freezing my tail off out here.</Source>
+      <Dest>Это все? Хорошо. А то замёрз, как собака.</Dest>
+    </String>
+    <String List="2" sID="01D66D" Partial="1">
+      <EDID>[0017D3C9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Documentation suggests Ecliptic might be involved in the attack, so I&apos;d take extra precautions.</Source>
+      <Dest>Исходя из документов следует, что Эклиптика может быть причастна к атаке, поэтому я бы принял дополнительные меры предосторожности.</Dest>
+    </String>
+    <String List="2" sID="01E00A" Partial="2">
+      <EDID>[001EA2E8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You watch yourself out there, Captain.</Source>
+      <Dest>Берегите себя там, капитан.</Dest>
+    </String>
+    <String List="2" sID="01E43E" Partial="2">
+      <EDID>[001EA2EA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just be smart out there. Don&apos;t want you getting banged up too bad on your first hunt. Supra et Ultra, Captain.</Source>
+      <Dest>Будьте начеку. Не хотелось, чтобы вы приехали в &quot;цинке&quot;. Supra et Ultra, капитан.</Dest>
+    </String>
+    <String List="2" sID="01ED85" Partial="2">
+      <EDID>[001EA2E7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Now go give &apos;em hell. Supra et Ultra, Captain.</Source>
+      <Dest>А теперь идите и устройте им настоящий ад! Supra et Ultra, капитан.</Dest>
+    </String>
+    <String List="2" sID="01ED86" Partial="1">
+      <EDID>[0017D3C7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Spacers were seen not far from the report site, so they&apos;re our most likely aggressors.</Source>
+      <Dest>Спейсеры были замечены неподалеку от места инцидента, так что они наиболее вероятные агрессоры.</Dest>
+    </String>
+    <String List="2" sID="01F26F" Partial="2">
+      <EDID>[001EA2F6]</EDID>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
+      <Source>The animal and its handlers should be waiting when you arrive. You&apos;re all to subdue the Morph and then the handlers will take care of getting it to Londinion.</Source>
+      <Dest>Животное и кураторы будут ждать вашег оприбытия. Вам предстоит подавить Морфа, а затем кураторы позаботятся о его траснпортировке в Лондинион.</Dest>
+    </String>
+    <String List="2" sID="01F270" Partial="2">
+      <EDID>[001EA2F6]</EDID>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
+      <Source>Major Sanon and Doctor Walker said they&apos;d be able to scramble an Aceles team PDQ.</Source>
+      <Dest>Майор Сaнон и доктор Уокер сказали, что они могут немедленно мобилизовать команду Аселеса.</Dest>
+    </String>
+    <String List="2" sID="020057">
+      <EDID>[00092C4D]</EDID>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
+      <Source>Head there, find your specimens, and bring those samples back here.</Source>
+      <Dest>Отправляйтесь на место, найдите нужные образцы и принесите их сюда.</Dest>
+    </String>
+    <String List="2" sID="020923" Partial="1">
+      <EDID>[0000CF50]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Looks like it&apos;s Va&apos;ruun Zealots this time. Go send &apos;em back to their maker.</Source>
+      <Dest>Похоже, на этот раз это фанатики Ва&apos;руун. Отправьте их к создателю.</Dest>
+    </String>
+    <String List="2" sID="020924" Partial="1">
+      <EDID>[0017D3CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Notation mentioned Crimson Fleet, so I&apos;d be ready for a scrap.</Source>
+      <Dest>В записях упоминается Багровый флот, так что будьте готовы к бою.</Dest>
+    </String>
+    <String List="2" sID="020931">
+      <EDID>[001E70CD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I believe that slate should be sufficient to guide you to the next &quot;problem&quot; to be dealt with.</Source>
+      <Dest>Я считаю, что планшета должно быть достаточно, чтобы сориентировать вас на следующую &quot;проблему&quot;, которую нужно решить.</Dest>
+    </String>
+    <String List="2" sID="020DF7" Partial="1">
+      <EDID>[0017D3CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like pirates this time, but I&apos;d suggest you be prepared for anything.</Source>
+      <Dest>Похоже, что на этот раз это пираты, но я бы посоветовал быть готовым к чему угодно.</Dest>
+    </String>
+    <String List="2" sID="021263" Partial="2">
+      <EDID>[001EA2F3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Check in with the Aceles squad once you get there.</Source>
+      <Dest>Доложите о прибытии в отряде Аселеса.</Dest>
+    </String>
+    <String List="2" sID="021274">
+      <EDID>[001E79DC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. What the UC owes you.</Source>
+      <Dest>Вот. Что вам должна ОК.</Dest>
+    </String>
+    <String List="2" sID="0220BA" Partial="2">
+      <EDID>[001EA300]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I need to take care of something first.</Source>
+      <Dest>Сначала мне надо решить пару дел.</Dest>
+    </String>
+    <String List="2" sID="0229F1" Partial="2">
+      <EDID>[001EA2C8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You know the drill - find the critter, make it litter.</Source>
+      <Dest>Ты знаешь, что делать - найди эту тварь и сделай из нее фрикасе.</Dest>
+    </String>
+    <String List="2" sID="0229F3" Partial="1">
+      <EDID>[001E8FE8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Report says ships at these coordinates fired on United Colonies&apos; craft. You&apos;re cleared to use lethal force if necessary.</Source>
+      <Dest>Согласно докладу, корабли, находящиеся в этих координатах, открыли огонь по кораблю Объединенный Колоний. Вам разрешено использовать летальное оружие  в случае необходимости.</Dest>
+    </String>
+    <String List="2" sID="022ECE" Partial="2">
+      <EDID>[001E8FD6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Fly smart out there.</Source>
+      <Dest>Берегите себя там.</Dest>
+    </String>
+    <String List="2" sID="022ED8">
+      <EDID>[001E79C1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ah ha. Results like these are why we wanted you for the job.</Source>
+      <Dest>А-ха. Именно из-за таких результатов мы и хотели заполучить вас для этой задачи.</Dest>
+    </String>
+    <String List="2" sID="023331" Partial="2">
+      <EDID>[001EA2FB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Get you those coordinates... done.</Source>
+      <Dest>Достану для тебя эти координаты... готово.</Dest>
+    </String>
+    <String List="2" sID="023332" Partial="2">
+      <EDID>[001EA2FC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let me pull up the coordinates. There.</Source>
+      <Dest>Сейчас я извлеку эти координаты. Вот.</Dest>
+    </String>
+    <String List="2" sID="0237F6" Partial="2">
+      <EDID>[001EA2F7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Proceeding to the target.</Source>
+      <Dest>Продвигаемся к цели.</Dest>
+    </String>
+    <String List="2" sID="023805">
+      <EDID>[001E79CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Back and intact. You get those samples? Then you can drop them with the tech outside.</Source>
+      <Dest>Вернулись в целости. Вы получили эти образцы? Тогда вы можете передать их техникам снаружи.</Dest>
+    </String>
+    <String List="2" sID="024113">
+      <EDID>[00092C5C]</EDID>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
+      <Source>Here. What the UC owes you.</Source>
+      <Dest>Вот. Что вам должна ОК.</Dest>
+    </String>
+    <String List="2" sID="024581" Partial="1">
+      <EDID>[0017D3C5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like Spacers tried scrapping some ships... with their pilots still in them. Go show them the error of their ways.</Source>
+      <Dest>Похоже, спейсеры пытались сдать на металлолом несколько кораблей... с пилотами, находящимися внутри. Покажите им, что они сделали большую ошибку.</Dest>
+    </String>
+    <String List="2" sID="025C43">
+      <EDID>[001E79BC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. Your creatures are on that world.</Source>
+      <Dest>Здесь. Ваши существа-цели находятся на этой планете.</Dest>
+    </String>
+    <String List="2" sID="0265A1" Partial="2">
+      <EDID>[001EA2F2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Standard seek and subdue. Check in with the handlers once you&apos;re on site.</Source>
+      <Dest>Стандартный поиск и подавление. Свяхитесь с куратором, как только окажетесь на месте.</Dest>
+    </String>
+    <String List="2" sID="0265A3" Partial="1">
+      <EDID>[001E8FE5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Jump to that spot and clean house.</Source>
+      <Dest>Прыгайте на эту точку и проведите зачистку. </Dest>
+    </String>
+    <String List="2" sID="0265B1">
+      <EDID>[000066BB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>So then, was there anything else we needed to cover?</Source>
+      <Dest>Итак, есть ли еще что-нибудь, о чем нам нужно обсудить?</Dest>
+    </String>
+    <String List="2" sID="026ECD" Partial="2">
+      <EDID>[001EA2CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ready when you are.</Source>
+      <Dest>Если вы готовы то я тоже.</Dest>
+    </String>
+    <String List="2" sID="026EDA">
+      <EDID>[001E79CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You track down those critters we were after? I&apos;ve got a tech waiting outside for the drop-off.</Source>
+      <Dest>Вы выследили тех тварей, за которыми мы охотились? Снаружи меня ждет техник.</Dest>
+    </String>
+    <String List="2" sID="02736D" Partial="2">
+      <EDID>[001EA2CC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Head on swivel.</Source>
+      <Dest>Будьте внимательнее.</Dest>
+    </String>
+    <String List="2" sID="027C61">
+      <EDID>[001E70CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That slate should get you to our next threat.</Source>
+      <Dest>Этот планшет должен привести вас к нашей следующей цели.</Dest>
+    </String>
+    <String List="2" sID="028107" Partial="2">
+      <EDID>[001EA2D2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Taking all the fun for yourself. Fine.</Source>
+      <Dest>Самое веселое решил оставить себе. Прекрасно.</Dest>
+    </String>
+    <String List="2" sID="028578" Partial="2">
+      <EDID>[001EA304]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let&apos;s go.</Source>
+      <Dest>Вперед.</Dest>
+    </String>
+    <String List="2" sID="028ECC" Partial="2">
+      <EDID>[001EA2CB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You&apos;re going to give away our position.</Source>
+      <Dest>Вы можете выдать нашу позицию.</Dest>
+    </String>
+    <String List="2" sID="028ECD" Partial="2">
+      <EDID>[001EA2D9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ready to move?</Source>
+      <Dest>Готовы выдвигаться?</Dest>
+    </String>
+    <String List="2" sID="028ECE" Partial="2">
+      <EDID>[001EA2B1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We&apos;ll hold tight.</Source>
+      <Dest>Мы останемся здесь.</Dest>
+    </String>
+    <String List="2" sID="028ED0" Partial="1">
+      <EDID>[0000CF51]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like we&apos;re clearing out a snake nest this time. Va&apos;ruun Zealots. So be ready for a real scrap.</Source>
+      <Dest>Похоже, на этот раз мы зачищаем змеиное гнездо. Фанатики Ва&apos;руун. Так что будьте готовы к настоящей драке.</Dest>
+    </String>
+    <String List="2" sID="028EDC">
+      <EDID>[001E79C2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Glad to have you back all in one piece. I&apos;ll get these logged myself.</Source>
+      <Dest>Рад, что вы вернулись целым и невредимым. Я сам внесу их в журнал.</Dest>
+    </String>
+    <String List="2" sID="029358">
+      <EDID>[00092C5A]</EDID>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
+      <Source>Oh, and your pay. Here you are. Thank you, Captain.</Source>
+      <Dest>О, и ваша оплата. Вот, пожалуйста. Спасибо, капитан.</Dest>
+    </String>
+    <String List="2" sID="02A5FB" Partial="2">
+      <EDID>[001EA2FF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Okay. These coordinates should get you to your first target. There.</Source>
+      <Dest>Окей. Эти координаты должны привести вас к вашей первой цели. Вот.</Dest>
+    </String>
+    <String List="2" sID="02AA9D" Partial="2">
+      <EDID>[0017F939]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>No contacts.</Source>
+      <Dest>Противник не замечен.</Dest>
+    </String>
+    <String List="2" sID="02AFA2">
+      <EDID>[00092C62]</EDID>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
+      <Source>And these are yours.</Source>
+      <Dest>А это ваше.</Dest>
+    </String>
+    <String List="2" sID="02C1CA">
+      <EDID>[001E79BD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Here. That&apos;s where you&apos;re headed.</Source>
+      <Dest>Здесь. Вот куда вы направляетесь.</Dest>
+    </String>
+    <String List="2" sID="02EB30">
+      <EDID>[0000498D]</EDID>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
+      <Source>A little will go a long way here. Just get close, take a few scrapings, and get out before they see you.</Source>
+      <Dest>Немногое здесь поможет. Просто подойдите поближе, возьмите несколько образцов и уходите, пока они вас не заметили.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

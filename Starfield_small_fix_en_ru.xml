@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0061EC">
+      <EDID>SpaceshipGravJumpThrust</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Thrust</Source>
+      <Dest>Дист. гравит. прыжка</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

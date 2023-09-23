@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="1" sID="00890B">
+      <EDID>se_Player_zw09_ShipName</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008ACD">
+      <EDID>SE_TradeShip_TradeAuthority_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008AD1">
+      <EDID>SE_TradeShip_TradeShipGalbank_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008AD3">
+      <EDID>SE_TradeShip_TradeShipLIST_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008AD5">
+      <EDID>SE_TradeShip_TradeShipFC_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008AE8">
+      <EDID>SE_TradeShip_TradeShipUC_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008BE8">
+      <EDID>SE_TradeShip_DataBroker_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008CA5">
+      <EDID>SE_TrainingShip_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008CF1">
+      <EDID>SE_LIST_Colonist_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008CF5">
+      <EDID>SE_FAB02_Trainee_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008CF7">
+      <EDID>SE_FAB02_Instructor_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008CFB">
+      <EDID>SE_FAB03_DamagedShip_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="008D28">
+      <EDID>SE_FAB04_MrsWhitmore_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="03305B">
+      <EDID>SE_EnemyShips_Varuun_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+    <String List="1" sID="03305F">
+      <EDID>SE_EnemyShips_CrimsonFleet_Name</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  ползун</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

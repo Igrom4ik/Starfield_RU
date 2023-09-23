@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="00DE53">
+      <EDID>EncTerrormorphElder11</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00DF18">
+      <EDID>UC08_TerrormorphTransformation_Terrormorph</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00DF1F">
+      <EDID>EncTerrormorphElder09</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00DF2B">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator01_PlayerAlly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00E36E">
+      <EDID>UC08_1stThrall_PCM_Toliman_Toliman-II_Prey01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00E3A4">
+      <EDID>EncTerrormorphElder02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E3E7">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Prey02_PlayerAlly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00E408">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator02_PlayerAlly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00E409">
+      <EDID>EncTerrormorph04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E41C">
+      <EDID>EncTerrormorphElder04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E41D">
+      <EDID>EncTerrormorphElder05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E8B2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Prey01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00E8B3">
+      <EDID>UC08_1stThrall_PCM_Toliman_Toliman-II_Prey02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00E9A3">
+      <EDID>EncTerrormorph03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9A4">
+      <EDID>EncTerrormorph05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9A5">
+      <EDID>EncTerrormorph06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9A6">
+      <EDID>EncTerrormorph07</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9A7">
+      <EDID>EncTerrormorph08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9A8">
+      <EDID>EncTerrormorph09</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9AB">
+      <EDID>EncTerrormorph11</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00E9AC">
+      <EDID>EncTerrormorphElder03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9AD">
+      <EDID>EncTerrormorphElder06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9AE">
+      <EDID>EncTerrormorphElder07</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9AF">
+      <EDID>EncTerrormorphElder08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9B0">
+      <EDID>EncTerrormorphElder10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9B1">
+      <EDID>EncTerrormorphElder01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9EA">
+      <EDID>EncTerrormorph10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00ECB8">
+      <EDID>TerrormorphReveal_Terrormorph</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00EDC8">
+      <EDID>UC08_1stThrall_PCM_Toliman_Toliman-II_Prey01a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00EE11">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00EE2B">
+      <EDID>EncTerrormorph02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="00F055">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Prey02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="00F056">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф прислужник</Dest>
+    </String>
+    <String List="0" sID="02E31E">
+      <EDID>EncTerrormorph01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="02E326">
+      <EDID>LvlTerrormorphDiseased</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Diseased Terrormorph</Source>
+      <Dest>Больной террорморф</Dest>
+    </String>
+    <String List="0" sID="02E32A">
+      <EDID>UC08_LvlTerrormorphAnomaly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф аномальный</Dest>
+    </String>
+    <String List="0" sID="02E330">
+      <EDID>LvlTerrormorphBurrower</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Burrowing Terrormorph</Source>
+      <Dest>Зарывающийся террорморф</Dest>
+    </String>
+    <String List="0" sID="02E345">
+      <EDID>LvlTerrormorphAlpha</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alpha Terrormorph</Source>
+      <Dest>Альфа террорморф</Dest>
+    </String>
+    <String List="0" sID="02E346">
+      <EDID>LvlTerrormorphAlbino</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Albino Terrormorph</Source>
+      <Dest>Террорморф альбинос </Dest>
+    </String>
+    <String List="0" sID="02E349">
+      <EDID>LvlTerrormorphCloaked</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cloaked Terrormorph</Source>
+      <Dest>Терраморф маскировщик</Dest>
+    </String>
+    <String List="0" sID="02E3A8">
+      <EDID>LvlTerrormorphController</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Controller Terrormorph</Source>
+      <Dest>Террорморф контроллер</Dest>
+    </String>
+    <String List="0" sID="02E3C6">
+      <EDID>UC04_LvlTerrormorphController</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="033092">
+      <EDID>MQ305TerrormorphGhost_Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+    <String List="0" sID="0330C2">
+      <EDID>UC04_TerrormorphCorpse</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph</Source>
+      <Dest>Террорморф</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0083F2">
+      <EDID>Category_ShipMod_Cargo</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Cargo</Source>
+      <Dest>Хранилища</Dest>
+    </String>
+    <String List="0" sID="008435">
+      <EDID>Category_ShipMod_FuelTank</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Fuel Tanks</Source>
+      <Dest>Топливо-хранилища</Dest>
+    </String>
+    <String List="0" sID="00844B">
+      <EDID>Category_ShipMod_Cockpit</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Cockpits</Source>
+      <Dest>Рубки</Dest>
+    </String>
+    <String List="0" sID="008454">
+      <EDID>Category_ShipMod_Structure</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Structural</Source>
+      <Dest>Структурные</Dest>
+    </String>
+    <String List="0" sID="008457">
+      <EDID>Category_ShipMod_Bay</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Bays</Source>
+      <Dest>Бухты</Dest>
+    </String>
+    <String List="0" sID="008458">
+      <EDID>Category_ShipMod_Gear</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Gear</Source>
+      <Dest>Шасси</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

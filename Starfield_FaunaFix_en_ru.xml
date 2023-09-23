@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0085B6">
+      <EDID>CCT_Instance_Name_Diet_Grazer</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоед</Dest>
+    </String>
+    <String List="0" sID="00E191">
+      <EDID>PCM_Narion_Niira_Predator01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Stalker</Source>
+      <Dest>Сталкер</Dest>
+    </String>
+    <String List="0" sID="00E44F">
+      <EDID>EncOctopedeA01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Преследователь</Dest>
+    </String>
+    <String List="0" sID="00E47B">
+      <EDID>Traits_OctopedeA_Base_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Преследователь</Dest>
+    </String>
+    <String List="0" sID="00EA68">
+      <EDID>Traits_OctopedeA_Base_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Преследователь</Dest>
+    </String>
+    <String List="0" sID="00EBBC">
+      <EDID>PCM_Narion_Kreet_StalkerPredatorA</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Преследователь</Dest>
+    </String>
+    <String List="0" sID="00EE5F">
+      <EDID>Traits_OctopedeA_Base_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Преследователь</Dest>
+    </String>
+    <String List="0" sID="02EEA4">
+      <EDID>CCT_Instance_Name_Flock</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Flocking</Source>
+      <Dest>Стадящийся</Dest>
+    </String>
+    <String List="0" sID="02F597">
+      <EDID>CCT_Instance_Name_Diet_Herbivore</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоед</Dest>
+    </String>
+    <String List="0" sID="03355A">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="8" idMax="8">INNR:WNAM</REC>
+      <Source>Flocking</Source>
+      <Dest>Стадящийся</Dest>
+    </String>
+    <String List="0" sID="033594">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="219" idMax="222">INNR:WNAM</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоед</Dest>
+    </String>
+    <String List="0" sID="033596">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="217" idMax="222">INNR:WNAM</REC>
+      <Source>Stalker</Source>
+      <Dest>Сталкер</Dest>
+    </String>
+    <String List="0" sID="0335CF">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="160" idMax="222">INNR:WNAM</REC>
+      <Source>Cutterhead</Source>
+      <Dest>Фрезоголов</Dest>
+    </String>
+    <String List="0" sID="0336CB">
+      <EDID>CCT_Instance_Name_Diet_FilterFeeder</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоед</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

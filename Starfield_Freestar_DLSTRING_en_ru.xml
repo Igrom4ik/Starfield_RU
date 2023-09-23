@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="1" sID="003337">
+      <EDID>UC05_FreestarDossier</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;b&gt;FREESTAR EMBASSY INTELLIGENCE DOSSIER&lt;/b&gt;
+Official Eyes Only 
+Ambassador Evangeline Radcliff 
+Birthday: 19/12/2285
+Birthplace: Montara Luna
+Height: 1.6 m
+Weight: 59.1 kg
+Rank: Lieutenant, Freestar Intelligence Service (retired)
+
+Living Family: 
+- Angelica (sister)
+
+NOTE: Angelica was permanently crippled during the Colony War. Radcliff bears grudge against the UC for this. Makes her extremely hard to work with. 
+
+Freestar Embassy Operations Listening Device Installation: 1. </Source>
+      <Dest>&lt;b&gt;ДОСЬЕ РАЗВЕДКИ ПОСОЛЬСТВА СОДРУЖЕСТВА СВОБОДНЫ ЗВЕЗД &lt;/b&gt;.
+Только для служебного пользования 
+Посол Эванджелин Рэдклифф 
+Дата рождения: 19/12/2285
+Место рождения: Монтара Луна
+Рост: 1,6 м
+Вес: 59,1 кг
+Звание: лейтенант разведывательной службы Содружества (в отставке)
+
+Живые члены семьи: 
+- Анжелика (сестра)
+
+ПРИМЕЧАНИЕ: Колониальная война сделала Анжелику на всю жизнь инвалидом. За это Рэдклифф держит обиду на ОК. По этой причине с ней очень трудно работать. 
+
+Операция по установке подслушивающего устройства в посольстве Содружества: 1. </Dest>
+    </String>
+    <String List="1" sID="003C84">
+      <EDID>COM_Quest_SamCoe_CI_LocationBook</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>Ranger &lt;b&gt;LILLIAN HART&apos;s&lt;/b&gt; request for &lt;b&gt;1306&lt;/b&gt; Credits for ongoing investigation has been approved.
+
+The credits will be delivered to the Confidential Informant at &lt;b&gt;Ryujin Apartments #305&lt;/b&gt; as requested via dead drop with maximum discretion.</Source>
+      <Dest>Рейнджер &lt;b&gt;LILLIAN HART&lt;/b&gt; запрос на &lt;b&gt;1306&lt;/b&gt; кредиты на продолжающееся расследование одобрены.
+
+Кредиты будут доставлены конфиденциальному информатору по адресу  &lt;b&gt;Апартаменты Рюдзин #305&lt;/b&gt; в соответствии с запросом. посредством скрытой передачи с максимальной свободой осторожностью.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

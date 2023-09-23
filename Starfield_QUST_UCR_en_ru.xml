@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="02D22E" Partial="1">
+      <EDID>UCR04_Dupe00</EDID>
+      <REC id="3" idMax="3">QUST:NNAM</REC>
+      <Source>Return the samples</Source>
+      <Dest>Доставьте образцы</Dest>
+    </String>
+    <String List="0" sID="02D22F" Partial="1">
+      <EDID>UCR04_Dupe00</EDID>
+      <REC id="1" idMax="3">QUST:NNAM</REC>
+      <Source>(Optional) Approach targets undetected to harvest non-lethally</Source>
+      <Dest>(Необязательно) Приблизтесь к целям незамеченными, чтобы собрать образцы без убийств.</Dest>
+    </String>
+    <String List="0" sID="02D230" Partial="1">
+      <EDID>UCR04</EDID>
+      <REC id="0" idMax="3">QUST:NNAM</REC>
+      <Source>Collect samples on &lt;Alias=PlanetLocation&gt; (&lt;Global=UCR04_SamplesHarvested&gt;/&lt;Global=UCR04_SamplesTotalRequired&gt;)</Source>
+      <Dest>Соберать образцы на планете &lt;Alias=PlanetLocation&gt; (&lt;Global=UCR04_SamplesHarvested&gt;/&lt;Global=UCR04_SamplesTotalRequired&gt;)</Dest>
+    </String>
+    <String List="0" sID="02D234" Partial="1">
+      <EDID>UCR04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Apex Predator</Source>
+      <Dest>Главный хищник</Dest>
+    </String>
+    <String List="0" sID="02D896" Partial="1">
+      <EDID>UCR03</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Eliminate hostiles around &lt;Alias=TargetPlanet&gt;</Source>
+      <Dest>Уничтожить протвиноков вокруг &lt;Alias=TargetPlanet&gt;</Dest>
+    </String>
+    <String List="0" sID="02D899" Partial="1">
+      <EDID>UCR03</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Vanguard: Safer Skies</Source>
+      <Dest>Авангард: Безопасное небо</Dest>
+    </String>
+    <String List="0" sID="02DB0D" Partial="1">
+      <EDID>UCR04_MiscPointer</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Speak to Hadrian about joining you</Source>
+      <Dest>Поговорите с Адрианом о присоединении к вам</Dest>
+    </String>
+    <String List="0" sID="02DB0E" Partial="1">
+      <EDID>UCR04_MiscPointer</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Misc pointer to Hadrian Elite Crew</Source>
+      <Dest>Дополнительная информация об элитной команде Адриана</Dest>
+    </String>
+    <String List="0" sID="02EB31" Partial="1">
+      <EDID>UCR05</EDID>
+      <REC id="1" idMax="1">QUST:NNAM</REC>
+      <Source>Eliminate the target on &lt;Alias=PlanetLocation&gt;</Source>
+      <Dest>Устранить цель на &lt;Alias=PlanetLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="02EB32">
+      <EDID>UCR05</EDID>
+      <REC id="0" idMax="1">QUST:NNAM</REC>
+      <Source>Collect the details on the target</Source>
+      <Dest>Сбор информации о цели</Dest>
+    </String>
+    <String List="0" sID="02EB36" Partial="1">
+      <EDID>UCR05</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Preventive Action</Source>
+      <Dest>Превентивные меры</Dest>
+    </String>
+    <String List="0" sID="02F7E2">
+      <EDID>UCR01</EDID>
+      <REC id="2" idMax="2">QUST:NNAM</REC>
+      <Source>Make contact with the Aceles Officer on &lt;Alias=PlanetLocation&gt;</Source>
+      <Dest>Установите контакт с офицером Аселес на &lt;Alias=PlanetLocation&gt;.</Dest>
+    </String>
+    <String List="0" sID="02F7E3">
+      <EDID>UCR01</EDID>
+      <REC id="1" idMax="2">QUST:NNAM</REC>
+      <Source>Subdue the Terrormorph on &lt;Alias=PlanetLocation&gt;</Source>
+      <Dest>Победить Террорморфа на &lt;Alias=PlanetLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="02F7E4">
+      <EDID>UCR01</EDID>
+      <REC id="0" idMax="2">QUST:NNAM</REC>
+      <Source>Eliminate the Terrormorphs on &lt;Alias=PlanetLocation&gt;</Source>
+      <Dest>Уничтожить террорморфов на &lt;Alias=PlanetLocation&gt;</Dest>
+    </String>
+    <String List="0" sID="02F7E7">
+      <EDID>UCR01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Vanguard: Bug Hunt</Source>
+      <Dest>Авангард: Охота на жуков</Dest>
+    </String>
+    <String List="0" sID="030FDA" Partial="1">
+      <EDID>UCR04_Dupe00</EDID>
+      <REC id="2" idMax="3">QUST:NNAM</REC>
+      <Source>(Optional) Approach targets to harvest non-lethally</Source>
+      <Dest>(Необязательно) Приблизтесь к целям для сбора образцов без убийств.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

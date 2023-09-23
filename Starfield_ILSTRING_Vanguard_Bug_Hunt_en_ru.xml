@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="2" sID="01090A">
+      <EDID>[001EA2CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Aceles aren&apos;t as mean as they look... unless you&apos;re a Terrormorph.</Source>
+      <Dest>Аселесы не такие злобные, как кажутся... если только ты не Террорморф.</Dest>
+    </String>
+    <String List="2" sID="010DAA">
+      <EDID>[001EA2C6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Head there and send that Tango to its maker.</Source>
+      <Dest>Отправляйтесь туда и отправьте &apos;Танго&apos; к создателю.</Dest>
+    </String>
+    <String List="2" sID="010DAB">
+      <EDID>[001EA2C7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Mission spec&apos;s the same as before - find the Morph and exterminate.</Source>
+      <Dest>Спецификация миссии такая же, как и раньше - найти Морфа и уничтожь.</Dest>
+    </String>
+    <String List="2" sID="010DAC">
+      <EDID>[001EA2B0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Understood.</Source>
+      <Dest>Понятно.</Dest>
+    </String>
+    <String List="2" sID="010DAD">
+      <EDID>[001EA2D4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Your call, Captain. We&apos;ll be here.</Source>
+      <Dest>Твое право, капитан. Мы будем здесь.</Dest>
+    </String>
+    <String List="2" sID="011B85">
+      <EDID>[001EA2DC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>That must make you our captain. We&apos;ve got a bead on the target. Ready to head out?</Source>
+      <Dest>Тогда вы, должно быть, наш капитан. Мы определили местоположение цели. Готовы отправиться?&quot;</Dest>
+    </String>
+    <String List="2" sID="01204D">
+      <EDID>[001EA2B5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Should keep chatter to a minimum.</Source>
+      <Dest>Лучше сократить болтовню до минимума.</Dest>
+    </String>
+    <String List="2" sID="0124EB">
+      <EDID>[001EA302]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I&apos;ll handle this one myself.</Source>
+      <Dest>Я сам разберусь с этим.</Dest>
+    </String>
+    <String List="2" sID="0129E2">
+      <EDID>[001EA2DA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You must be our ringer, then. Target&apos;s nearby. We can get started on your word.</Source>
+      <Dest>Должно быть вы наше секретное оружие. Цель рядом. Мы можем начинать по вашему сигналу.</Dest>
+    </String>
+    <String List="2" sID="0129E3">
+      <EDID>[001EA2CA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>These missions are straightforward: proceed to the location, kill the critter before it can do any more harm.</Source>
+      <Dest>Эти задачи просты: отправляйся на место, уничтожь тварь, пока она еще сильнее не навредила.</Dest>
+    </String>
+    <String List="2" sID="0129E4">
+      <EDID>[001EA2F9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Eyes up, weapons out.</Source>
+      <Dest>Ушки на макушки, оружие на изготовку.</Dest>
+    </String>
+    <String List="2" sID="0147D4">
+      <EDID>[001EA2E6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Good hunting.</Source>
+      <Dest>Удачной охоты.</Dest>
+    </String>
+    <String List="2" sID="0155D0">
+      <EDID>[001EA2FD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just need to... uh huh. Coordinates sent.</Source>
+      <Dest>Просто нужно... угу. Координаты переданы.</Dest>
+    </String>
+    <String List="2" sID="01684D">
+      <EDID>[001EA2D0]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>About to die of boredom over here.</Source>
+      <Dest>Можно сдохнуть со скуки.</Dest>
+    </String>
+    <String List="2" sID="01684E">
+      <EDID>[001EA2DB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You must be the cavalry. Ready to engage?</Source>
+      <Dest>Должны быть вы и есть кавалерия. Готовы начинать?</Dest>
+    </String>
+    <String List="2" sID="016CAF">
+      <EDID>[0017F93A]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let&apos;s find that Tango first.</Source>
+      <Dest>Давайте сначала найдем этого танго.</Dest>
+    </String>
+    <String List="2" sID="018377">
+      <EDID>[001EA2B2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Roger that.</Source>
+      <Dest>Вас понял.</Dest>
+    </String>
+    <String List="2" sID="01B62C">
+      <EDID>[001EA2F8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let&apos;s rock and roll.</Source>
+      <Dest>Устроим рок-н-ролл.</Dest>
+    </String>
+    <String List="2" sID="01BF71">
+      <EDID>[001EA2F4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Aceles team should be there when you arrive.</Source>
+      <Dest>Команда Аселеса должна быть там к вашему прилету.</Dest>
+    </String>
+    <String List="2" sID="01E00A">
+      <EDID>[001EA2E8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You watch yourself out there, Captain.</Source>
+      <Dest>Берегите себя там, капитан.</Dest>
+    </String>
+    <String List="2" sID="01E43E">
+      <EDID>[001EA2EA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just be smart out there. Don&apos;t want you getting banged up too bad on your first hunt. Supra et Ultra, Captain.</Source>
+      <Dest>Будьте начеку. Не хотелось, чтобы вы приехали в &quot;цинке&quot;. Supra et Ultra, капитан.</Dest>
+    </String>
+    <String List="2" sID="01ED85">
+      <EDID>[001EA2E7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Now go give &apos;em hell. Supra et Ultra, Captain.</Source>
+      <Dest>А теперь идите и устройте им настоящий ад! Supra et Ultra, капитан.</Dest>
+    </String>
+    <String List="2" sID="01F26F">
+      <EDID>[001EA2F6]</EDID>
+      <REC id="1" idMax="1">INFO:NAM1</REC>
+      <Source>The animal and its handlers should be waiting when you arrive. You&apos;re all to subdue the Morph and then the handlers will take care of getting it to Londinion.</Source>
+      <Dest>Животное и кураторы будут ждать вашег оприбытия. Вам предстоит подавить Морфа, а затем кураторы позаботятся о его траснпортировке в Лондинион.</Dest>
+    </String>
+    <String List="2" sID="01F270">
+      <EDID>[001EA2F6]</EDID>
+      <REC id="0" idMax="1">INFO:NAM1</REC>
+      <Source>Major Sanon and Doctor Walker said they&apos;d be able to scramble an Aceles team PDQ.</Source>
+      <Dest>Майор Сaнон и доктор Уокер сказали, что они могут немедленно мобилизовать команду Аселеса.</Dest>
+    </String>
+    <String List="2" sID="021263">
+      <EDID>[001EA2F3]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Check in with the Aceles squad once you get there.</Source>
+      <Dest>Доложите о прибытии в отряде Аселеса.</Dest>
+    </String>
+    <String List="2" sID="0220BA">
+      <EDID>[001EA300]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I need to take care of something first.</Source>
+      <Dest>Сначала мне надо решить пару дел.</Dest>
+    </String>
+    <String List="2" sID="0229F1">
+      <EDID>[001EA2C8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You know the drill - find the critter, make it litter.</Source>
+      <Dest>Ты знаешь, что делать - найди эту тварь и сделай из нее фрикасе.</Dest>
+    </String>
+    <String List="2" sID="023331">
+      <EDID>[001EA2FB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Get you those coordinates... done.</Source>
+      <Dest>Достану для тебя эти координаты... готово.</Dest>
+    </String>
+    <String List="2" sID="023332">
+      <EDID>[001EA2FC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let me pull up the coordinates. There.</Source>
+      <Dest>Сейчас я извлеку эти координаты. Вот.</Dest>
+    </String>
+    <String List="2" sID="0237F6">
+      <EDID>[001EA2F7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Proceeding to the target.</Source>
+      <Dest>Продвигаемся к цели.</Dest>
+    </String>
+    <String List="2" sID="0265A1">
+      <EDID>[001EA2F2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Standard seek and subdue. Check in with the handlers once you&apos;re on site.</Source>
+      <Dest>Стандартный поиск и подавление. Свяхитесь с куратором, как только окажетесь на месте.</Dest>
+    </String>
+    <String List="2" sID="026ECD">
+      <EDID>[001EA2CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ready when you are.</Source>
+      <Dest>Если вы готовы то я тоже.</Dest>
+    </String>
+    <String List="2" sID="02736D">
+      <EDID>[001EA2CC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Head on swivel.</Source>
+      <Dest>Будьте внимательнее.</Dest>
+    </String>
+    <String List="2" sID="028107">
+      <EDID>[001EA2D2]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Taking all the fun for yourself. Fine.</Source>
+      <Dest>Самое веселое решил оставить себе. Прекрасно.</Dest>
+    </String>
+    <String List="2" sID="028578">
+      <EDID>[001EA304]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Let&apos;s go.</Source>
+      <Dest>Вперед.</Dest>
+    </String>
+    <String List="2" sID="028ECC">
+      <EDID>[001EA2CB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You&apos;re going to give away our position.</Source>
+      <Dest>Вы можете выдать нашу позицию.</Dest>
+    </String>
+    <String List="2" sID="028ECD">
+      <EDID>[001EA2D9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ready to move?</Source>
+      <Dest>Готовы выдвигаться?</Dest>
+    </String>
+    <String List="2" sID="028ECE">
+      <EDID>[001EA2B1]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>We&apos;ll hold tight.</Source>
+      <Dest>Мы останемся здесь.</Dest>
+    </String>
+    <String List="2" sID="02A5FB">
+      <EDID>[001EA2FF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Okay. These coordinates should get you to your first target. There.</Source>
+      <Dest>Окей. Эти координаты должны привести вас к вашей первой цели. Вот.</Dest>
+    </String>
+    <String List="2" sID="02AA9D">
+      <EDID>[0017F939]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>No contacts.</Source>
+      <Dest>Противник не замечен.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

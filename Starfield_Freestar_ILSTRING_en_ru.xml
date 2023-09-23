@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="2" sID="02B99B">
+      <EDID>[001A799D]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>I would think Freestar Guards had better things to do than guard a medical facility.</Source>
+      <Dest>Я думаю, что у службы безопасности Содружества есть дела поважнее, чем охрана медицинского учреждения.</Dest>
+    </String>
+    <String List="2" sID="03082B">
+      <EDID>[001774A7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Isn&apos;t guarding a door overkill for Freestar Security?</Source>
+      <Dest>Не является ли охрана двери излишеством для Службы безопасности Содружества?</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

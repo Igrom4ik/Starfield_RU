@@ -1,0 +1,1559 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0033CE" Partial="2">
+      <EDID>Skin_QuadrupedB_Shellephant</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shellephant</Source>
+      <Dest>Панцереслон</Dest>
+    </String>
+    <String List="0" sID="0033D0" Partial="2">
+      <EDID>Skin_FloaterA_Metropus</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Metropus</Source>
+      <Dest>Метропус</Dest>
+    </String>
+    <String List="0" sID="0033F1" Partial="2">
+      <EDID>Skin_LarvaA_Caterpillar</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Caterpillar</Source>
+      <Dest>Гусеница</Dest>
+    </String>
+    <String List="0" sID="0033F8" Partial="2">
+      <EDID>Skin_LarvaA_Noid</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Noid</Source>
+      <Dest>Нойд</Dest>
+    </String>
+    <String List="0" sID="0033F9" Partial="2">
+      <EDID>Skin_QuadrupedB_Aceles</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="003412" Partial="2">
+      <EDID>Skin_LarvaA_Grub</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Grub</Source>
+      <Dest>Личинка</Dest>
+    </String>
+    <String List="0" sID="003484" Partial="2">
+      <EDID>Skin_MantaA_Canard</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Canard</Source>
+      <Dest>Утка</Dest>
+    </String>
+    <String List="0" sID="007589" Partial="2">
+      <EDID>EncShip_Generic_A_Combat_Raptor01</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Raptor</Source>
+      <Dest>Раптор</Dest>
+    </String>
+    <String List="0" sID="007C72" Partial="2">
+      <EDID>Combat_A_Generic_Raptor01_Template</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Raptor</Source>
+      <Dest>Раптор</Dest>
+    </String>
+    <String List="0" sID="008586" Partial="2">
+      <EDID>CCT_Instance_Name_Hopper</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Hopper</Source>
+      <Dest>Прыгун</Dest>
+    </String>
+    <String List="0" sID="0085B6" Partial="2">
+      <EDID>CCT_Instance_Name_Diet_Grazer</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоядник</Dest>
+    </String>
+    <String List="0" sID="0085BD" Partial="2">
+      <EDID>CCT_Instance_Name_Swimmer</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Swimmer</Source>
+      <Dest>Плывун</Dest>
+    </String>
+    <String List="0" sID="0085C6" Partial="2">
+      <EDID>CCT_Instance_Name_QuadrupedA</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Quadruped</Source>
+      <Dest>Четвероног</Dest>
+    </String>
+    <String List="0" sID="0085C8" Partial="2">
+      <EDID>CCT_Instance_Name_Herd</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Herding</Source>
+      <Dest>Пасущийся</Dest>
+    </String>
+    <String List="0" sID="0085C9" Partial="2">
+      <EDID>CCT_Instance_Name_Apex</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Apex</Source>
+      <Dest>Вершина</Dest>
+    </String>
+    <String List="0" sID="0085EB" Partial="2">
+      <EDID>CCT_Instance_Name_Hexapod</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Hexapod</Source>
+      <Dest>Шестеног</Dest>
+    </String>
+    <String List="0" sID="008618" Partial="2">
+      <EDID>CCT_Instance_Name_Flyer</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Glider</Source>
+      <Dest>Глайдер</Dest>
+    </String>
+    <String List="0" sID="00DF3A" Partial="2">
+      <EDID>Traits_Critter_Spaceroach</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Spaceroach</Source>
+      <Dest>Космотаракан</Dest>
+    </String>
+    <String List="0" sID="00DF3B" Partial="2">
+      <EDID>Traits_Critter_Base</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Spaceroach</Source>
+      <Dest>Космотаракан</Dest>
+    </String>
+    <String List="0" sID="00DF56" Partial="2">
+      <EDID>SE_AG01_Vulture</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Vulture</Source>
+      <Dest>Стервятник</Dest>
+    </String>
+    <String List="0" sID="00DF57" Partial="2">
+      <EDID>SE_AG01_Vulture</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vulture</Source>
+      <Dest>Стервятник</Dest>
+    </String>
+    <String List="0" sID="00E0FF" Partial="2">
+      <EDID>LvlAceles</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="00E10C" Partial="2">
+      <EDID>EncOctopedeA_Exocrawler_Medium01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Exocrawler</Source>
+      <Dest>Экзоползун</Dest>
+    </String>
+    <String List="0" sID="00E413" Partial="2">
+      <EDID>Trident_Announcer_AUDIOONLY_NoAppearanceData</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trident</Source>
+      <Dest>Трезубец</Dest>
+    </String>
+    <String List="0" sID="00E47E" Partial="2">
+      <EDID>Traits_Critter_Thorn</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Thorn</Source>
+      <Dest>Шип</Dest>
+    </String>
+    <String List="0" sID="00E5F4" Partial="2">
+      <EDID>EncHopper01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Hopper</Source>
+      <Dest>Прыгун</Dest>
+    </String>
+    <String List="0" sID="00E64F" Partial="2">
+      <EDID>EncOctopedeA_Exocrawler_Small01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Exocrawler</Source>
+      <Dest>Экзоползун</Dest>
+    </String>
+    <String List="0" sID="00E6C5" Partial="2">
+      <EDID>UC_RHQ_LvlAcelesUnaggressive</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="00E913" Partial="2">
+      <EDID>EncOctopedeA_Exocrawler_Large01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Exocrawler</Source>
+      <Dest>Экзоползун</Dest>
+    </String>
+    <String List="0" sID="00EB05" Partial="2">
+      <EDID>UC05_UCArchivalMonitor</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Monitor</Source>
+      <Dest>Наблюдатель</Dest>
+    </String>
+    <String List="0" sID="00EB8F" Partial="2">
+      <EDID>UC05_FreestarArchivalMonitor</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Monitor</Source>
+      <Dest>Наблюдатель</Dest>
+    </String>
+    <String List="0" sID="00EF19" Partial="2">
+      <EDID>MQ202_BountyHunter_Raptor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Raptor</Source>
+      <Dest>Раптор</Dest>
+    </String>
+    <String List="0" sID="02EEA4" Partial="2">
+      <EDID>CCT_Instance_Name_Flock</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Flocking</Source>
+      <Dest>Флокирующий</Dest>
+    </String>
+    <String List="0" sID="02EECC" Partial="2">
+      <EDID>CCT_Instance_Name_Diet_Geophage</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Scavenger</Source>
+      <Dest>Падальщик</Dest>
+    </String>
+    <String List="0" sID="02EECE" Partial="2">
+      <EDID>CCT_Instance_Name_Hunting</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Apex</Source>
+      <Dest>Вершина</Dest>
+    </String>
+    <String List="0" sID="02F596" Partial="2">
+      <EDID>CCT_Instance_Name_Diet_Scavenger</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Scavenger</Source>
+      <Dest>Падальщик</Dest>
+    </String>
+    <String List="0" sID="02F597" Partial="2">
+      <EDID>CCT_Instance_Name_Diet_Herbivore</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоядник</Dest>
+    </String>
+    <String List="0" sID="02FB4F" Partial="2">
+      <EDID>CCT_Instance_Name_Larva002</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Larva A Caterpillar</Source>
+      <Dest>Личинка Гусеницы</Dest>
+    </String>
+    <String List="0" sID="02FB60" Partial="2">
+      <EDID>CCT_Instance_Name_Swarm</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Swarming</Source>
+      <Dest>Роящийся</Dest>
+    </String>
+    <String List="0" sID="03007D" Partial="2">
+      <EDID>CCT_Enviro_Swimmer</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Swimmer</Source>
+      <Dest>Плывун</Dest>
+    </String>
+    <String List="0" sID="0300EB" Partial="2">
+      <EDID>mod_CCT_Enviro_Swimmer</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Swimmer</Source>
+      <Dest>Плывун</Dest>
+    </String>
+    <String List="0" sID="030AA5" Partial="2">
+      <EDID>CCT_Instance_Name_QuadrupedC</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Quadruped</Source>
+      <Dest>Четвероног</Dest>
+    </String>
+    <String List="0" sID="030DD4" Partial="2">
+      <EDID>SEDerelict_EncHexapodAGlider00_Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Glider</Source>
+      <Dest>Глайдер</Dest>
+    </String>
+    <String List="0" sID="030E79" Partial="2">
+      <EDID>CCT_Instance_Name_QuadrupedB</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Quadruped</Source>
+      <Dest>Четвероног</Dest>
+    </String>
+    <String List="0" sID="03125F" Partial="2">
+      <EDID>Fighter_A_Taiyo_Stingray01_Template</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Stingray</Source>
+      <Dest>Скат</Dest>
+    </String>
+    <String List="0" sID="032115" Partial="2">
+      <EDID>InvasivePestCritter01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Xenogrub</Source>
+      <Dest>Ксеноличинка</Dest>
+    </String>
+    <String List="0" sID="032BA2" Partial="2">
+      <EDID>COM_Andreja_Quest_JaedaShip_Custom</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Raptor</Source>
+      <Dest>Раптор</Dest>
+    </String>
+    <String List="0" sID="032C6D" Partial="2">
+      <EDID>mod_Legendary_Armor_03_LessDMGStandStill</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Sentinel</Source>
+      <Dest>Страж</Dest>
+    </String>
+    <String List="0" sID="03355D" Partial="2">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="5" idMax="8">INNR:WNAM</REC>
+      <Source>Schooling</Source>
+      <Dest>Обучающийся</Dest>
+    </String>
+    <String List="0" sID="03355E" Partial="2">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="4" idMax="8">INNR:WNAM</REC>
+      <Source>Hunting</Source>
+      <Dest>Охотящийся</Dest>
+    </String>
+    <String List="0" sID="033560" Partial="2">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="2" idMax="8">INNR:WNAM</REC>
+      <Source>Swarming</Source>
+      <Dest>Роящийся</Dest>
+    </String>
+    <String List="0" sID="033561" Partial="2">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="1" idMax="8">INNR:WNAM</REC>
+      <Source>Apex</Source>
+      <Dest>Вершина</Dest>
+    </String>
+    <String List="0" sID="033562" Partial="2">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="0" idMax="8">INNR:WNAM</REC>
+      <Source>Bombardier</Source>
+      <Dest>Бомбардирующий</Dest>
+    </String>
+    <String List="0" sID="033591" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="222" idMax="222">INNR:WNAM</REC>
+      <Source>Filterer</Source>
+      <Dest>Фильтратор</Dest>
+    </String>
+    <String List="0" sID="033593" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="220" idMax="222">INNR:WNAM</REC>
+      <Source>Herbivore</Source>
+      <Dest>Гербивор</Dest>
+    </String>
+    <String List="0" sID="033594" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="219" idMax="222">INNR:WNAM</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоядник</Dest>
+    </String>
+    <String List="0" sID="033595" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="218" idMax="222">INNR:WNAM</REC>
+      <Source>Scavenger</Source>
+      <Dest>Падальщик</Dest>
+    </String>
+    <String List="0" sID="033596" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="217" idMax="222">INNR:WNAM</REC>
+      <Source>Stalker</Source>
+      <Dest>Преследователь</Dest>
+    </String>
+    <String List="0" sID="033597" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="216" idMax="222">INNR:WNAM</REC>
+      <Source>Featherfin</Source>
+      <Dest>Плавникопер</Dest>
+    </String>
+    <String List="0" sID="033598" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="215" idMax="222">INNR:WNAM</REC>
+      <Source>Paddlefish</Source>
+      <Dest>Плавникорыба</Dest>
+    </String>
+    <String List="0" sID="033599" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="214" idMax="222">INNR:WNAM</REC>
+      <Source>Seahag</Source>
+      <Dest>Морской дух</Dest>
+    </String>
+    <String List="0" sID="03359A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="213" idMax="222">INNR:WNAM</REC>
+      <Source>Exowhale</Source>
+      <Dest>Экзокит</Dest>
+    </String>
+    <String List="0" sID="03359C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="211" idMax="222">INNR:WNAM</REC>
+      <Source>Sawhead</Source>
+      <Dest>Пилоголов</Dest>
+    </String>
+    <String List="0" sID="03359D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="210" idMax="222">INNR:WNAM</REC>
+      <Source>Unishark</Source>
+      <Dest>Уникула</Dest>
+    </String>
+    <String List="0" sID="0335A0" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="207" idMax="222">INNR:WNAM</REC>
+      <Source>Skullface</Source>
+      <Dest>Черепоморд</Dest>
+    </String>
+    <String List="0" sID="0335A1" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="206" idMax="222">INNR:WNAM</REC>
+      <Source>Sharkwhale</Source>
+      <Dest>Мегалодон</Dest>
+    </String>
+    <String List="0" sID="0335A2" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="205" idMax="222">INNR:WNAM</REC>
+      <Source>Lurefish</Source>
+      <Dest>Приманочник</Dest>
+    </String>
+    <String List="0" sID="0335A3" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="204" idMax="222">INNR:WNAM</REC>
+      <Source>Finback</Source>
+      <Dest>Плавникозад</Dest>
+    </String>
+    <String List="0" sID="0335A4" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="203" idMax="222">INNR:WNAM</REC>
+      <Source>Bladehead</Source>
+      <Dest>Ножеголов</Dest>
+    </String>
+    <String List="0" sID="0335A5" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="202" idMax="222">INNR:WNAM</REC>
+      <Source>Arapaima</Source>
+      <Dest>Арапайма</Dest>
+    </String>
+    <String List="0" sID="0335A6" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="201" idMax="222">INNR:WNAM</REC>
+      <Source>Wobbleback</Source>
+      <Dest>Спинотряс</Dest>
+    </String>
+    <String List="0" sID="0335A7" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="200" idMax="222">INNR:WNAM</REC>
+      <Source>Twigwalker</Source>
+      <Dest>Веткоход</Dest>
+    </String>
+    <String List="0" sID="0335A8" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="199" idMax="222">INNR:WNAM</REC>
+      <Source>Triantler</Source>
+      <Dest>Трехрог</Dest>
+    </String>
+    <String List="0" sID="0335A9" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="198" idMax="222">INNR:WNAM</REC>
+      <Source>Geckon</Source>
+      <Dest>Геккон</Dest>
+    </String>
+    <String List="0" sID="0335AA" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="197" idMax="222">INNR:WNAM</REC>
+      <Source>Hippodon</Source>
+      <Dest>Гиподон</Dest>
+    </String>
+    <String List="0" sID="0335AB" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="196" idMax="222">INNR:WNAM</REC>
+      <Source>Olgreg</Source>
+      <Dest>Олгорэг</Dest>
+    </String>
+    <String List="0" sID="0335AC" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="195" idMax="222">INNR:WNAM</REC>
+      <Source>Leecher</Source>
+      <Dest>Пиявочник</Dest>
+    </String>
+    <String List="0" sID="0335AE" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="193" idMax="222">INNR:WNAM</REC>
+      <Source>Eyespine</Source>
+      <Dest>Глзошип</Dest>
+    </String>
+    <String List="0" sID="0335AF" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="192" idMax="222">INNR:WNAM</REC>
+      <Source>Eggtail</Source>
+      <Dest>Яйцехвост</Dest>
+    </String>
+    <String List="0" sID="0335B0" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="191" idMax="222">INNR:WNAM</REC>
+      <Source>Earback</Source>
+      <Dest>Ухоспин</Dest>
+    </String>
+    <String List="0" sID="0335B2" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="189" idMax="222">INNR:WNAM</REC>
+      <Source>Carpwalker</Source>
+      <Dest>Карп ходун</Dest>
+    </String>
+    <String List="0" sID="0335B3" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="188" idMax="222">INNR:WNAM</REC>
+      <Source>Brainsprout</Source>
+      <Dest>Мозгоспраут</Dest>
+    </String>
+    <String List="0" sID="0335B5" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="186" idMax="222">INNR:WNAM</REC>
+      <Source>Tongueface</Source>
+      <Dest>Языкоморд</Dest>
+    </String>
+    <String List="0" sID="0335B6" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="185" idMax="222">INNR:WNAM</REC>
+      <Source>Bonemane</Source>
+      <Dest>Гривакост</Dest>
+    </String>
+    <String List="0" sID="0335B7" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="184" idMax="222">INNR:WNAM</REC>
+      <Source>Shellephant</Source>
+      <Dest>Панцереслон</Dest>
+    </String>
+    <String List="0" sID="0335B9" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="182" idMax="222">INNR:WNAM</REC>
+      <Source>Scoopback</Source>
+      <Dest>Лункаспин</Dest>
+    </String>
+    <String List="0" sID="0335BA" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="181" idMax="222">INNR:WNAM</REC>
+      <Source>Dragondon</Source>
+      <Dest>Драконодон</Dest>
+    </String>
+    <String List="0" sID="0335BB" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="180" idMax="222">INNR:WNAM</REC>
+      <Source>Tentabeard</Source>
+      <Dest>Щупальцебород</Dest>
+    </String>
+    <String List="0" sID="0335BC" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="179" idMax="222">INNR:WNAM</REC>
+      <Source>Mossasaur</Source>
+      <Dest>Мохозавр</Dest>
+    </String>
+    <String List="0" sID="0335BD" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="178" idMax="222">INNR:WNAM</REC>
+      <Source>Marnokk</Source>
+      <Dest>Марнокк</Dest>
+    </String>
+    <String List="0" sID="0335BE" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="177" idMax="222">INNR:WNAM</REC>
+      <Source>Loxodont</Source>
+      <Dest>Слонодонт</Dest>
+    </String>
+    <String List="0" sID="0335BF" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="176" idMax="222">INNR:WNAM</REC>
+      <Source>Lacraia</Source>
+      <Dest>Многоножка</Dest>
+    </String>
+    <String List="0" sID="0335C0" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="175" idMax="222">INNR:WNAM</REC>
+      <Source>Kelpstrider</Source>
+      <Dest>Водоросленник</Dest>
+    </String>
+    <String List="0" sID="0335C1" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="174" idMax="222">INNR:WNAM</REC>
+      <Source>Longneck</Source>
+      <Dest>Длиношеий</Dest>
+    </String>
+    <String List="0" sID="0335C2" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="173" idMax="222">INNR:WNAM</REC>
+      <Source>Cagebrain</Source>
+      <Dest>Мозгоклеть</Dest>
+    </String>
+    <String List="0" sID="0335C3" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="172" idMax="222">INNR:WNAM</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="0335C4" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="171" idMax="222">INNR:WNAM</REC>
+      <Source>Trihorn</Source>
+      <Dest>Трирог</Dest>
+    </String>
+    <String List="0" sID="0335C5" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="170" idMax="222">INNR:WNAM</REC>
+      <Source>Trapmaw</Source>
+      <Dest>Ловушечник</Dest>
+    </String>
+    <String List="0" sID="0335C6" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="169" idMax="222">INNR:WNAM</REC>
+      <Source>Toadface</Source>
+      <Dest>Жабоморд</Dest>
+    </String>
+    <String List="0" sID="0335C7" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="168" idMax="222">INNR:WNAM</REC>
+      <Source>Bonefrill</Source>
+      <Dest>Костешип</Dest>
+    </String>
+    <String List="0" sID="0335C8" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="167" idMax="222">INNR:WNAM</REC>
+      <Source>Sailgator</Source>
+      <Dest>Парусогатор</Dest>
+    </String>
+    <String List="0" sID="0335CA" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="165" idMax="222">INNR:WNAM</REC>
+      <Source>Lockjaw</Source>
+      <Dest>Челюстник</Dest>
+    </String>
+    <String List="0" sID="0335CB" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="164" idMax="222">INNR:WNAM</REC>
+      <Source>Rhinosaur</Source>
+      <Dest>Носозавр</Dest>
+    </String>
+    <String List="0" sID="0335CC" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="163" idMax="222">INNR:WNAM</REC>
+      <Source>Bighorn</Source>
+      <Dest>Большерог</Dest>
+    </String>
+    <String List="0" sID="0335CE" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="161" idMax="222">INNR:WNAM</REC>
+      <Source>Exorunner</Source>
+      <Dest>Экзобытряк</Dest>
+    </String>
+    <String List="0" sID="0335CF" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="160" idMax="222">INNR:WNAM</REC>
+      <Source>Cutterhead</Source>
+      <Dest>Головрезчик</Dest>
+    </String>
+    <String List="0" sID="0335D0" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="159" idMax="222">INNR:WNAM</REC>
+      <Source>Crocodaunt</Source>
+      <Dest>Страходил</Dest>
+    </String>
+    <String List="0" sID="0335D1" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="158" idMax="222">INNR:WNAM</REC>
+      <Source>Lionbear</Source>
+      <Dest>Леоурзус</Dest>
+    </String>
+    <String List="0" sID="0335D5" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="154" idMax="222">INNR:WNAM</REC>
+      <Source>Roundshell</Source>
+      <Dest>Круглопанцерник</Dest>
+    </String>
+    <String List="0" sID="0335D6" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="153" idMax="222">INNR:WNAM</REC>
+      <Source>Boneback</Source>
+      <Dest>Костеспин</Dest>
+    </String>
+    <String List="0" sID="0335D7" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="152" idMax="222">INNR:WNAM</REC>
+      <Source>Horsamander</Source>
+      <Dest>Лошадемандер</Dest>
+    </String>
+    <String List="0" sID="0335D8" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="151" idMax="222">INNR:WNAM</REC>
+      <Source>Octomaggot</Source>
+      <Dest>Октоличинка</Dest>
+    </String>
+    <String List="0" sID="0335D9" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="150" idMax="222">INNR:WNAM</REC>
+      <Source>Longhorn</Source>
+      <Dest>Длиннорог</Dest>
+    </String>
+    <String List="0" sID="0335DA" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="149" idMax="222">INNR:WNAM</REC>
+      <Source>Hornface</Source>
+      <Dest>Рогоморд</Dest>
+    </String>
+    <String List="0" sID="0335DB" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="148" idMax="222">INNR:WNAM</REC>
+      <Source>Shieldshell</Source>
+      <Dest>Щитораковенник</Dest>
+    </String>
+    <String List="0" sID="0335DC" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="147" idMax="222">INNR:WNAM</REC>
+      <Source>Clawback</Source>
+      <Dest>Когтеспин</Dest>
+    </String>
+    <String List="0" sID="0335DD" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="146" idMax="222">INNR:WNAM</REC>
+      <Source>Exocrawler</Source>
+      <Dest>Экзоползун</Dest>
+    </String>
+    <String List="0" sID="0335DE" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="145" idMax="222">INNR:WNAM</REC>
+      <Source>Coralcrawler</Source>
+      <Dest>Коралоползун</Dest>
+    </String>
+    <String List="0" sID="0335DF" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="144" idMax="222">INNR:WNAM</REC>
+      <Source>Blistercrab</Source>
+      <Dest>Пузырчатокраб</Dest>
+    </String>
+    <String List="0" sID="0335E0" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="143" idMax="222">INNR:WNAM</REC>
+      <Source>Beetlecrab</Source>
+      <Dest>Жукокраб</Dest>
+    </String>
+    <String List="0" sID="0335E3" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="140" idMax="222">INNR:WNAM</REC>
+      <Source>Rockhound</Source>
+      <Dest>Камнелом</Dest>
+    </String>
+    <String List="0" sID="0335E4" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="139" idMax="222">INNR:WNAM</REC>
+      <Source>Leafstrider</Source>
+      <Dest>Листоезд</Dest>
+    </String>
+    <String List="0" sID="0335E5" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="138" idMax="222">INNR:WNAM</REC>
+      <Source>Stonewalker</Source>
+      <Dest>Камнеступ</Dest>
+    </String>
+    <String List="0" sID="0335E6" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="137" idMax="222">INNR:WNAM</REC>
+      <Source>Bonecrest</Source>
+      <Dest>Гребнекост</Dest>
+    </String>
+    <String List="0" sID="0335E7" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="136" idMax="222">INNR:WNAM</REC>
+      <Source>Mantodea</Source>
+      <Dest>Богомолец</Dest>
+    </String>
+    <String List="0" sID="0335E8" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="135" idMax="222">INNR:WNAM</REC>
+      <Source>Maggotmaw</Source>
+      <Dest>Личинкорот</Dest>
+    </String>
+    <String List="0" sID="0335EA" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="133" idMax="222">INNR:WNAM</REC>
+      <Source>Hookneck</Source>
+      <Dest>Крюкошей</Dest>
+    </String>
+    <String List="0" sID="0335EB" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="132" idMax="222">INNR:WNAM</REC>
+      <Source>Glowhands</Source>
+      <Dest>Светолап</Dest>
+    </String>
+    <String List="0" sID="0335EC" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="131" idMax="222">INNR:WNAM</REC>
+      <Source>Eggback</Source>
+      <Dest>Яйцеспин</Dest>
+    </String>
+    <String List="0" sID="0335ED" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="130" idMax="222">INNR:WNAM</REC>
+      <Source>Cricket</Source>
+      <Dest>Сверчок</Dest>
+    </String>
+    <String List="0" sID="0335EE" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="129" idMax="222">INNR:WNAM</REC>
+      <Source>Crabfly</Source>
+      <Dest>Мухокраб</Dest>
+    </String>
+    <String List="0" sID="0335F0" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="127" idMax="222">INNR:WNAM</REC>
+      <Source>Coralbug</Source>
+      <Dest>Кораложук</Dest>
+    </String>
+    <String List="0" sID="0335F1" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="126" idMax="222">INNR:WNAM</REC>
+      <Source>Cockroach</Source>
+      <Dest>Таракан</Dest>
+    </String>
+    <String List="0" sID="0335F2" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="125" idMax="222">INNR:WNAM</REC>
+      <Source>Whaleshark</Source>
+      <Dest>Акулокит</Dest>
+    </String>
+    <String List="0" sID="0335F3" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="124" idMax="222">INNR:WNAM</REC>
+      <Source>Tapeworm</Source>
+      <Dest>Ленточный червь</Dest>
+    </String>
+    <String List="0" sID="0335F4" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="123" idMax="222">INNR:WNAM</REC>
+      <Source>Sunfish</Source>
+      <Dest>Солнечник</Dest>
+    </String>
+    <String List="0" sID="0335F5" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="122" idMax="222">INNR:WNAM</REC>
+      <Source>Stingray</Source>
+      <Dest>Скат</Dest>
+    </String>
+    <String List="0" sID="0335F6" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="121" idMax="222">INNR:WNAM</REC>
+      <Source>Sentinel</Source>
+      <Dest>Страж</Dest>
+    </String>
+    <String List="0" sID="0335F7" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="120" idMax="222">INNR:WNAM</REC>
+      <Source>Saturnine</Source>
+      <Dest>Мрачник</Dest>
+    </String>
+    <String List="0" sID="0335F8" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="119" idMax="222">INNR:WNAM</REC>
+      <Source>Morningstar</Source>
+      <Dest>Морнингстар</Dest>
+    </String>
+    <String List="0" sID="0335F9" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="118" idMax="222">INNR:WNAM</REC>
+      <Source>Mayfly</Source>
+      <Dest>Маец</Dest>
+    </String>
+    <String List="0" sID="0335FA" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="117" idMax="222">INNR:WNAM</REC>
+      <Source>Lionfish</Source>
+      <Dest>Раболев</Dest>
+    </String>
+    <String List="0" sID="0335FB" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="116" idMax="222">INNR:WNAM</REC>
+      <Source>Fluke</Source>
+      <Dest>Глист</Dest>
+    </String>
+    <String List="0" sID="0335FE" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="113" idMax="222">INNR:WNAM</REC>
+      <Source>Canard</Source>
+      <Dest>Утка</Dest>
+    </String>
+    <String List="0" sID="0335FF" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="112" idMax="222">INNR:WNAM</REC>
+      <Source>Brainblimp</Source>
+      <Dest>Мозгляк</Dest>
+    </String>
+    <String List="0" sID="033600" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="111" idMax="222">INNR:WNAM</REC>
+      <Source>Boneglider</Source>
+      <Dest>Ксотоглайдер</Dest>
+    </String>
+    <String List="0" sID="033601" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="110" idMax="222">INNR:WNAM</REC>
+      <Source>Tubule</Source>
+      <Dest>Трубочник</Dest>
+    </String>
+    <String List="0" sID="033602" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="109" idMax="222">INNR:WNAM</REC>
+      <Source>Triworm</Source>
+      <Dest>Триочервь</Dest>
+    </String>
+    <String List="0" sID="033603" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="108" idMax="222">INNR:WNAM</REC>
+      <Source>Twingrub</Source>
+      <Dest>парная личинка</Dest>
+    </String>
+    <String List="0" sID="033605" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="106" idMax="222">INNR:WNAM</REC>
+      <Source>Spikeworm</Source>
+      <Dest>Шипочервь</Dest>
+    </String>
+    <String List="0" sID="033606" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="105" idMax="222">INNR:WNAM</REC>
+      <Source>Snuffler</Source>
+      <Dest>Нюхач</Dest>
+    </String>
+    <String List="0" sID="033607" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="104" idMax="222">INNR:WNAM</REC>
+      <Source>Pinecone</Source>
+      <Dest>Шишка</Dest>
+    </String>
+    <String List="0" sID="033608" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="103" idMax="222">INNR:WNAM</REC>
+      <Source>Noid</Source>
+      <Dest>Нойд</Dest>
+    </String>
+    <String List="0" sID="03360A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="101" idMax="222">INNR:WNAM</REC>
+      <Source>Worm</Source>
+      <Dest>Червь</Dest>
+    </String>
+    <String List="0" sID="03360B" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="100" idMax="222">INNR:WNAM</REC>
+      <Source>Xenogrub</Source>
+      <Dest>Ксеноличинка</Dest>
+    </String>
+    <String List="0" sID="03360C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="99" idMax="222">INNR:WNAM</REC>
+      <Source>Tubecrawler</Source>
+      <Dest>Труболаз</Dest>
+    </String>
+    <String List="0" sID="03360D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="98" idMax="222">INNR:WNAM</REC>
+      <Source>Grub</Source>
+      <Dest>Личинка</Dest>
+    </String>
+    <String List="0" sID="03360E" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="97" idMax="222">INNR:WNAM</REC>
+      <Source>Fingerface</Source>
+      <Dest>Пальцеморд</Dest>
+    </String>
+    <String List="0" sID="03360F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="96" idMax="222">INNR:WNAM</REC>
+      <Source>Caterpillar</Source>
+      <Dest>Гусеница</Dest>
+    </String>
+    <String List="0" sID="033610" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="95" idMax="222">INNR:WNAM</REC>
+      <Source>Wiggler</Source>
+      <Dest>Маятник</Dest>
+    </String>
+    <String List="0" sID="033611" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="94" idMax="222">INNR:WNAM</REC>
+      <Source>Leafback</Source>
+      <Dest>Листоспин</Dest>
+    </String>
+    <String List="0" sID="033612" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="93" idMax="222">INNR:WNAM</REC>
+      <Source>Tuskfrog</Source>
+      <Dest>Бивнежаба</Dest>
+    </String>
+    <String List="0" sID="033613" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="92" idMax="222">INNR:WNAM</REC>
+      <Source>Shardhopper</Source>
+      <Dest>Осколкопрыг</Dest>
+    </String>
+    <String List="0" sID="033615" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="90" idMax="222">INNR:WNAM</REC>
+      <Source>Stoneback</Source>
+      <Dest>Камнеспин</Dest>
+    </String>
+    <String List="0" sID="033616" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="89" idMax="222">INNR:WNAM</REC>
+      <Source>Plateskin</Source>
+      <Dest>Чешуйник</Dest>
+    </String>
+    <String List="0" sID="033617" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="88" idMax="222">INNR:WNAM</REC>
+      <Source>Roundface</Source>
+      <Dest>Кругломорд</Dest>
+    </String>
+    <String List="0" sID="033618" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="87" idMax="222">INNR:WNAM</REC>
+      <Source>Landshark</Source>
+      <Dest>Земляная акула</Dest>
+    </String>
+    <String List="0" sID="033619" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="86" idMax="222">INNR:WNAM</REC>
+      <Source>Cranehopper</Source>
+      <Dest>Журавлепрыг</Dest>
+    </String>
+    <String List="0" sID="03361A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="85" idMax="222">INNR:WNAM</REC>
+      <Source>Clickbeetle</Source>
+      <Dest>Щелкун</Dest>
+    </String>
+    <String List="0" sID="03361B" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="84" idMax="222">INNR:WNAM</REC>
+      <Source>Boneshell</Source>
+      <Dest>Костепанцирь</Dest>
+    </String>
+    <String List="0" sID="03361C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="83" idMax="222">INNR:WNAM</REC>
+      <Source>Windbag</Source>
+      <Dest>Болтун</Dest>
+    </String>
+    <String List="0" sID="03361E" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="81" idMax="222">INNR:WNAM</REC>
+      <Source>Stingback</Source>
+      <Dest>Спиножал</Dest>
+    </String>
+    <String List="0" sID="03361F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="80" idMax="222">INNR:WNAM</REC>
+      <Source>Arachnomantis</Source>
+      <Dest>Арахнобогомол</Dest>
+    </String>
+    <String List="0" sID="033620" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="79" idMax="222">INNR:WNAM</REC>
+      <Source>Leafbug</Source>
+      <Dest>Листоклоп</Dest>
+    </String>
+    <String List="0" sID="033621" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="78" idMax="222">INNR:WNAM</REC>
+      <Source>Spiderwasp</Source>
+      <Dest>Паукожалец</Dest>
+    </String>
+    <String List="0" sID="033622" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="77" idMax="222">INNR:WNAM</REC>
+      <Source>Glider</Source>
+      <Dest>Глайдер</Dest>
+    </String>
+    <String List="0" sID="033623" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="76" idMax="222">INNR:WNAM</REC>
+      <Source>Longarm</Source>
+      <Dest>Длинорук</Dest>
+    </String>
+    <String List="0" sID="033625" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="74" idMax="222">INNR:WNAM</REC>
+      <Source>Cephalopod</Source>
+      <Dest>Цефалопод</Dest>
+    </String>
+    <String List="0" sID="033626" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="73" idMax="222">INNR:WNAM</REC>
+      <Source>Brightcage</Source>
+      <Dest>Яркоклеточник</Dest>
+    </String>
+    <String List="0" sID="033627" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="72" idMax="222">INNR:WNAM</REC>
+      <Source>Brainsquid</Source>
+      <Dest>Мозговик</Dest>
+    </String>
+    <String List="0" sID="033628" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="71" idMax="222">INNR:WNAM</REC>
+      <Source>Bearclaw</Source>
+      <Dest>Медведелап</Dest>
+    </String>
+    <String List="0" sID="033629" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="70" idMax="222">INNR:WNAM</REC>
+      <Source>Arachnofly</Source>
+      <Dest>Арахномуха</Dest>
+    </String>
+    <String List="0" sID="03362A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="69" idMax="222">INNR:WNAM</REC>
+      <Source>Angler</Source>
+      <Dest>Удильщик</Dest>
+    </String>
+    <String List="0" sID="03362C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="67" idMax="222">INNR:WNAM</REC>
+      <Source>Seabat</Source>
+      <Dest>Сибат</Dest>
+    </String>
+    <String List="0" sID="03362D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="66" idMax="222">INNR:WNAM</REC>
+      <Source>Raptor</Source>
+      <Dest>Раптор</Dest>
+    </String>
+    <String List="0" sID="03362F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="64" idMax="222">INNR:WNAM</REC>
+      <Source>Parrothawk</Source>
+      <Dest>Попугайстреб</Dest>
+    </String>
+    <String List="0" sID="033630" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="63" idMax="222">INNR:WNAM</REC>
+      <Source>Hornwing</Source>
+      <Dest>Рогокрыл</Dest>
+    </String>
+    <String List="0" sID="033631" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="62" idMax="222">INNR:WNAM</REC>
+      <Source>Glowback</Source>
+      <Dest>Спиносвет</Dest>
+    </String>
+    <String List="0" sID="033632" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="61" idMax="222">INNR:WNAM</REC>
+      <Source>Gloam</Source>
+      <Dest>Сумеречник</Dest>
+    </String>
+    <String List="0" sID="033633" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="60" idMax="222">INNR:WNAM</REC>
+      <Source>Glider</Source>
+      <Dest>Глайдер</Dest>
+    </String>
+    <String List="0" sID="033634" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="59" idMax="222">INNR:WNAM</REC>
+      <Source>Mothwing</Source>
+      <Dest>Молекрыл</Dest>
+    </String>
+    <String List="0" sID="033636" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="57" idMax="222">INNR:WNAM</REC>
+      <Source>Cockatrice</Source>
+      <Dest>Василиск</Dest>
+    </String>
+    <String List="0" sID="033637" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="56" idMax="222">INNR:WNAM</REC>
+      <Source>Cassowary</Source>
+      <Dest>Казуар</Dest>
+    </String>
+    <String List="0" sID="033638" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="55" idMax="222">INNR:WNAM</REC>
+      <Source>Spore</Source>
+      <Dest>Спора</Dest>
+    </String>
+    <String List="0" sID="033639" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="54" idMax="222">INNR:WNAM</REC>
+      <Source>Scepter</Source>
+      <Dest>Жезл</Dest>
+    </String>
+    <String List="0" sID="03363A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="53" idMax="222">INNR:WNAM</REC>
+      <Source>Puffball</Source>
+      <Dest>Дымошар</Dest>
+    </String>
+    <String List="0" sID="03363B" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="52" idMax="222">INNR:WNAM</REC>
+      <Source>Pearl</Source>
+      <Dest>Жемчужина</Dest>
+    </String>
+    <String List="0" sID="03363C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="51" idMax="222">INNR:WNAM</REC>
+      <Source>Nautiloos</Source>
+      <Dest>Озорник</Dest>
+    </String>
+    <String List="0" sID="03363D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="50" idMax="222">INNR:WNAM</REC>
+      <Source>Metropus</Source>
+      <Dest>Метропус</Dest>
+    </String>
+    <String List="0" sID="03363E" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="49" idMax="222">INNR:WNAM</REC>
+      <Source>Longboi</Source>
+      <Dest>Долговяз</Dest>
+    </String>
+    <String List="0" sID="03363F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="48" idMax="222">INNR:WNAM</REC>
+      <Source>Gossamer</Source>
+      <Dest>Паутинщик</Dest>
+    </String>
+    <String List="0" sID="033640" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="47" idMax="222">INNR:WNAM</REC>
+      <Source>Jellyfin</Source>
+      <Dest>Медузник</Dest>
+    </String>
+    <String List="0" sID="033641" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="46" idMax="222">INNR:WNAM</REC>
+      <Source>Gossamer</Source>
+      <Dest>Паутинщик</Dest>
+    </String>
+    <String List="0" sID="033642" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="45" idMax="222">INNR:WNAM</REC>
+      <Source>Eggsac</Source>
+      <Dest>Яичник</Dest>
+    </String>
+    <String List="0" sID="033643" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="44" idMax="222">INNR:WNAM</REC>
+      <Source>Drone</Source>
+      <Dest>Дрон</Dest>
+    </String>
+    <String List="0" sID="033644" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="43" idMax="222">INNR:WNAM</REC>
+      <Source>Shroombobber</Source>
+      <Dest>Грибоплавун</Dest>
+    </String>
+    <String List="0" sID="033645" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="42" idMax="222">INNR:WNAM</REC>
+      <Source>Coralbucket</Source>
+      <Dest>Коралловец</Dest>
+    </String>
+    <String List="0" sID="033647" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="40" idMax="222">INNR:WNAM</REC>
+      <Source>Fleshleaf</Source>
+      <Dest>Мясолист</Dest>
+    </String>
+    <String List="0" sID="03364A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="37" idMax="222">INNR:WNAM</REC>
+      <Source>Trident</Source>
+      <Dest>Трезубец</Dest>
+    </String>
+    <String List="0" sID="03364B" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="36" idMax="222">INNR:WNAM</REC>
+      <Source>Thorn</Source>
+      <Dest>Шип</Dest>
+    </String>
+    <String List="0" sID="03364C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="35" idMax="222">INNR:WNAM</REC>
+      <Source>Spaceroach</Source>
+      <Dest>Космотаракан</Dest>
+    </String>
+    <String List="0" sID="03364D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="34" idMax="222">INNR:WNAM</REC>
+      <Source>Milliwhale</Source>
+      <Dest>Миликит</Dest>
+    </String>
+    <String List="0" sID="03364E" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="33" idMax="222">INNR:WNAM</REC>
+      <Source>Jackknife</Source>
+      <Dest>Джекнайф</Dest>
+    </String>
+    <String List="0" sID="03364F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="32" idMax="222">INNR:WNAM</REC>
+      <Source>Grabber</Source>
+      <Dest>Хвататель</Dest>
+    </String>
+    <String List="0" sID="033651" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="30" idMax="222">INNR:WNAM</REC>
+      <Source>Flamethorn</Source>
+      <Dest>Пламерог</Dest>
+    </String>
+    <String List="0" sID="033652" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="29" idMax="222">INNR:WNAM</REC>
+      <Source>Coralheart</Source>
+      <Dest>Кораллосердец</Dest>
+    </String>
+    <String List="0" sID="033653" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="28" idMax="222">INNR:WNAM</REC>
+      <Source>Centiskull</Source>
+      <Dest>Сороконожкоголов</Dest>
+    </String>
+    <String List="0" sID="033654" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="27" idMax="222">INNR:WNAM</REC>
+      <Source>Carasnail</Source>
+      <Dest>Караснейил</Dest>
+    </String>
+    <String List="0" sID="033655" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="26" idMax="222">INNR:WNAM</REC>
+      <Source>Vulture</Source>
+      <Dest>Стервятник</Dest>
+    </String>
+    <String List="0" sID="033656" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="25" idMax="222">INNR:WNAM</REC>
+      <Source>Vectorback</Source>
+      <Dest>Вектроспин</Dest>
+    </String>
+    <String List="0" sID="033657" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="24" idMax="222">INNR:WNAM</REC>
+      <Source>Twistfin</Source>
+      <Dest>Вихреплавник</Dest>
+    </String>
+    <String List="0" sID="033658" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="23" idMax="222">INNR:WNAM</REC>
+      <Source>Sporeback</Source>
+      <Dest>Спороспин</Dest>
+    </String>
+    <String List="0" sID="033659" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="22" idMax="222">INNR:WNAM</REC>
+      <Source>Sloth</Source>
+      <Dest>Ленивец</Dest>
+    </String>
+    <String List="0" sID="03365A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="21" idMax="222">INNR:WNAM</REC>
+      <Source>Silverfish</Source>
+      <Dest>Серебрянка</Dest>
+    </String>
+    <String List="0" sID="03365B" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="20" idMax="222">INNR:WNAM</REC>
+      <Source>Shroomhead</Source>
+      <Dest>Грибоголов</Dest>
+    </String>
+    <String List="0" sID="03365C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="19" idMax="222">INNR:WNAM</REC>
+      <Source>Reefwalker</Source>
+      <Dest>Рифоходец</Dest>
+    </String>
+    <String List="0" sID="03365D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="18" idMax="222">INNR:WNAM</REC>
+      <Source>Orchid</Source>
+      <Dest>Орхидея</Dest>
+    </String>
+    <String List="0" sID="03365E" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="17" idMax="222">INNR:WNAM</REC>
+      <Source>Nightmare</Source>
+      <Dest>Кошмар</Dest>
+    </String>
+    <String List="0" sID="03365F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="16" idMax="222">INNR:WNAM</REC>
+      <Source>Monitor</Source>
+      <Dest>Наблюдатель</Dest>
+    </String>
+    <String List="0" sID="033660" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="15" idMax="222">INNR:WNAM</REC>
+      <Source>Hammersaur</Source>
+      <Dest>Молотозавр</Dest>
+    </String>
+    <String List="0" sID="033661" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="14" idMax="222">INNR:WNAM</REC>
+      <Source>Foxbat</Source>
+      <Dest>Летучая лиса</Dest>
+    </String>
+    <String List="0" sID="033662" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="13" idMax="222">INNR:WNAM</REC>
+      <Source>Dodo</Source>
+      <Dest>Додо</Dest>
+    </String>
+    <String List="0" sID="033663" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="12" idMax="222">INNR:WNAM</REC>
+      <Source>Twintail</Source>
+      <Dest>Двухвост</Dest>
+    </String>
+    <String List="0" sID="033664" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="11" idMax="222">INNR:WNAM</REC>
+      <Source>Bladeback</Source>
+      <Dest>Лезвеспин</Dest>
+    </String>
+    <String List="0" sID="033665" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="10" idMax="222">INNR:WNAM</REC>
+      <Source>Swimmer</Source>
+      <Dest>Плывун</Dest>
+    </String>
+    <String List="0" sID="033666" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="9" idMax="222">INNR:WNAM</REC>
+      <Source>Quadruped</Source>
+      <Dest>Четвероног</Dest>
+    </String>
+    <String List="0" sID="033667" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="8" idMax="222">INNR:WNAM</REC>
+      <Source>Octopede</Source>
+      <Dest>Восьминог</Dest>
+    </String>
+    <String List="0" sID="033668" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="7" idMax="222">INNR:WNAM</REC>
+      <Source>Mantid</Source>
+      <Dest>Богомол</Dest>
+    </String>
+    <String List="0" sID="033669" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="6" idMax="222">INNR:WNAM</REC>
+      <Source>Manta</Source>
+      <Dest>Манта</Dest>
+    </String>
+    <String List="0" sID="03366A" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="5" idMax="222">INNR:WNAM</REC>
+      <Source>Critter</Source>
+      <Dest>Кроха</Dest>
+    </String>
+    <String List="0" sID="03366B" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="4" idMax="222">INNR:WNAM</REC>
+      <Source>Hopper</Source>
+      <Dest>Прыгун</Dest>
+    </String>
+    <String List="0" sID="03366C" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="3" idMax="222">INNR:WNAM</REC>
+      <Source>Hexapod</Source>
+      <Dest>Шестеног</Dest>
+    </String>
+    <String List="0" sID="03366D" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="2" idMax="222">INNR:WNAM</REC>
+      <Source>Flyer</Source>
+      <Dest>Летун</Dest>
+    </String>
+    <String List="0" sID="03366E" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="1" idMax="222">INNR:WNAM</REC>
+      <Source>Floater</Source>
+      <Dest>Поплавок</Dest>
+    </String>
+    <String List="0" sID="03366F" Partial="2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="0" idMax="222">INNR:WNAM</REC>
+      <Source>Biped</Source>
+      <Dest>Двуногий</Dest>
+    </String>
+    <String List="0" sID="0336CB" Partial="2">
+      <EDID>CCT_Instance_Name_Diet_FilterFeeder</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Grazer</Source>
+      <Dest>Травоядник</Dest>
+    </String>
+    <String List="0" sID="033805" Partial="2">
+      <EDID>Handscanner_AllowScanAtHighlightRange</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Swimmer</Source>
+      <Dest>Плывун</Dest>
+    </String>
+    <String List="0" sID="033D91" Partial="2">
+      <EDID>EncAceles01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D92" Partial="2">
+      <EDID>EncAceles02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D93" Partial="2">
+      <EDID>EncAceles03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D94" Partial="2">
+      <EDID>EncAceles04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D95" Partial="2">
+      <EDID>EncAceles05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D96" Partial="2">
+      <EDID>EncAceles06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D97" Partial="2">
+      <EDID>EncAceles07</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D98" Partial="2">
+      <EDID>EncAceles08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D99" Partial="2">
+      <EDID>EncAceles09</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D9A" Partial="2">
+      <EDID>EncAceles10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+    <String List="0" sID="033D9B" Partial="2">
+      <EDID>EncAceles11</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ледолес</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

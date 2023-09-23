@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0033F9">
+      <EDID>Skin_QuadrupedB_Aceles</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="00E0FF">
+      <EDID>LvlAceles</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="00E6C5">
+      <EDID>UC_RHQ_LvlAcelesUnaggressive</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="0335C3">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="172" idMax="222">INNR:WNAM</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D91">
+      <EDID>EncAceles01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D92">
+      <EDID>EncAceles02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D93">
+      <EDID>EncAceles03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D94">
+      <EDID>EncAceles04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D95">
+      <EDID>EncAceles05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D96">
+      <EDID>EncAceles06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D97">
+      <EDID>EncAceles07</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D98">
+      <EDID>EncAceles08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D99">
+      <EDID>EncAceles09</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D9A">
+      <EDID>EncAceles10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+    <String List="0" sID="033D9B">
+      <EDID>EncAceles11</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aceles</Source>
+      <Dest>Ацилис</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

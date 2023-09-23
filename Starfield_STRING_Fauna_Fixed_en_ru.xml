@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0085C9">
+      <EDID>CCT_Instance_Name_Apex</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Apex</Source>
+      <Dest>Апекс</Dest>
+    </String>
+    <String List="0" sID="00DE3D" Partial="2">
+      <EDID>Traits_OctopedeA_RoundshellCrab_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Roundshell Crab</Source>
+      <Dest>Круглопанцирный Краб</Dest>
+    </String>
+    <String List="0" sID="00DE53" Partial="2">
+      <EDID>EncTerrormorphElder11</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00DF1F" Partial="2">
+      <EDID>EncTerrormorphElder09</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00DF2B" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator01_PlayerAlly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00DF5D" Partial="2">
+      <EDID>Traits_OctopedeA_RoundshellCrab_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Roundshell Crab</Source>
+      <Dest>Круглопанцирный Краб</Dest>
+    </String>
+    <String List="0" sID="00DF70" Partial="2">
+      <EDID>Traits_OctopedeA_BlisterCrab_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Blister Crab</Source>
+      <Dest>Пузырчатый Краб</Dest>
+    </String>
+    <String List="0" sID="00E36E" Partial="2">
+      <EDID>UC08_1stThrall_PCM_Toliman_Toliman-II_Prey01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00E3A4" Partial="2">
+      <EDID>EncTerrormorphElder02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E3A9" Partial="2">
+      <EDID>Traits_OctopedeA_MaggotCrab_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Maggot Crab</Source>
+      <Dest>Личинка Краба</Dest>
+    </String>
+    <String List="0" sID="00E3E7" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Prey02_PlayerAlly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00E408" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator02_PlayerAlly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00E41C" Partial="2">
+      <EDID>EncTerrormorphElder04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E41D" Partial="2">
+      <EDID>EncTerrormorphElder05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E438" Partial="2">
+      <EDID>Traits_Critter_Trilobite</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  Краулер</Dest>
+    </String>
+    <String List="0" sID="00E44F" Partial="2">
+      <EDID>EncOctopedeA01Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Сталкер</Dest>
+    </String>
+    <String List="0" sID="00E473" Partial="2">
+      <EDID>Traits_OctopedeA_RockCrab_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Rock Crab</Source>
+      <Dest>Скальный Краб</Dest>
+    </String>
+    <String List="0" sID="00E474" Partial="2">
+      <EDID>Traits_OctopedeA_RoundshellCrab_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Roundshell Crab</Source>
+      <Dest>Круглопанцирный Краб</Dest>
+    </String>
+    <String List="0" sID="00E475" Partial="2">
+      <EDID>Traits_OctopedeA_HornedCrab_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Horned Crab</Source>
+      <Dest>Рогатый Краб</Dest>
+    </String>
+    <String List="0" sID="00E477" Partial="2">
+      <EDID>Traits_OctopedeA_RockCrab_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Rock Crab</Source>
+      <Dest>Скальный Краб</Dest>
+    </String>
+    <String List="0" sID="00E479" Partial="2">
+      <EDID>Traits_OctopedeA_HornedCrab_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Horned Crab</Source>
+      <Dest>Рогатый Краб</Dest>
+    </String>
+    <String List="0" sID="00E47B" Partial="2">
+      <EDID>Traits_OctopedeA_Base_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Сталкер</Dest>
+    </String>
+    <String List="0" sID="00E4BB" Partial="2">
+      <EDID>CCT_OctopedeAHornedCrabTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Horned Crab</Source>
+      <Dest>Рогатый Краб</Dest>
+    </String>
+    <String List="0" sID="00E8B2" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Prey01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00E8B3" Partial="2">
+      <EDID>UC08_1stThrall_PCM_Toliman_Toliman-II_Prey02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00E8E9" Partial="2">
+      <EDID>POI027_TestOctopedeA_MaggotCrab</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Maggot Crab</Source>
+      <Dest>Личинка Краба</Dest>
+    </String>
+    <String List="0" sID="00E9AC" Partial="2">
+      <EDID>EncTerrormorphElder03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9AD" Partial="2">
+      <EDID>EncTerrormorphElder06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9AE" Partial="2">
+      <EDID>EncTerrormorphElder07</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9AF" Partial="2">
+      <EDID>EncTerrormorphElder08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9B0" Partial="2">
+      <EDID>EncTerrormorphElder10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00E9B1" Partial="2">
+      <EDID>EncTerrormorphElder01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="00EA1B" Partial="2">
+      <EDID>Traits_OctopedeA_RockCrab_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Rock Crab</Source>
+      <Dest>Скальный Краб</Dest>
+    </String>
+    <String List="0" sID="00EA1C" Partial="2">
+      <EDID>Traits_OctopedeA_MaggotCrab_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Maggot Crab</Source>
+      <Dest>Личинка Краба</Dest>
+    </String>
+    <String List="0" sID="00EA1E" Partial="2">
+      <EDID>Traits_OctopedeA_BlisterCrab_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Blister Crab</Source>
+      <Dest>Пузырчатый Краб</Dest>
+    </String>
+    <String List="0" sID="00EA1F" Partial="2">
+      <EDID>LvlOctopedeAMaggotCrab</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Maggot Crab</Source>
+      <Dest>Личинка Краба</Dest>
+    </String>
+    <String List="0" sID="00EA2C" Partial="2">
+      <EDID>Traits_OctopedeA_SpikedCrab_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Spiked Crab</Source>
+      <Dest>Шипастый Краб</Dest>
+    </String>
+    <String List="0" sID="00EA68" Partial="2">
+      <EDID>Traits_OctopedeA_Base_Large</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Сталкер</Dest>
+    </String>
+    <String List="0" sID="00EA6A" Partial="2">
+      <EDID>Traits_OctopedeA_HornedCrab_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Horned Crab</Source>
+      <Dest>Рогатый Краб</Dest>
+    </String>
+    <String List="0" sID="00EA6B" Partial="2">
+      <EDID>Traits_OctopedeA_MaggotCrab_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Maggot Crab</Source>
+      <Dest>Личинка Краба</Dest>
+    </String>
+    <String List="0" sID="00EA6D" Partial="2">
+      <EDID>Traits_OctopedeA_BlisterCrab_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Blister Crab</Source>
+      <Dest>Пузырчатый Краб</Dest>
+    </String>
+    <String List="0" sID="00EBBC" Partial="2">
+      <EDID>PCM_Narion_Kreet_StalkerPredatorA</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Сталкер</Dest>
+    </String>
+    <String List="0" sID="00EDC8" Partial="2">
+      <EDID>UC08_1stThrall_PCM_Toliman_Toliman-II_Prey01a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00EE11" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00EE24" Partial="2">
+      <EDID>Traits_OctopedeA_SpikedCrab_Small</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Spiked Crab</Source>
+      <Dest>Шипастый Краб</Dest>
+    </String>
+    <String List="0" sID="00EE5C" Partial="2">
+      <EDID>Traits_OctopedeA_SpikedCrab_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Spiked Crab</Source>
+      <Dest>Шипастый Краб</Dest>
+    </String>
+    <String List="0" sID="00EE5F" Partial="2">
+      <EDID>Traits_OctopedeA_Base_Medium</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Stalker</Source>
+      <Dest>Критский  Сталкер</Dest>
+    </String>
+    <String List="0" sID="00F055" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Prey02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="00F056" Partial="2">
+      <EDID>UC08_PCM_Toliman_Toliman-II_Predator02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Thrall</Source>
+      <Dest>Террорморф Прислужник</Dest>
+    </String>
+    <String List="0" sID="02E326" Partial="2">
+      <EDID>LvlTerrormorphDiseased</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Diseased Terrormorph</Source>
+      <Dest>Больной Террорморф</Dest>
+    </String>
+    <String List="0" sID="02E32A" Partial="2">
+      <EDID>UC08_LvlTerrormorphAnomaly</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Terrormorph Anomaly</Source>
+      <Dest>Террорморф Аномальный</Dest>
+    </String>
+    <String List="0" sID="02E330" Partial="2">
+      <EDID>LvlTerrormorphBurrower</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Burrowing Terrormorph</Source>
+      <Dest>Зарывающийся Террорморф</Dest>
+    </String>
+    <String List="0" sID="02E345" Partial="2">
+      <EDID>LvlTerrormorphAlpha</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alpha Terrormorph</Source>
+      <Dest>Альфа Террорморф</Dest>
+    </String>
+    <String List="0" sID="02E346" Partial="2">
+      <EDID>LvlTerrormorphAlbino</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Albino Terrormorph</Source>
+      <Dest>Террорморф Альбинос </Dest>
+    </String>
+    <String List="0" sID="02E349" Partial="2">
+      <EDID>LvlTerrormorphCloaked</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cloaked Terrormorph</Source>
+      <Dest>Терраморф Маскировщик</Dest>
+    </String>
+    <String List="0" sID="02E3A8" Partial="2">
+      <EDID>LvlTerrormorphController</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Controller Terrormorph</Source>
+      <Dest>Террорморф Контроллер</Dest>
+    </String>
+    <String List="0" sID="02EECE">
+      <EDID>CCT_Instance_Name_Hunting</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Apex</Source>
+      <Dest>Апекс</Dest>
+    </String>
+    <String List="0" sID="030473" Partial="2">
+      <EDID>LC003_Corpse_Critter_Trilobite</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kreet Crawler</Source>
+      <Dest>Критский  Краулер</Dest>
+    </String>
+    <String List="0" sID="033561">
+      <EDID>dn_CCTPrefixes</EDID>
+      <REC id="1" idMax="8">INNR:WNAM</REC>
+      <Source>Apex</Source>
+      <Dest>Апекс</Dest>
+    </String>
+    <String List="0" sID="033599">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="214" idMax="222">INNR:WNAM</REC>
+      <Source>Seahag</Source>
+      <Dest>Моредух</Dest>
+    </String>
+    <String List="0" sID="0335E2">
+      <EDID>dn_CCTSuffixes</EDID>
+      <REC id="141" idMax="222">INNR:WNAM</REC>
+      <Source>Thornmantis</Source>
+      <Dest>Богомолошип</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

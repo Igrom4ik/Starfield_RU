@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="008454" Partial="1">
+      <EDID>Category_ShipMod_Structure</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Structural</Source>
+      <Dest>Структуры</Dest>
+    </String>
+    <String List="0" sID="008456" Partial="1">
+      <EDID>Category_ShipMod_Hab</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Habs</Source>
+      <Dest>Хабы</Dest>
+    </String>
+    <String List="0" sID="008457" Partial="1">
+      <EDID>Category_ShipMod_Bay</EDID>
+      <REC>KYWD:FULL</REC>
+      <Source>Bays</Source>
+      <Dest>Бухты</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

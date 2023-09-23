@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="002807">
+      <EDID>MS04SpaceshipActivator</EDID>
+      <REC>ACTI:ATTX</REC>
+      <Source>Activate Mantis Ship</Source>
+      <Dest>Активировать корабль &quot;Богомол&quot;</Dest>
+    </String>
+    <String List="0" sID="006253">
+      <EDID>SpaceshipPickupDistance</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SPUD</Source>
+      <Dest>ДСТС</Dest>
+    </String>
+    <String List="0" sID="00C0F0" Partial="2">
+      <EDID>SWB_Particle_LightScythe_Exterminator_95MeV_Helion_lvl60</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C11A" Partial="2">
+      <EDID>SWB_Particle_LightScythe_Eradicator_75MeV_Neutron_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C11C" Partial="2">
+      <EDID>SWA_Particle_LightScythe_Vaporizer_35MeV_Proton_lvl48</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C11E" Partial="2">
+      <EDID>SWA_Particle_LightScythe_Ravager_20MeV_Electron_lvl16</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C122" Partial="2">
+      <EDID>SWC_Particle_Horizon_Disruptor_3340_Alpha_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C124" Partial="2">
+      <EDID>SWB_Particle_Ballistic_PBO-175_Helion_Auto_lvl60</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C126" Partial="2">
+      <EDID>SWB_Particle_Horizon_Disruptor_3320_Neutron_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C128" Partial="2">
+      <EDID>SWA_Particle_Horizon_Disruptor_3310_Proton_lvl26</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C12A" Partial="2">
+      <EDID>SWA_Particle_Horizon_Disruptor_3300_Electron_lvl06</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C130" Partial="2">
+      <EDID>SWC_Particle_Ballistic_PB-300_Alpha_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C136" Partial="2">
+      <EDID>SWA_Particle_Ballistic_PB-50_Proton_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C138" Partial="2">
+      <EDID>SWA_Particle_Ballistic_PB-30_Electron_lvl10</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C14C" Partial="2">
+      <EDID>SWB_Particle_Ballistic_PB-100_Neutron_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C163" Partial="2">
+      <EDID>SWC_Particle_LightScythe_Obliterator-RF_250MeV_Alpha_Auto_lvl64</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C165" Partial="2">
+      <EDID>SWB_Particle_LightScythe_Exterminator-RF_95MeV_Helion_Auto_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C169" Partial="2">
+      <EDID>SWA_Particle_LightScythe_Vaporizer-RF_35MeV_Proton_Auto_lvl64</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C16B" Partial="2">
+      <EDID>SWA_Particle_LightScythe_Ravager-RF_20MeV_Electron_Auto_lvl26</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C16D" Partial="2">
+      <EDID>SWC_Particle_Horizon_Disruptor_3340A_Alpha_Auto_Turret_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C16F" Partial="2">
+      <EDID>SWB_Particle_Horizon_Disruptor_3330A_Helion_Auto_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C171" Partial="2">
+      <EDID>SWB_Particle_Horizon_Disruptor_3320A_Neutron_Auto_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C173" Partial="2">
+      <EDID>SWA_Particle_Horizon_Disruptor_3310A_Proton_Auto_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C175" Partial="2">
+      <EDID>SWA_Particle_Horizon_Disruptor_3300A_Electron_Auto_lvl10</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C177" Partial="2">
+      <EDID>SWC_Particle_Ballistic_PBO-300_Alpha_Auto_turret_lvl34</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C179" Partial="2">
+      <EDID>SWB_Particle_Horizon_Disruptor_3330_Helion_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C17B" Partial="2">
+      <EDID>SWB_Particle_Ballistic_PBO-100_Neutron_Auto_lvl26</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C17D" Partial="2">
+      <EDID>SWA_Particle_Ballistic_PBO-50_Proton_Auto_lvl48</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C17F" Partial="2">
+      <EDID>SWA_Particle_Ballistic_PBO-30_Electron_Auto_lvl16</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C183" Partial="2">
+      <EDID>SWC_Particle_LightScythe_Obliterator_250MeV_Alpha_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C1BB" Partial="2">
+      <EDID>SWB_Particle_LightScythe_Eradicator-RF_75MeV_Neutron_Auto_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C1D8" Partial="2">
+      <EDID>SWB_Particle_Ballistic_PB-175_Helion_lvl36</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C1F5" Partial="2">
+      <EDID>SWA_EM_Ballistic_EMP-200_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C1F7" Partial="2">
+      <EDID>SWA_EM_Ballistic_EMP-80_lvl08</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C1FD" Partial="2">
+      <EDID>SWB_EM_LightScythe_Firebolt_4000_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C208" Partial="2">
+      <EDID>SWB_EM_Ballistic_EMP-500_lvl16</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C237" Partial="2">
+      <EDID>SWC_EM_Shinigami_Tatsu_501EM_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C239" Partial="2">
+      <EDID>SWC_EM_Shinigami_Tatsu_500EM_lvl64</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C23D" Partial="2">
+      <EDID>SWA_EM_Shinigami_Supaku_250gc_lvl64</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C23F" Partial="2">
+      <EDID>SWA_EM_Shinigami_Supaku_110gc_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C245" Partial="2">
+      <EDID>SWC_EM_LightScythe_Fulminator_8000_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C249" Partial="2">
+      <EDID>SWA_EM_LightScythe_Nullifier_1750_lvl48</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C24B" Partial="2">
+      <EDID>SWA_EM_LightScythe_Spark_750_lvl16</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="00C284" Partial="2">
+      <EDID>SWB_Particle_Ballistic_PBO-100_Neutron_Auto_Turret_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C2CF" Partial="2">
+      <EDID>SWB_Particle_LightScythe_Eradicator-RF_75MeV_Neutron_Auto_Turret_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C2DE" Partial="2">
+      <EDID>SWB_Particle_Horizon_Disruptor_3320_Neutron_Turret_lvl26</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="00C353" Partial="2">
+      <EDID>SWC_EM_Ballistic_EMP-1000_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>EM</Source>
+      <Dest>ЭМ</Dest>
+    </String>
+    <String List="0" sID="031377" Partial="2">
+      <EDID>SWC_Particle_LightScythe_Obliterator_250MeV_Alpha_Turret_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="03193B" Partial="2">
+      <EDID>SWC_Particle_Ballistic_PBO-300_Alpha_Auto_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="031B8D" Partial="2">
+      <EDID>SWC_Particle_Horizon_Disruptor_3340A_Alpha_Auto_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="032143" Partial="2">
+      <EDID>SWA_Particle_Vanguard_Obliterator_Auto_UC01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="032147" Partial="2">
+      <EDID>SWC_Particle_Vanguard_Ares_Auto_UC01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="032AAB" Partial="2">
+      <EDID>SWA_Particle_Ballistic_PBO-40_Electron_Auto_Experimental_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>PAR</Source>
+      <Dest>ЧСТ</Dest>
+    </String>
+    <String List="0" sID="033E55" Partial="2">
+      <EDID>SWC_StarbornWeapon_Supernova02_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>NOV</Source>
+      <Dest>НОВ</Dest>
+    </String>
+    <String List="0" sID="033E56" Partial="2">
+      <EDID>SWC_StarbornWeapon_Supernova03_lvl56</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>NOV</Source>
+      <Dest>НОВ</Dest>
+    </String>
+    <String List="0" sID="033F1A" Partial="2">
+      <EDID>SWC_StarbornWeapon_GravityTorpedo02_lvl40</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>TOR</Source>
+      <Dest>ТРП</Dest>
+    </String>
+    <String List="0" sID="033FFD" Partial="2">
+      <EDID>SWC_StarbornWeapon_GravityTorpedo01_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>TOR</Source>
+      <Dest>ТРП</Dest>
+    </String>
+    <String List="0" sID="033FFF" Partial="2">
+      <EDID>SWC_StarbornWeapon_GravityTorpedo03_lvl50</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>TOR</Source>
+      <Dest>ТРП</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

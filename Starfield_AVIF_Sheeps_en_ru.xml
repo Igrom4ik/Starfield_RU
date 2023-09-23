@@ -1,0 +1,1235 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="002219">
+      <EDID>DamageShipShieldsRechargeEffect</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Damage Shield Regen Rate</Source>
+      <Dest>Скорость восстановления щита</Dest>
+    </String>
+    <String List="0" sID="004883" Partial="1">
+      <EDID>SWA_Missile_Ballistic_CE-19_lvl44</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="0048E4" Partial="1">
+      <EDID>SMOD_Nova_GravDrive_OLD</EDID>
+      <REC>STAT:FULL</REC>
+      <Source>Grav Drive</Source>
+      <Dest>Гравипривод</Dest>
+    </String>
+    <String List="0" sID="004A94" Partial="1">
+      <EDID>ShipPI_SMOD_Grav_Nova_NG150_Ext01</EDID>
+      <REC>PKIN:FULL</REC>
+      <Source>Grav Drive</Source>
+      <Dest>Гравипривод</Dest>
+    </String>
+    <String List="0" sID="0061E1" Partial="1">
+      <EDID>SpaceshipEnginePartMaxBackwardSpeed</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Reverse Speed</Source>
+      <Dest>Макс. скорость реверса</Dest>
+    </String>
+    <String List="0" sID="0061E3" Partial="1">
+      <EDID>SpaceshipBackwardMaxSpeedMult</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Reverse Max Speed Multiplier</Source>
+      <Dest>Множитель макc. скорости реверса</Dest>
+    </String>
+    <String List="0" sID="0061E6" Partial="1">
+      <EDID>ENV_Resist_Corrosive</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Corrosive Hazard Resistance</Source>
+      <Dest>Устойчивость к коррозии</Dest>
+    </String>
+    <String List="0" sID="0061E7" Partial="1">
+      <EDID>SpaceshipThrusterPartStrafeForce</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Strafe Force</Source>
+      <Dest>Сила стрейфа</Dest>
+    </String>
+    <String List="0" sID="0061EB" Partial="1">
+      <EDID>SpaceshipGravJumpThrust</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>JUMP</Source>
+      <Dest>ПРЫЖОК</Dest>
+    </String>
+    <String List="0" sID="0061EC">
+      <EDID>SpaceshipGravJumpThrust</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Thrust</Source>
+      <Dest>Дистанция гравит. прыжка</Dest>
+    </String>
+    <String List="0" sID="0061EE" Partial="1">
+      <EDID>SpaceshipThrusterPartMaxStrafeSpeed</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Strafe Speed</Source>
+      <Dest>Скорость стрейфа</Dest>
+    </String>
+    <String List="0" sID="0061EF" Partial="1">
+      <EDID>SpaceshipShieldPartPowerBonus</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SHDB</Source>
+      <Dest>БКЩ</Dest>
+    </String>
+    <String List="0" sID="0061F1" Partial="1">
+      <EDID>SpaceshipThrusterPartPowerBonus</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>THRB</Source>
+      <Dest>БКМД</Dest>
+    </String>
+    <String List="0" sID="0061F2" Partial="1">
+      <EDID>SpaceshipThrusterPartPowerBonus</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Thruster Power Bonus</Source>
+      <Dest>Бонус к мощности двигателя</Dest>
+    </String>
+    <String List="0" sID="0061F3" Partial="1">
+      <EDID>SpaceshipEnginePartPowerBonus</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>ENGB</Source>
+      <Dest>БКД</Dest>
+    </String>
+    <String List="0" sID="0061F4" Partial="1">
+      <EDID>SpaceshipEnginePartPowerBonus</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Engine Power Bonus</Source>
+      <Dest>Бонус к мощн. двигателя</Dest>
+    </String>
+    <String List="0" sID="0061F5" Partial="1">
+      <EDID>SpaceshipLanderRating</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Lander Thrust</Source>
+      <Dest>Подъемная сила лендера</Dest>
+    </String>
+    <String List="0" sID="0061F8" Partial="1">
+      <EDID>SpaceshipEnginePartMaxRollVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Roll Speed</Source>
+      <Dest>Макс. скорость вращения</Dest>
+    </String>
+    <String List="0" sID="0061F9" Partial="1">
+      <EDID>SpaceshipEnginePartMaxPitchVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Pitch Speed</Source>
+      <Dest>Скорость крена</Dest>
+    </String>
+    <String List="0" sID="0061FB" Partial="1">
+      <EDID>SpaceshipGravJumpPartPowerBonus</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>GRVB</Source>
+      <Dest>БМГП</Dest>
+    </String>
+    <String List="0" sID="0061FC" Partial="1">
+      <EDID>SpaceshipGravJumpPartPowerBonus</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Power Bonus</Source>
+      <Dest>Бонус к мощн. гравипрыжка</Dest>
+    </String>
+    <String List="0" sID="00620C" Partial="1">
+      <EDID>ShieldHealth</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SHD</Source>
+      <Dest>ЩИТ</Dest>
+    </String>
+    <String List="0" sID="00620D" Partial="1">
+      <EDID>ShieldHealth</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Shield Health</Source>
+      <Dest>Целостность щита</Dest>
+    </String>
+    <String List="0" sID="006218" Partial="1">
+      <EDID>SpaceshipGravJumpDistancePerDamage</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Distance Per Damage</Source>
+      <Dest>Расстояние гравипрыжка за урон</Dest>
+    </String>
+    <String List="0" sID="00621D" Partial="1">
+      <EDID>SpaceshipGravJumpCurrentPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>GRV</Source>
+      <Dest>ГРВ</Dest>
+    </String>
+    <String List="0" sID="00621E" Partial="1">
+      <EDID>SpaceshipGravJumpCurrentPower</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Drive</Source>
+      <Dest>Гравипривод</Dest>
+    </String>
+    <String List="0" sID="006221" Partial="1">
+      <EDID>SpaceshipReactorPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>RCT</Source>
+      <Dest>МР</Dest>
+    </String>
+    <String List="0" sID="006223" Partial="1">
+      <EDID>ShipSystemEngineHealth</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Engine Health</Source>
+      <Dest>Целостность двигателя</Dest>
+    </String>
+    <String List="0" sID="006225" Partial="1">
+      <EDID>ShipSystemGravDriveHealth</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Drive Health</Source>
+      <Dest>Целостность гравидрайва</Dest>
+    </String>
+    <String List="0" sID="006227" Partial="1">
+      <EDID>ShipSystemEngineEMHealth</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Engine EM Health</Source>
+      <Dest>Целостность ЭМ двигателя</Dest>
+    </String>
+    <String List="0" sID="00623B" Partial="1">
+      <EDID>SpaceshipWeaponPowerGroup3</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Weapon Power Group 3</Source>
+      <Dest>Группа мощности оружия 3</Dest>
+    </String>
+    <String List="0" sID="006240" Partial="1">
+      <EDID>SpaceshipCrewRating</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>CREW</Source>
+      <Dest>ЭКПЖ</Dest>
+    </String>
+    <String List="0" sID="006242" Partial="1">
+      <EDID>SpaceshipCrewSlots</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>CREW</Source>
+      <Dest>ЭКПЖ</Dest>
+    </String>
+    <String List="0" sID="006243" Partial="1">
+      <EDID>SpaceshipCrewSlots</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Crew Stations</Source>
+      <Dest>Посты экипажа</Dest>
+    </String>
+    <String List="0" sID="006245" Partial="1">
+      <EDID>SpaceshipScanJammer</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Jammer</Source>
+      <Dest>Подавитель</Dest>
+    </String>
+    <String List="0" sID="00624B" Partial="1">
+      <EDID>SpaceshipDriftActive</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Drift Active</Source>
+      <Dest>Активный дрейф</Dest>
+    </String>
+    <String List="0" sID="006253" Partial="1">
+      <EDID>SpaceshipPickupDistance</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SPUD</Source>
+      <Dest>ДСКК</Dest>
+    </String>
+    <String List="0" sID="006254" Partial="1">
+      <EDID>SpaceshipPickupDistance</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Pickup Dist</Source>
+      <Dest>Дист. стыковки</Dest>
+    </String>
+    <String List="0" sID="006259" Partial="1">
+      <EDID>ShieldVolatileHealth</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SHD</Source>
+      <Dest>ЩИТ</Dest>
+    </String>
+    <String List="0" sID="00625A" Partial="1">
+      <EDID>ShieldVolatileHealth</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Shield Health</Source>
+      <Dest>Целостность щита</Dest>
+    </String>
+    <String List="0" sID="00625B">
+      <EDID>ShieldMaxHealth</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Shield Max Health</Source>
+      <Dest>Макс. целостность щита</Dest>
+    </String>
+    <String List="0" sID="00625C">
+      <EDID>ShieldRegenRate</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Regen Rate</Source>
+      <Dest>Скорость восстановления</Dest>
+    </String>
+    <String List="0" sID="006273" Partial="1">
+      <EDID>SpaceshipBoostActive</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Boost Active</Source>
+      <Dest>Буст активирован</Dest>
+    </String>
+    <String List="0" sID="006275" Partial="1">
+      <EDID>SpaceshipGravJumpMaxPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>GRV</Source>
+      <Dest>ГРВ</Dest>
+    </String>
+    <String List="0" sID="006278" Partial="1">
+      <EDID>SpaceshipGravJumpInitiated</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Initiated</Source>
+      <Dest>Начат гравитационный прыжок</Dest>
+    </String>
+    <String List="0" sID="00627E">
+      <EDID>SpaceshipThrusterPartForce</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Maneuvering Thrust</Source>
+      <Dest>Маневровая тяга</Dest>
+    </String>
+    <String List="0" sID="00627F" Partial="1">
+      <EDID>SpaceshipGravJumpFuel</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>FUEL</Source>
+      <Dest>ТОПЛ</Dest>
+    </String>
+    <String List="0" sID="006280" Partial="1">
+      <EDID>SpaceshipGravJumpFuel</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Fuel</Source>
+      <Dest>Топливо для гравипрыжков</Dest>
+    </String>
+    <String List="0" sID="006281">
+      <EDID>SpaceshipEnginePartForce</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Engine Thrust</Source>
+      <Dest>Мощность двигателя</Dest>
+    </String>
+    <String List="0" sID="006284" Partial="1">
+      <EDID>SpaceshipBuildableThrusterPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>THR</Source>
+      <Dest>ТЯГ</Dest>
+    </String>
+    <String List="0" sID="006285" Partial="1">
+      <EDID>SpaceshipBuildableThrusterPower</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Thrusters</Source>
+      <Dest>Тяга</Dest>
+    </String>
+    <String List="0" sID="006286" Partial="1">
+      <EDID>SpaceshipBuildableEnginePower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>ENG</Source>
+      <Dest>ДВГ</Dest>
+    </String>
+    <String List="0" sID="00628A" Partial="1">
+      <EDID>SpaceshipCrew</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>CREW</Source>
+      <Dest>ЭКПЖ</Dest>
+    </String>
+    <String List="0" sID="00628C" Partial="1">
+      <EDID>SpaceshipBuildableShieldPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SHD</Source>
+      <Dest>ЩИТ</Dest>
+    </String>
+    <String List="0" sID="00628D" Partial="1">
+      <EDID>SpaceshipBuildableShieldPower</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Shield Module</Source>
+      <Dest>Модуль щита</Dest>
+    </String>
+    <String List="0" sID="00628E" Partial="1">
+      <EDID>SpaceshipShieldPartMaxPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>POWER</Source>
+      <Dest>Мощность</Dest>
+    </String>
+    <String List="0" sID="006290" Partial="1">
+      <EDID>SpaceshipPassengerSlots</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Passenger Slots</Source>
+      <Dest>Пассажирские места</Dest>
+    </String>
+    <String List="0" sID="006291" Partial="1">
+      <EDID>SpaceshipRepairRate</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>REP</Source>
+      <Dest>РЕМ</Dest>
+    </String>
+    <String List="0" sID="006292" Partial="1">
+      <EDID>SpaceshipRepairRate</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Repair Rate</Source>
+      <Dest>Скорость ремонта</Dest>
+    </String>
+    <String List="0" sID="00629F">
+      <EDID>CarryWeight</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>CARGO</Source>
+      <Dest>Грузовместимость</Dest>
+    </String>
+    <String List="0" sID="0062A0">
+      <EDID>CarryWeight</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>CARGO</Source>
+      <Dest>Грузовместимость</Dest>
+    </String>
+    <String List="0" sID="0062A5" Partial="1">
+      <EDID>SpaceshipShieldRedistributionRate</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Shield Redistribution Rate</Source>
+      <Dest>Темп перераспред. щитов</Dest>
+    </String>
+    <String List="0" sID="0062A6" Partial="1">
+      <EDID>SpaceshipGravJumpMaxDistance</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Max Distance</Source>
+      <Dest>Гравипрыжок макс. расстояние</Dest>
+    </String>
+    <String List="0" sID="0062A7" Partial="1">
+      <EDID>SpaceshipBoostSpeed</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Boost Speed</Source>
+      <Dest>Увеличение скорости</Dest>
+    </String>
+    <String List="0" sID="0062A8" Partial="1">
+      <EDID>SpaceshipBoostFuel</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Boost Fuel</Source>
+      <Dest>Увеличение топлива</Dest>
+    </String>
+    <String List="0" sID="0062A9" Partial="1">
+      <EDID>SpaceshipMaxAvailablePower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>POWER</Source>
+      <Dest>Мощность</Dest>
+    </String>
+    <String List="0" sID="0062AA" Partial="1">
+      <EDID>SpaceshipMaxAvailablePower</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Power Generated</Source>
+      <Dest>Генерируемая мощность</Dest>
+    </String>
+    <String List="0" sID="0062AB" Partial="1">
+      <EDID>SpaceshipMainEnginePower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>ENG</Source>
+      <Dest>ДВГ</Dest>
+    </String>
+    <String List="0" sID="0062B0" Partial="1">
+      <EDID>SpaceshipGravJumpInterplanetaryDistanceMultiplier</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Jump Distance Mult</Source>
+      <Dest>Множ. дистанции прыжка</Dest>
+    </String>
+    <String List="0" sID="0062B1" Partial="1">
+      <EDID>SpaceshipGravJumpFlatFuelCost</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Flat Fuel Cost</Source>
+      <Dest>Расход топлива для гравипрыжка</Dest>
+    </String>
+    <String List="0" sID="0062B2" Partial="1">
+      <EDID>SpaceshipGravJumpDamageDistanceReductionMultiplier</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Grav Jump Damage Distance Multiplier</Source>
+      <Dest>Множ. расстояния урона гравипрыжка</Dest>
+    </String>
+    <String List="0" sID="0062B3" Partial="1">
+      <EDID>SpaceshipEnginePartMaxPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>POWER</Source>
+      <Dest>Мощность</Dest>
+    </String>
+    <String List="0" sID="0062BE" Partial="1">
+      <EDID>SpaceshipShieldPower</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SHD</Source>
+      <Dest>ЩИТ</Dest>
+    </String>
+    <String List="0" sID="0062C9" Partial="1">
+      <EDID>SpaceshipBoostRechargeRate</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Boost Recharge Rate</Source>
+      <Dest>Скорость перезарядки буста</Dest>
+    </String>
+    <String List="0" sID="008FAD" Partial="1">
+      <EDID>SMOD_Grav_Nova_NG150</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Grav Drive</Source>
+      <Dest>Гравипривод</Dest>
+    </String>
+    <String List="0" sID="00C021" Partial="1">
+      <EDID>SWA_Laser_Horizon_Dragon_231_IR_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C08D" Partial="1">
+      <EDID>SWB_Laser_Shinigami_Reza_10_PHz_UV_Auto_lvl66</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C08F" Partial="1">
+      <EDID>SWC_Ballistic_Horizon_Marauder_115N_Auto_lvl62</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0A8" Partial="1">
+      <EDID>SWB_Ballistic_Shinigami_Jishaku_AlNiCo_lvl48</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0AA" Partial="1">
+      <EDID>SWB_Ballistic_Horizon_Mauler_107I_Auto_lvl56</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0AC" Partial="1">
+      <EDID>SWB_Ballistic_Horizon_Mauler_107I_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0AE" Partial="1">
+      <EDID>SWB_Ballistic_Horizon_Mauler_106T_Auto_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0B0" Partial="1">
+      <EDID>SWB_Ballistic_Horizon_Mauler_106S_Experimental_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0B2" Partial="1">
+      <EDID>SWA_Ballistic_Horizon_Mauler_105U_Auto_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0B4" Partial="1">
+      <EDID>SWA_Ballistic_Horizon_Mauler_105U_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0B6" Partial="1">
+      <EDID>SWA_Ballistic_Horizon_Mauler_104L_Auto_lvl08</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0BF" Partial="1">
+      <EDID>SWC_Ballistic_Ballistic_MKE-9A_Auto_lvl72</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0C1" Partial="1">
+      <EDID>SWC_Ballistic_Ballistic_MKE-9_lvl44</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0C3" Partial="1">
+      <EDID>SWC_Ballistic_Ballistic_MKE-4A_Auto_lvl34</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0C5" Partial="1">
+      <EDID>SWC_Ballistic_Ballistic_MKE-4_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0C7" Partial="1">
+      <EDID>SWB_Ballistic_Ballistic_KE-49A_Auto_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0C9" Partial="1">
+      <EDID>SWB_Laser_LightScythe_Torch_250mw_UV_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0CB" Partial="1">
+      <EDID>SWB_Ballistic_Ballistic_KE-42A_Auto_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0CD" Partial="1">
+      <EDID>SWB_Ballistic_Ballistic_KE-42_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0CF" Partial="1">
+      <EDID>SWA_Ballistic_Ballistic_KE-31A_Auto_lvl58</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0D1" Partial="1">
+      <EDID>SWA_Ballistic_Ballistic_KE-31_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0D3" Partial="1">
+      <EDID>SWA_Ballistic_Ballistic_KE-20_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0D6" Partial="1">
+      <EDID>SWA_Ballistic_Shinigami_Dangan_27_lvl08</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0D8" Partial="1">
+      <EDID>SWB_Laser_Horizon_Dragon_241_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0DA" Partial="1">
+      <EDID>SWA_Laser_Shinigami_Reza_30_THz_IR_Auto_lvl58</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0E0" Partial="1">
+      <EDID>SWC_Laser_LightScythe_Blaze_2gw_SX_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0E2" Partial="1">
+      <EDID>SWB_Laser_LightScythe_Scorch_60mw_lvl18</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0E4" Partial="1">
+      <EDID>SWB_Ballistic_Ballistic_KE-49_lvl56</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C0E6" Partial="1">
+      <EDID>SWA_Laser_LightScythe_Flare_15MW_IR_lvl06</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0E8" Partial="1">
+      <EDID>SWA_Laser_LightScythe_Singe_4MW_MW_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0EC" Partial="1">
+      <EDID>SWC_Laser_Horizon_Dragon_261_SX_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C0EE" Partial="1">
+      <EDID>SWB_Laser_Horizon_Dragon_251_UV_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C100" Partial="1">
+      <EDID>SWA_Laser_Horizon_Dragon_221_MW_lvl01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C107" Partial="1">
+      <EDID>SWC_Ballistic_Shinigami_Jishaku_Nd_RF_Auto_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C109" Partial="1">
+      <EDID>SWC_Ballistic_Shinigami_Jishaku_Nd_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C10B" Partial="1">
+      <EDID>SWB_Ballistic_Shinigami_Jishaku_AlNiCo_RF_Auto_lvl66</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C10D" Partial="1">
+      <EDID>SWC_Ballistic_Horizon_Marauder_114ANC_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C10F" Partial="1">
+      <EDID>SWB_Ballistic_Shinigami_Jishaku_Fe_RF_Auto_lvl26</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C111" Partial="1">
+      <EDID>SWB_Ballistic_Shinigami_Jishaku_Fe_lvl22</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C113" Partial="1">
+      <EDID>SWA_Ballistic_Shinigami_Dangan_38_Auto_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C115" Partial="1">
+      <EDID>SWA_Ballistic_Shinigami_Dangan_38_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C117" Partial="1">
+      <EDID>SWB_Laser_Shinigami_Reza_600_THz_Auto_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C134" Partial="1">
+      <EDID>SWA_Ballistic_Shinigami_Dangan_27_Auto_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C13A" Partial="1">
+      <EDID>SWC_Laser_LightScythe_Blaze-P_2gw_SX_Auto_lvl34</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C13C" Partial="1">
+      <EDID>SWB_Laser_LightScythe_Torch-P_250mw_UV_Auto_lvl56</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C13E" Partial="1">
+      <EDID>SWB_Laser_LightScythe_Scorch-P_60mw_Auto_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C140" Partial="1">
+      <EDID>SWA_Missile_Ballistic_CE-09_lvl08</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C142" Partial="1">
+      <EDID>SWA_Laser_LightScythe_Singe-P_4mw_MW_Auto_lvl44</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C144" Partial="1">
+      <EDID>SWC_Laser_Horizon_Dragon_261P_SX_Auto_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C146" Partial="1">
+      <EDID>SWB_Laser_Horizon_Dragon_251P_UV_Auto_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C148" Partial="1">
+      <EDID>SWB_Laser_Horizon_Dragon_241P_Auto_lvl18</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C14A" Partial="1">
+      <EDID>SWA_Laser_Horizon_Dragon_231P_IR_Auto_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C14E" Partial="1">
+      <EDID>SWC_Laser_Shinigami_Reza_300_PHz_SX_Auto_lvl64</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C150" Partial="1">
+      <EDID>SWA_Missile_Shinigami_Tsukisasu_19K_lvl52</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C15C" Partial="1">
+      <EDID>SWA_Laser_LightScythe_Flare-P_15mw_IR_Auto_lvl12</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C185" Partial="1">
+      <EDID>SWA_Missile_Horizon_Infiltrator_SC-01_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C18B" Partial="1">
+      <EDID>SWB_Missile_LightScythe_Atlatl_280B_lvl48</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C18D" Partial="1">
+      <EDID>SWB_Missile_LightScythe_Atlatl_270B_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C191" Partial="1">
+      <EDID>SWB_Missile_Shinigami_Tsukisasu_33k_lvl66</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C193" Partial="1">
+      <EDID>SWB_Missile_Horizon_Hunter_Mag-450_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C195" Partial="1">
+      <EDID>SWB_Missile_Horizon_Hunter_Mag-350_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C19F" Partial="1">
+      <EDID>SWB_Missile_Ballistic_CE-39_lvl56</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1A1" Partial="1">
+      <EDID>SWB_Missile_Ballistic_CE-29_lvl22</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1A5" Partial="1">
+      <EDID>SWA_Missile_Shinigami_Tsukisasu_13K_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1AF" Partial="1">
+      <EDID>SWC_Missile_Shinigami_Tsukisasu_40k_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1B7" Partial="1">
+      <EDID>SWA_Missile_LightScythe_Atlatl_280A_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1B9" Partial="1">
+      <EDID>SWA_Missile_LightScythe_Atlatl_270A_lvl01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1BE" Partial="1">
+      <EDID>SWB_Missile_LightScythe_Atlatl_290B_Experimental_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1DC" Partial="1">
+      <EDID>SWC_Missile_Horizon_Devastator_1510_lvl84</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1DE" Partial="1">
+      <EDID>SWC_Missile_Horizon_Devastator_1500_lvl44</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1E4" Partial="1">
+      <EDID>SWC_Missile_Ballistic_CE-59_lvl62</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1E6" Partial="1">
+      <EDID>SWC_Missile_Ballistic_CE-49_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1EA" Partial="1">
+      <EDID>SWB_Missile_Shinigami_Tsukisasu_25k_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C1FF" Partial="1">
+      <EDID>SWA_Laser_Shinigami_Reza_30_THz_IR_lvl44</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C20A" Partial="1">
+      <EDID>SWB_Laser_Shinigami_Reza_10_PHz_UV_lvl56</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C20E" Partial="1">
+      <EDID>SWC_Laser_Shinigami_Reza_300_PHz_SX_lvl46</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C21E" Partial="1">
+      <EDID>SWB_Laser_Shinigami_Reza_600_THz_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C220" Partial="1">
+      <EDID>SWA_Missile_Horizon_Infiltrator_SC-02_lvl64</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="00C228" Partial="1">
+      <EDID>SWC_Laser_Shinigami_Reza_300_PHz_SX_Auto_Turret_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C22A" Partial="1">
+      <EDID>SWB_Laser_Shinigami_Reza_10_PHz_Auto_Turret_lvl76</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C247" Partial="1">
+      <EDID>SWA_Laser_Shinigami_Reza_45_GHz_MW_lvl12</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C24D" Partial="1">
+      <EDID>SWC_Ballistic_Horizon_Marauder_115N_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C24F" Partial="1">
+      <EDID>SWC_Ballistic_Horizon_Marauder_114ANC_Auto_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C282" Partial="1">
+      <EDID>SWB_Ballistic_Ballistic_KE-42_Turret_lvl48</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C2BE" Partial="1">
+      <EDID>SWB_Laser_Horizon_Dragon_241_Turret_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C2C0" Partial="1">
+      <EDID>SWB_Laser_LightScythe_Scorch-S_80mw_Auto_Turret_Experimental_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="00C2C4" Partial="1">
+      <EDID>SWB_Ballistic_Shinigami_Jishaku_Fe_RF_Auto_Turret_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C2DA" Partial="1">
+      <EDID>SWB_Ballistic_Horizon_Mauler_106T_Auto_Turret_lvl26</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="00C320" Partial="1">
+      <EDID>SWA_Laser_Shinigami_Reza_45_GHz_MW_Auto_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="02E293" Partial="1">
+      <EDID>SpaceshipEnginePartMaxStrafeVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Strafe Velocity</Source>
+      <Dest>Макс. скорость стрейфа</Dest>
+    </String>
+    <String List="0" sID="02E294" Partial="1">
+      <EDID>SpaceshipEnginePartMaxForwardAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Forward Acceleration</Source>
+      <Dest>Макс. ускорение вперед</Dest>
+    </String>
+    <String List="0" sID="02E295" Partial="1">
+      <EDID>SpaceshipEnginePartMaxForwardVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Forward Velocity</Source>
+      <Dest>Макс. скорость движения вперед</Dest>
+    </String>
+    <String List="0" sID="02E296" Partial="1">
+      <EDID>SpaceshipEnginePartMaxPitchAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Pitch Acceleration</Source>
+      <Dest>Макс. ускорение крена</Dest>
+    </String>
+    <String List="0" sID="02E297" Partial="1">
+      <EDID>SpaceshipEnginePartMinRollAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Roll Acceleration</Source>
+      <Dest>Мин. ускорение крена</Dest>
+    </String>
+    <String List="0" sID="02E298" Partial="1">
+      <EDID>SpaceshipEnginePartMinPitchVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Pitch Velocity</Source>
+      <Dest>Мин. скорость крена</Dest>
+    </String>
+    <String List="0" sID="02E299" Partial="1">
+      <EDID>SpaceshipEnginePartMinForwardVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Forward Velocity</Source>
+      <Dest>Мин. скорость движения вперед</Dest>
+    </String>
+    <String List="0" sID="02E29B" Partial="1">
+      <EDID>SpaceshipEnginePartMinStrafeAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Strafe Acceleration</Source>
+      <Dest>Мин. ускорение стрейфа</Dest>
+    </String>
+    <String List="0" sID="02E29C" Partial="1">
+      <EDID>SpaceshipEnginePartMinStrafeVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Strafe Velocity</Source>
+      <Dest>Мин. скорость стрейфа</Dest>
+    </String>
+    <String List="0" sID="02E29D" Partial="1">
+      <EDID>SpaceshipEnginePartMaxBackwardVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Backward Velocity</Source>
+      <Dest>Макс. скорость обратного хода</Dest>
+    </String>
+    <String List="0" sID="02E29E" Partial="1">
+      <EDID>SpaceshipEnginePartMaxYawAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Yaw Acceleration</Source>
+      <Dest>Макс. ускорение рысканья</Dest>
+    </String>
+    <String List="0" sID="02E29F" Partial="1">
+      <EDID>SpaceshipEnginePartMinPitchAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Pitch Acceleration</Source>
+      <Dest>Мин. ускорение тангажа</Dest>
+    </String>
+    <String List="0" sID="02E2A0" Partial="1">
+      <EDID>SpaceshipEnginePartMinYawAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Yaw Acceleration</Source>
+      <Dest>Мин. ускорение рыскания</Dest>
+    </String>
+    <String List="0" sID="02E2A1" Partial="1">
+      <EDID>SpaceshipEnginePartMinYawVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Yaw Velocity</Source>
+      <Dest>Мин. угловая скорость рыскания</Dest>
+    </String>
+    <String List="0" sID="02E2A2" Partial="1">
+      <EDID>SpaceshipEnginePartMinBackwardVelocity</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Backward Velocity</Source>
+      <Dest>Мин. скорость обратного хода</Dest>
+    </String>
+    <String List="0" sID="02E2A3" Partial="1">
+      <EDID>SpaceshipEnginePartMaxStrafeAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Max Strafe Acceleration</Source>
+      <Dest>Максимальное ускорение стрейфа</Dest>
+    </String>
+    <String List="0" sID="02E2A4" Partial="1">
+      <EDID>SpaceshipEnginePartMinForwardAcceleration</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Min Forward Acceleration</Source>
+      <Dest>Мин. ускорение вперед</Dest>
+    </String>
+    <String List="0" sID="02E4BE" Partial="1">
+      <EDID>SWB_Ballistic_Vanguard_Hellfire_Auto_UC01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="02E57F" Partial="1">
+      <EDID>SWA_Ballistic_Horizon_Mauler_104L_lvl04</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="02E5CF" Partial="1">
+      <EDID>SWA_Laser_Horizon_Dragon_221P_MW_Auto_lvl06</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="030F09" Partial="1">
+      <EDID>BE_SpaceshipTakenOver</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>BE Takeoever</Source>
+      <Dest>BE поглощено</Dest>
+    </String>
+    <String List="0" sID="031391" Partial="1">
+      <EDID>SWC_Missile_LightScythe_Atlatl_280C_lvl54</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="03158E" Partial="1">
+      <EDID>ShieldMaxHealthMult</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>SMHM</Source>
+      <Dest>ММЦЩ</Dest>
+    </String>
+    <String List="0" sID="03158F" Partial="1">
+      <EDID>ShieldMaxHealthMult</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Shield Max Health Multiplier</Source>
+      <Dest>Множ. макс. целостности щита</Dest>
+    </String>
+    <String List="0" sID="031962" Partial="1">
+      <EDID>SWC_Laser_Horizon_Dragon_261_SX_Turret_lvl30</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="031964" Partial="1">
+      <EDID>SWC_Ballistic_Horizon_Marauder_115N_Turret_lvl54</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="031B87" Partial="1">
+      <EDID>SWC_Ballistic_Shinigami_Jishaku_Nd_RF_Auto_Turret_lvl34</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="031B89" Partial="1">
+      <EDID>SWC_Laser_LightScythe_Blaze-P_2gw_SX_Auto_Turret_lvl38</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="031B8B" Partial="1">
+      <EDID>SWC_Missile_Shinigami_Tsukisasu_50k_lvl72</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="031CCC" Partial="1">
+      <EDID>SpaceshipCrewCommandSlots</EDID>
+      <REC>AVIF:ANAM</REC>
+      <Source>CREW</Source>
+      <Dest>ЭКПЖ</Dest>
+    </String>
+    <String List="0" sID="031CCD" Partial="1">
+      <EDID>SpaceshipCrewCommandSlots</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Crew Command Slots</Source>
+      <Dest>Места для команды экипажа</Dest>
+    </String>
+    <String List="0" sID="032141" Partial="1">
+      <EDID>SWA_Missile_Vanguard_Tempest_CE-13_UC01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="032145" Partial="1">
+      <EDID>SWC_Laser_Vanguard_Starseeker_Auto_UC01</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="032149" Partial="1">
+      <EDID>SWA_Ballistic_Ballistic_KE-20A_Auto_lvl24</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="032AAD" Partial="1">
+      <EDID>SWB_Ballistic_Horizon_Mauler_106T_lvl14</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>BAL</Source>
+      <Dest>БАЛ</Dest>
+    </String>
+    <String List="0" sID="032B29" Partial="1">
+      <EDID>SWB_Laser_LightScythe_Scorch-P_60mw_Auto_Turret_lvl32</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>LAS</Source>
+      <Dest>ЛАЗ</Dest>
+    </String>
+    <String List="0" sID="032B34" Partial="1">
+      <EDID>SWC_Missile_LightScythe_Atlatl_270C_lvl20</EDID>
+      <REC>WEAP:WABB</REC>
+      <Source>MSL</Source>
+      <Dest>РКТ</Dest>
+    </String>
+    <String List="0" sID="032ED6" Partial="1">
+      <EDID>SMOD_Grav_Nova_NG150_UC01</EDID>
+      <REC>MSTT:FULL</REC>
+      <Source>Grav Drive</Source>
+      <Dest>Гравипривод</Dest>
+    </String>
+    <String List="0" sID="032ED7" Partial="1">
+      <EDID>ShipPI_SMOD_Grav_Nova_NG150_Ext01_UC01</EDID>
+      <REC>PKIN:FULL</REC>
+      <Source>Grav Drive</Source>
+      <Dest>Гравипривод</Dest>
+    </String>
+    <String List="0" sID="033B52" Partial="1">
+      <EDID>SpaceshipBoostLastStartTime</EDID>
+      <REC>AVIF:FULL</REC>
+      <Source>Boost Last Start Time</Source>
+      <Dest>Время последнего запуска буста</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

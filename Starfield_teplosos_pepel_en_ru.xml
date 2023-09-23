@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="000ECE">
+      <EDID>DefaultAshPile1</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Human Ash Pile</Source>
+      <Dest>Куча человеческого пепла</Dest>
+    </String>
+    <String List="0" sID="000ECF">
+      <EDID>DefaultAshPile2</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Ash Pile</Source>
+      <Dest>Куча пепла</Dest>
+    </String>
+    <String List="0" sID="00E060">
+      <EDID>PCM_Cheyenne_Akila_FlyingLeech</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Flying Leech</Source>
+      <Dest>Пиявка-летун</Dest>
+    </String>
+    <String List="0" sID="00E4A6">
+      <EDID>ParasiteA_HeatLeech</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Heatleech</Source>
+      <Dest>Теплосос</Dest>
+    </String>
+    <String List="0" sID="00E9D3">
+      <EDID>UC08_TerrormorphTransformation_HeatLeech</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Heatleech</Source>
+      <Dest>Теплосос</Dest>
+    </String>
+    <String List="0" sID="00EEF3">
+      <EDID>ParasiteA_HeatLeech_Unaggressive</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Heatleech</Source>
+      <Dest>Теплосос</Dest>
+    </String>
+    <String List="0" sID="02DCA0">
+      <EDID>OE_AustinF_HeatLeechRobot</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Heat Leech Robot</Source>
+      <Dest>Теплосос робот</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

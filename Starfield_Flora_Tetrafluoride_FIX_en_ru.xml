@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="004701">
+      <EDID>MineralDepositRareTetrafluoride01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газорождение тетрафторида</Dest>
+    </String>
+    <String List="0" sID="004731">
+      <EDID>MineralDepositRareTetrafluoride03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газорождение тетрафторида</Dest>
+    </String>
+    <String List="0" sID="00474C">
+      <EDID>MineralDepositRareTetrafluoride02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газорождение тетрафторида</Dest>
+    </String>
+    <String List="0" sID="0330E3">
+      <EDID>MineralDepositRareTetrafluorideSmall01</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газорождение тетрафторида</Dest>
+    </String>
+    <String List="0" sID="03311F">
+      <EDID>MineralDepositRareTetrafluorideSmall03</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газорождение тетрафторида</Dest>
+    </String>
+    <String List="0" sID="033121">
+      <EDID>MineralDepositRareTetrafluorideSmall02</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Tetrafluoride Vent</Source>
+      <Dest>газорождение тетрафторида</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

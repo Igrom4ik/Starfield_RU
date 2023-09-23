@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="2" sID="011210" Partial="1">
+      <EDID>[0017D3CB]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Report suggests you&apos;ll be going up against Ecliptic. Time to remind them what the UC&apos;s capable of.</Source>
+      <Dest>Судя по сообщению, вам предстоит сразиться с Эклиптикой. Пора напомнить им, на что способны ОК.</Dest>
+    </String>
+    <String List="2" sID="011211" Partial="1">
+      <EDID>[001E8FDA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Just getting those coordinates to you... now.</Source>
+      <Dest>Передаю вам эти координаты... сейчас.</Dest>
+    </String>
+    <String List="2" sID="0116A3" Partial="1">
+      <EDID>[001E8FD7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Do us proud.</Source>
+      <Dest>Заставь нас гордиться.</Dest>
+    </String>
+    <String List="2" sID="016850" Partial="1">
+      <EDID>[0000CF52]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Witnesses say their attackers appeared to be Va&apos;ruun craft, so I&apos;d bring the meanest firepower you&apos;ve got.</Source>
+      <Dest>Свидетели говорят, что нападавшими, судя по всему, были корабли Ва&apos;руун, так что я бы взял с собой самое мощное оружие, которое у вас есть.</Dest>
+    </String>
+    <String List="2" sID="01837B" Partial="1">
+      <EDID>[001E8FE4]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You&apos;re authorized to eliminate any hostiles you find in that sector.</Source>
+      <Dest>У вас есть разрешение на уничтожение любого противника, которого вы встретите в этом секторе</Dest>
+    </String>
+    <String List="2" sID="01BF76" Partial="1">
+      <EDID>[0017D3C6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Notes mention a Spacer presence in that sector, so be ready for a nasty one.</Source>
+      <Dest>В записях упоминается присутствие спейсеров в этом секторе, так что будьте готовы к неприятностям.</Dest>
+    </String>
+    <String List="2" sID="01C3EB" Partial="1">
+      <EDID>[0017D3CA]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Attackers were Ecliptic-affiliated, so I&apos;d bust out the big guns.</Source>
+      <Dest>Нападавшие были связаны с Эклиптикой, поэтому я рекомендую использовать пушки помощнее. </Dest>
+    </String>
+    <String List="2" sID="01CD1D" Partial="1">
+      <EDID>[001E8FDC]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hmm. Ah, here we go.</Source>
+      <Dest>Хм. А, вот и мы.</Dest>
+    </String>
+    <String List="2" sID="01D1AF" Partial="1">
+      <EDID>[0017D3CD]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Crimson Fleet decided to rear their ugly heads. Make them regret it.</Source>
+      <Dest>Багровый флот решил показать свою уродливую морду. Заставьте их пожалеть об этом.</Dest>
+    </String>
+    <String List="2" sID="01D66D" Partial="1">
+      <EDID>[0017D3C9]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Documentation suggests Ecliptic might be involved in the attack, so I&apos;d take extra precautions.</Source>
+      <Dest>Исходя из документов следует, что Эклиптика может быть причастна к атаке, поэтому я бы принял дополнительные меры предосторожности.</Dest>
+    </String>
+    <String List="2" sID="01ED86" Partial="1">
+      <EDID>[0017D3C7]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Spacers were seen not far from the report site, so they&apos;re our most likely aggressors.</Source>
+      <Dest>Спейсеры были замечены неподалеку от места инцидента, так что они наиболее вероятные агрессоры.</Dest>
+    </String>
+    <String List="2" sID="020923" Partial="1">
+      <EDID>[0000CF50]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Looks like it&apos;s Va&apos;ruun Zealots this time. Go send &apos;em back to their maker.</Source>
+      <Dest>Похоже, на этот раз это фанатики Ва&apos;руун. Отправьте их к создателю.</Dest>
+    </String>
+    <String List="2" sID="020924" Partial="1">
+      <EDID>[0017D3CF]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Notation mentioned Crimson Fleet, so I&apos;d be ready for a scrap.</Source>
+      <Dest>В записях упоминается Багровый флот, так что будьте готовы к бою.</Dest>
+    </String>
+    <String List="2" sID="020DF7" Partial="1">
+      <EDID>[0017D3CE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like pirates this time, but I&apos;d suggest you be prepared for anything.</Source>
+      <Dest>Похоже, что на этот раз это пираты, но я бы посоветовал быть готовым к чему угодно.</Dest>
+    </String>
+    <String List="2" sID="0229F3" Partial="1">
+      <EDID>[001E8FE8]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Report says ships at these coordinates fired on United Colonies&apos; craft. You&apos;re cleared to use lethal force if necessary.</Source>
+      <Dest>Согласно докладу, корабли, находящиеся в этих координатах, открыли огонь по кораблю Объединенный Колоний. Вам разрешено использовать летальное оружие  в случае необходимости.</Dest>
+    </String>
+    <String List="2" sID="022ECE" Partial="1">
+      <EDID>[001E8FD6]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Fly smart out there.</Source>
+      <Dest>Берегите себя там.</Dest>
+    </String>
+    <String List="2" sID="024581" Partial="1">
+      <EDID>[0017D3C5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like Spacers tried scrapping some ships... with their pilots still in them. Go show them the error of their ways.</Source>
+      <Dest>Похоже, спейсеры пытались сдать на металлолом несколько кораблей... с пилотами, находящимися внутри. Покажите им, что они сделали большую ошибку.</Dest>
+    </String>
+    <String List="2" sID="0265A3" Partial="1">
+      <EDID>[001E8FE5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Jump to that spot and clean house.</Source>
+      <Dest>Прыгайте на эту точку и проведите зачистку. </Dest>
+    </String>
+    <String List="2" sID="028ED0" Partial="1">
+      <EDID>[0000CF51]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Sounds like we&apos;re clearing out a snake nest this time. Va&apos;ruun Zealots. So be ready for a real scrap.</Source>
+      <Dest>Похоже, на этот раз мы зачищаем змеиное гнездо. Фанатики Ва&apos;руун. Так что будьте готовы к настоящей драке.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

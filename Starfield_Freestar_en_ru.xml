@@ -1,0 +1,2035 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Starfield</Addon>
+    <Source>en</Source>
+    <Dest>ru</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0027EF" Partial="1">
+      <EDID>MissionBoardConsole_FC</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Freestar Rangers Mission Board</Source>
+      <Dest>Терминал поручений Рейнджеров Содружества</Dest>
+    </String>
+    <String List="0" sID="003335">
+      <EDID>UC05_FreestarDossier</EDID>
+      <REC>BOOK:ENAM</REC>
+      <Source>CLASSIFIED!</Source>
+      <Dest>СЕКРЕТНО!</Dest>
+    </String>
+    <String List="0" sID="003336" Partial="1">
+      <EDID>UC05_FreestarDossier</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Freestar Embassy Dossier</Source>
+      <Dest>Досье Посольства Содружества</Dest>
+    </String>
+    <String List="0" sID="0033B2">
+      <EDID>Clothes_Baseball_Cap_01_Freestar</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Freestar Collective Cap</Source>
+      <Dest>Шапка Содружества</Dest>
+    </String>
+    <String List="0" sID="003414">
+      <EDID>Clothes_Freestar_Militia_01_Hat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Freestar Militia Hat</Source>
+      <Dest>Шляпа Ополченца Содружества</Dest>
+    </String>
+    <String List="0" sID="003916">
+      <EDID>UC_GG_Mark_MedicalData</EDID>
+      <REC>BOOK:ENAM</REC>
+      <Source>CLASSIFIED!</Source>
+      <Dest>СЕКРЕТНО!</Dest>
+    </String>
+    <String List="0" sID="003919">
+      <EDID>UC_GG_CourierRoute</EDID>
+      <REC>BOOK:ENAM</REC>
+      <Source>CLASSIFIED!</Source>
+      <Dest>СЕКРЕТНО!</Dest>
+    </String>
+    <String List="0" sID="003AE3" Partial="1">
+      <EDID>Skill_Magazine_FreestarCollectiveCaptainsLog02</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Freestar Captain&apos;s Log 02</Source>
+      <Dest>Журнал капитана Содружества 02</Dest>
+    </String>
+    <String List="0" sID="003AE6" Partial="1">
+      <EDID>Skill_Magazine_FreestarCollectiveCaptainsLog01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Freestar Captain&apos;s Log 01</Source>
+      <Dest>Журнал капитана Содружества 01</Dest>
+    </String>
+    <String List="0" sID="003B73">
+      <EDID>UC07_KaiserSchematics</EDID>
+      <REC>BOOK:ENAM</REC>
+      <Source>CLASSIFIED!</Source>
+      <Dest>СЕКРЕТНО!</Dest>
+    </String>
+    <String List="0" sID="003B95">
+      <EDID>UC05_FreestarSecurityWarning</EDID>
+      <REC>BOOK:ENAM</REC>
+      <Source>CLASSIFIED!</Source>
+      <Dest>СЕКРЕТНО!</Dest>
+    </String>
+    <String List="0" sID="003C62" Partial="1">
+      <EDID>UC05_FreestarArchivalCode</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Freestar Archival Code</Source>
+      <Dest>Архивный Код Содружества</Dest>
+    </String>
+    <String List="0" sID="003C85">
+      <EDID>COM_Quest_SamCoe_CI_LocationBook</EDID>
+      <REC>BOOK:FNAM</REC>
+      <Source>Financial Disclosure Resolution</Source>
+      <Dest>Постановление о раскрытии финансовой отчетности</Dest>
+    </String>
+    <String List="0" sID="003C86">
+      <EDID>COM_Quest_SamCoe_CI_LocationBook</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Confidential Informant Finanical Disclosure</Source>
+      <Dest>Раскрытие финансовой информации конфиденциального информатора</Dest>
+    </String>
+    <String List="0" sID="003C87" Partial="1">
+      <EDID>COM_Quest_SamCoe_CI_LocationBook</EDID>
+      <REC>BOOK:ENAM</REC>
+      <Source>FREESTAR RANGERS
+Classified Classified Classified</Source>
+      <Dest>РЕЙНДЖЕРЫ СОДРУЖЕСТВА
+Секретно Секретно Секретно</Dest>
+    </String>
+    <String List="0" sID="004350" Partial="1">
+      <EDID>UC05_ArmisticeCode_Freestar</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Freestar Archival Code</Source>
+      <Dest>Архивный Код Содружества</Dest>
+    </String>
+    <String List="0" sID="006145" Partial="1">
+      <EDID>Clothes_Freestar_Militia_01</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Freestar Militia Uniform</Source>
+      <Dest>Униформа Ополченцев Содружества</Dest>
+    </String>
+    <String List="0" sID="006172" Partial="1">
+      <EDID>Clothes_Ranger_Trench</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Freestar Dustwear</Source>
+      <Dest>Пылезащитная одежда Содружества</Dest>
+    </String>
+    <String List="0" sID="007147">
+      <EDID>LvlShip_FreestarSecurity_A_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security B Cargo</Source>
+      <Dest>СБ Содружества Грузовой B</Dest>
+    </String>
+    <String List="0" sID="00748B" Partial="1">
+      <EDID>GuardShip_Freestar03</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Collective Security</Source>
+      <Dest>Служба Безопасности Содружества</Dest>
+    </String>
+    <String List="0" sID="0074B6">
+      <EDID>LvlShip_FreestarSecurity_B_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security B Cargo</Source>
+      <Dest>СБ Содружества Грузовой B</Dest>
+    </String>
+    <String List="0" sID="0074B7">
+      <EDID>LvlShip_FreestarSecurity_C_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security C Cargo</Source>
+      <Dest>СБ Содружества Грузовой С</Dest>
+    </String>
+    <String List="0" sID="0074C3" Partial="2">
+      <EDID>LvlShip_FreestarCitizen_C_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Citizen C Cargo</Source>
+      <Dest>Содружество Гражданинский Грузовой С</Dest>
+    </String>
+    <String List="0" sID="0074C4" Partial="1">
+      <EDID>LvlShip_FreestarCitizen_A_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Citizen Cargo A</Source>
+      <Dest>Содружество Гражданинский Грузовой A</Dest>
+    </String>
+    <String List="0" sID="00768D" Partial="1">
+      <EDID>LvlShip_GuardShip_Freestar</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Collective Security</Source>
+      <Dest>Служба Безопасности Содружества</Dest>
+    </String>
+    <String List="0" sID="00790A" Partial="2">
+      <EDID>LvlShip_FreestarCitizen_B_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Citizen B Cargo</Source>
+      <Dest>Содружество Гражданинский Грузовой B</Dest>
+    </String>
+    <String List="0" sID="00791B">
+      <EDID>LvlShip_FreestarSecurity_C_Transport</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security C Transport</Source>
+      <Dest>СБ Содружества Траснпортник C </Dest>
+    </String>
+    <String List="0" sID="00792D" Partial="1">
+      <EDID>GuardShip_Freestar04</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Collective Security</Source>
+      <Dest>Служба Безопасности Содружества</Dest>
+    </String>
+    <String List="0" sID="00796E">
+      <EDID>LvlShip_FreestarSecurity_B_Transport</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security B Transport</Source>
+      <Dest>СБ Содружества Транспортник B</Dest>
+    </String>
+    <String List="0" sID="007C01">
+      <EDID>LvlShip_FreestarSecurity_C_Combat</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security C Combat</Source>
+      <Dest>СБ Содружества Боевой C</Dest>
+    </String>
+    <String List="0" sID="007C16" Partial="1">
+      <EDID>GuardShip_Freestar02</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Collective Security</Source>
+      <Dest>Служба Безопасности Содружества</Dest>
+    </String>
+    <String List="0" sID="007C26">
+      <EDID>LvlShip_FreestarSecurity_B_Combat</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Security B Combat</Source>
+      <Dest>СБ Содружества Боевой B</Dest>
+    </String>
+    <String List="0" sID="00824C" Partial="1">
+      <EDID>UC05_Freestar_EmbassyKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Embassy Key</Source>
+      <Dest>Ключ посольства Содружества</Dest>
+    </String>
+    <String List="0" sID="00824D" Partial="1">
+      <EDID>UC05_CodeMachineKey_Freestar</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Code Machine Key</Source>
+      <Dest>Код Содружества - машинный ключ </Dest>
+    </String>
+    <String List="0" sID="00826E" Partial="1">
+      <EDID>UC05_Freestar_EmbassyAccessCard</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Diplomatic Access Card</Source>
+      <Dest>Карта доступа дипломата Содружества</Dest>
+    </String>
+    <String List="0" sID="008272" Partial="1">
+      <EDID>UC05_Freestar_UtilityAccessKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Utility Access Key</Source>
+      <Dest>Ключ доступа к Комуникациям Содружества</Dest>
+    </String>
+    <String List="0" sID="00829D" Partial="1">
+      <EDID>FreestarRangerBadgeDeputy</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Ranger Deputy Badge</Source>
+      <Dest>Нагрудный Знак Заместителя Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="0082B4" Partial="1">
+      <EDID>FreestarRangerBadge_Ranger</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Ranger Badge</Source>
+      <Dest>Значок Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="0082B9" Partial="1">
+      <EDID>FreestarRangerBadge_Deputy</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Freestar Ranger Deputy Badge</Source>
+      <Dest>Нагрудный Знак Заместителя Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="008818" Partial="1">
+      <EDID>CityNAFreestarEmbassyLoadElevator02EmbassyMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Freestar Embassy</Source>
+      <Dest>Посольство Содружества</Dest>
+    </String>
+    <String List="0" sID="00881A" Partial="1">
+      <EDID>CityNAFreestarEmbassyLoadElevator01EmbassyMessage</EDID>
+      <REC>MESG:FULL</REC>
+      <Source>Freestar Embassy</Source>
+      <Dest>Посольство Содружества</Dest>
+    </String>
+    <String List="0" sID="009EF6" Partial="1">
+      <EDID>TRAIT_FreestarCollectiveSettler</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Freestar Collective Settler</Source>
+      <Dest>Поселенец Содружества</Dest>
+    </String>
+    <String List="0" sID="00AA18">
+      <EDID>Kiosk_Info_Akila_City</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Akila City Information</Source>
+      <Dest>Информация о городе Акила</Dest>
+    </String>
+    <String List="0" sID="00AA3B" Partial="1">
+      <EDID>TheRock_AlexTerminalFurniture</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Freestar Rangers Computer</Source>
+      <Dest>Компьютер Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00AA65">
+      <EDID>LC082_OperationsCenterCommandTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>UC Vigilance Command Station</Source>
+      <Dest>Командный пункт &quot;Бдительного&quot; ОК</Dest>
+    </String>
+    <String List="0" sID="00AAAA" Partial="1">
+      <EDID>TheRock_HelgaTerminalFurniture</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Freestar Rangers Computer</Source>
+      <Dest>Компьютер Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00AAF0" Partial="1">
+      <EDID>FC06_RangersTerminal</EDID>
+      <REC>TERM:FULL</REC>
+      <Source>Freestar Rangers Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00AB98" Partial="1">
+      <EDID>Info_Kiosk_Akila_City_Menu</EDID>
+      <REC id="4" idMax="4">TMLM:UNAM</REC>
+      <Source>Just as the Freestar Collective stands as a symbol of freedom for the Settled Systems, so too do the Freestar Rangers serve as a symbol of freedom for the Freestar Collective itself.
+
+Founded in the year 2231, the Rangers are the protectors of the people and ideals of the Freestar Collective. It&apos;s not enough to call them police, and too much to consider them soldiers. Rather, the Rangers are guardians - YOUR guardians - and they&apos;ve dedicated their lives to the service of the Freestar Collective.
+
+But don&apos;t take our word for it.
+
+The Rangers welcome all inside the Rock, which serves not only as their headquarters, but as Akila City&apos;s primary meeting place and watering hole. There you can meet the members of this elite organization, and learn firsthand how committed this small, dedicated force is to the ideals first shared by Solomon Coe himself.</Source>
+      <Dest>Содружество Свободных Звезд является символом свободы для Освоенных Систем, так и Рейнджеры Содружества служат символом свободы для самого Содружество Свободных Звезд.
+
+Корпус Рейнджеров, основанный в 2231 году, является защитником народа и идеалов Содружества Свободных Звезд. Недостаточно называть рейнджеров полицией и слишком много считать их солдатами. Скорее, Рейнджеры - это стражи - ВАШИ стражи - и они посвятили свою жизнь служению Содружеству Свободных Звезд.
+
+Но не верьте нам на слово.
+
+Рейнджеры приглашают всех в &quot;Скалу&quot;, которая служит не только их штаб-квартирой, но и основным местом встреч и центром в городе Акила. Здесь вы сможете познакомиться с членами этой элитной организации и узнать из первых уст, насколько эта небольшая, но преданная сила верна идеалам, впервые озвученным самим Соломоном Коу.</Dest>
+    </String>
+    <String List="0" sID="00AB99" Partial="1">
+      <EDID>Info_Kiosk_Akila_City_Menu</EDID>
+      <REC id="4" idMax="4">TMLM:ITXT</REC>
+      <Source>The Freestar Rangers</Source>
+      <Dest>Рейнджеры Содружества</Dest>
+    </String>
+    <String List="0" sID="00AB9E" Partial="1">
+      <EDID>Info_Kiosk_Akila_City_Menu</EDID>
+      <REC id="1" idMax="4">TMLM:UNAM</REC>
+      <Source>Freedom.
+
+Throughout the course of recorded history, that word has meant so many things to so many people. For Solomon Coe, true understanding of the concept came in the year 2161, when the newly-formed United Colonies issued the Centaurus Proclamation, thereby formalizing the colonization of any star system in our galaxy. That was the moment Solomon Coe knew that his destiny lay elsewhere. In order to free himself, both body and spirit, he would need to heed his wanderlust and venture alone into the stars. And so he did.
+
+Sadly, the United Colonies commitment to the very freedom they projected was short lived. As Solomon Coe expanded upon his dream, and invited other star systems to join him in what he called the Freestar Collective, United Colonies leadership revealed their true colors. Exploration was seen as aggression. Freedom, as defiance.
+
+What followed were two bloody conflicts - the Narion War and Colony War. In both, the United Colonies tried to erase Akila City, and indeed the entire Freestar Collective, from the face of the Settled Systems. They claimed they were defending their borders. Outer space is infinite, and yet they wanted our own. Why? Because the very thought of freedom, to those who wish only to control, is unacceptable.
+
+And yet, here you stand. In Akila City, proud capital of the Freestar Collective. Freedom is hard earned. Freedom is hard fought. But freedom is always worth it.
+
+</Source>
+      <Dest>Свобода.
+
+На протяжении всей истории человечества это слово означало очень многое для очень многих людей. Соломону Коу истинное понимание этого понятия пришло в 2161 году, когда вновь образованные Объединенные Колонии издали Прокламацию Центавра, официально разрешив колонизацию любой звездной системы в нашей галактике. Именно в этот момент Соломон Коу понял, что его судьба лежит в другом месте. Для того чтобы освободить свое тело и дух, он должен прислушаться к своей жажде странствий и отправиться в одиночку к звездам. Так он и сделал.
+
+К сожалению, приверженность Объединенных Колоний той самой свободе, которую они провозглашали, оказалась недолгой. По мере того как Соломон Коу следовал своей мечте и приглашал другие звездные системы присоединиться к нему в рамках того, что он назвал Содружеством Свободных Звезд, руководство Объединенных Колоний раскрыло свое истинное лицо. Исследования стали восприниматься как агрессия. Свобода - как неповиновение.
+
+Затем последовали два кровопролитных конфликта - Война Нариона и Война Колоний. В обоих случаях Объединенные Колонии пытались стереть Акила-Сити, да и все Содружество Свободных Звезд, с лица Освоенных Систем. Они утверждали, что защищают свои границы. Космическое пространство бесконечно, и все же они хотели заполучить нашу собственность. Почему? Потому что сама мысль о свободе для тех, кто хочет только контролировать, неприемлема.
+
+И все же вы здесь. В Акила-Сити, гордой столице Содружества Свободных Звезд. Свобода достигается трудом. Свобода достигается тяжелой борьбой. Но свобода всегда стоит того.
+
+</Dest>
+    </String>
+    <String List="0" sID="00ABA0" Partial="1">
+      <EDID>Info_Kiosk_Akila_City_Menu</EDID>
+      <REC id="0" idMax="4">TMLM:UNAM</REC>
+      <Source>Hey there, friend.
+
+You stand now in Akila City, capital of the Freestar Collective, and symbol of hope and freedom for every soul in the Settled Systems.
+
+In the year 2167, intrepid trailblazer Solomon Coe claimed and named the Cheyenne star system. He then set his boots down on this very planet, which he named Akila. And although he was but a single man, Solomon Coe named his new settlement Akila City - because he knew that someday his dream would come true, and his tiny outpost would one day grow into the thriving frontier town it is today.
+
+All we ask is that you treat everyone you meet in Akila City the way you&apos;d want to be treated yourself: with respect, kindness, good cheer. Our trained security officers are here for your protection, but it&apos;s protection you&apos;ll seldom need. 
+
+We do ask everyone in Akila City, be it visitor or resident, to stay within the settlement&apos;s walls. The Ashta roam freely on the other side, and will view any human being as prey. </Source>
+      <Dest>Привет, друг.
+
+Вы стоите сейчас в городе Акила, столице Содружества Свободных Звезд, символе надежды и свободы для каждой души в Освоенных системах.
+
+В 2167 году бесстрашный первопроходец Соломон Коу обнаружил и назвал звездную систему Шайенн. Затем он ступил на эту самую планету, которую назвал Акила. И хотя он был всего лишь одним человеком, Соломон Коу назвал свое новое поселение Акила-Сити - потому что знал, что когда-нибудь его мечта сбудется, и крошечный форпост превратится в процветающий пограничный город, каким он является сегодня.
+
+Мы просим Вас относиться ко всем, кого Вы встречаете в Акила-Сити, так, как Вы хотели бы, чтобы относились к Вам: с уважением, добротой, хорошим настроением. Наши квалифицированные сотрудники службы безопасности защищают вас, но эта защита вам не понадобится. 
+
+Мы просим всех, кто находится в городе Акила, будь то приезжий или житель, не покидать стен поселения. Ашта свободно бродят по ту сторону и рассматривают любого человека как добычу. </Dest>
+    </String>
+    <String List="0" sID="00ABA2">
+      <EDID>Info_Kiosk_Akila_City_Menu</EDID>
+      <REC>TMLM:INAM</REC>
+      <Source>Akila City Information</Source>
+      <Dest>Информация о городе Акила</Dest>
+    </String>
+    <String List="0" sID="00ABA3">
+      <EDID>Info_Kiosk_Akila_City_Menu</EDID>
+      <REC>TMLM:FULL</REC>
+      <Source>Akila City Information</Source>
+      <Dest>Информация о городе Акила</Dest>
+    </String>
+    <String List="0" sID="00AC43" Partial="1">
+      <EDID>SE_KT11_ExtremeHeat_CaptainTerminalGenesis</EDID>
+      <REC id="0" idMax="3">TMLM:UNAM</REC>
+      <Source>We&apos;ve been mapping Freestar movements for about two years now without a hitch. The tech is pretty old, and uses an algorithm to fill in gaps in the data, but I feel like we have a good idea of where their Fleet patrols should we need to intercept any communications between ships.
+
+I&apos;ve instructed our team to find a location where we can listen in on any hails without being detected. Using the magnetic disturbances from the nearby star will help with that, provided the shielding holds up.</Source>
+      <Dest>Мы уже около двух лет безошибочно определяем местоположение кораблей Содружества. Технология довольно старая и использует алгоритм для заполнения пробелов в данных, но я уверен, что мы имеем хорошее представление о том, где патрулирует их флот, если нам понадобится перехватить какие-либо сообщения между кораблями.
+
+Я поручил нашей команде найти место, где мы сможем прослушивать все сигналы, не будучи обнаруженными. Использование магнитных возмущений от близлежащей звезды поможет в этом, если экранирование будет надежным.</Dest>
+    </String>
+    <String List="0" sID="00AC6D" Partial="1">
+      <EDID>RM_MeiTerminal_Menu</EDID>
+      <REC id="0" idMax="4">TMLM:UNAM</REC>
+      <Source>You&apos;re making a good choice keeping us under contract, Mei. Even if they could break their jurisdiction, Freestar Rangers wouldn&apos;t keep you half as safe as we can. I know some of our contractors have a reputation for being rough around the edges, maybe even rude, but that reputation is part of why your establishment is so safe with us.
+
+You&apos;ll notice that incidents of debtors skipping out have been down 79% since we started. Physical altercations between patrons are down 52%. And, pirate attacks? They&apos;re virtually non-existent. So, remember that when it comes time for our annual rates to go up. It&apos;s not just safer, it&apos;s good business sense.
+
+-Madeleine Stocker</Source>
+      <Dest>Вы сделали правильный выбор, заключив с нами контракт, Мэй. Даже если бы они могли нарушить свою юрисдикцию, рейнджеры Содружества не смогли бы обеспечить вам и половины такой безопасности, как мы. Я знаю, что некоторые из наших подрядчиков имеют репутацию грубиянов, возможно, даже невоспитанных, но благодаря этой репутации ваше заведение находится в такой безопасности.
+
+Вы заметите, что с начала нашей работы количество случаев ухода должников сократилось на 79%. Физические столкновения между посетителями снизились на 52%. А нападения пиратов? Их практически нет. Так что помните об этом, когда придет время повышать наши годовые тарифы. Это не только безопаснее, но и разумнее с точки зрения бизнеса.
+
+-Мадлен Стокер</Dest>
+    </String>
+    <String List="0" sID="00ACA1" Partial="1">
+      <EDID>SE_KT11_ExtremeHeat_SurukiTerminalGenesis</EDID>
+      <REC id="3" idMax="3">TMLM:UNAM</REC>
+      <Source>It took half our crew collapsing, but the Captain has finally agreed to dock at the Freestar starstation.
+
+We&apos;ve already lost a week&apos;s time. I pray that we&apos;re not too late.
+</Source>
+      <Dest>Потребовалось, чтобы половина нашего экипажа погибла, прежде чем капитан наконец согласился причалить к звездолету Содружества.
+
+Мы уже потеряли неделю времени. Я молюсь, чтобы мы не опоздали.
+</Dest>
+    </String>
+    <String List="0" sID="00ACA3" Partial="1">
+      <EDID>SE_KT11_ExtremeHeat_SurukiTerminalGenesis</EDID>
+      <REC id="2" idMax="3">TMLM:UNAM</REC>
+      <Source>I&apos;ve explained to the Captain the issue with our shields. 
+
+The problem isn&apos;t the heat inside the spaceship, albeit most would agree it&apos;s unbearable. The primary issue is re-entry.
+
+Moving at a speed of 50,000 kilometers per hour, the friction of the atmosphere will generate heat around the ship of approximately 2700 degrees Celsius. The craft&apos;s backup thermal shields will not hold up under that kind of stress.
+
+With the grav drive disabled, I suggested traveling to a nearby Freestar station, which would take us about three weeks. However, the Captain has refused, for reasons that are classified.</Source>
+      <Dest>Я объяснил капитану проблему с нашими щитами. 
+
+Проблема заключается не в жаре внутри космического корабля, хотя многие согласятся, что она невыносима. Главная проблема - вход в атмосферу.
+
+При движении со скоростью 50000 км/ч трение атмосферы приведет к нагреву корабля примерно до 2700 градусов Цельсия. Резервные тепловые экраны корабля не выдержат такой нагрузки.
+
+Поскольку гравипривод отключен, я предложил отправиться на ближайшую станцию Содружества, что заняло бы у нас около трех недель. Однако капитан отказался по причинам, которые являются секретными.</Dest>
+    </String>
+    <String List="0" sID="00ACA5">
+      <EDID>SE_KT11_ExtremeHeat_SurukiTerminalGenesis</EDID>
+      <REC id="1" idMax="3">TMLM:UNAM</REC>
+      <Source>Like Icarus in the tales, we flew too close to a star. 
+
+Or so the Captain says. Perhaps he would&apos;ve been better served as a poet. The reality is it was a solar storm emitting a huge burst of energy in the form of solar flares and coronal mass ejections. Phenomena like this is not unprecedented, and we should&apos;ve taken it into account in our flight trajectory. 
+
+Ultimately, the massive stream of electrical charges overwhelmed our shields and damaged our engines. In fact, none of our systems are functioning reliably, and are venting excess heat into the ship. As the medical officer on this ship, I worry about dehydration and heat exhaustion for the crew. As a former engineer, I wonder what further damage the heat is doing to our already compromised systems. 
+
+We need to dock somewhere, and soon.</Source>
+      <Dest>Как Икар в сказаниях, мы подлетели слишком близко к звезде. 
+
+Так говорит капитан. Возможно, ему лучше было бы стать поэтом. На самом деле это была солнечная буря, вызвавшая огромный всплеск энергии в виде солнечных вспышек и выбросов корональной массы. Подобные явления не являются беспрецедентными, и мы должны были учесть их в траектории полета. 
+
+В конечном итоге мощный поток электрических зарядов разрушил наши щиты и повредил двигатели. Фактически, ни одна из наших систем не функционирует надежно и выбрасывает избыточное тепло внутрь корабля. Как медицинский работник этого корабля, я беспокоюсь об обезвоживании и тепловом истощении экипажа. Как бывший инженер, я задаюсь вопросом, какой дополнительный ущерб наносит тепло нашим уже поврежденным системам. 
+
+Нам нужно где-то причалить и как можно скорее.</Dest>
+    </String>
+    <String List="0" sID="00ACA7">
+      <EDID>SE_KT11_ExtremeHeat_SurukiTerminalGenesis</EDID>
+      <REC id="0" idMax="3">TMLM:UNAM</REC>
+      <Source>I was only recently transferred to this ship, and building a relationship with the crew has been a slow process. 
+
+I understand that our mission directive is secretive but I have the proper clearances. And we haven&apos;t really had time for the standard bonding exercises. Hopefully if we run into any heated situations they will trust my expertise.</Source>
+      <Dest>Меня только недавно перевели на этот корабль, и налаживание отношений с экипажем идет медленно. 
+
+Я понимаю, что наша миссия носит секретный характер, но у меня есть соответствующий допуск. К тому же у нас не было времени на тимбилдинг. Надеюсь, если у нас возникнут проблемы, они доверятся моему опыту.</Dest>
+    </String>
+    <String List="0" sID="00B306">
+      <EDID>LC082_OperationsCenterCommandTerminal_Desktop</EDID>
+      <REC id="4" idMax="7">TMLM:UNAM</REC>
+      <Source>System: Sagan
+Orbital: Sagan I
+Type: Ice
+Temperature: Deep Freeze
+
+In preparation for the final assault on the Key, the Vigilance will grav jump to the nearby Sagan System. The Defensive Batteries orbiting the Key will need to be disabled before the Vigilance can make its final assault.
+
+</Source>
+      <Dest>Система: Саган
+Орбитальный: Саган I
+Тип: Лед
+Температура: Глубокое оледенение
+
+В ходе подготовки к финальному штурму Ключа &quot;Бдительный&quot; совершит гравитационный прыжок в близлежащую систему Саган. Прежде чем &quot;Бдительный&quot; сможет совершить последний штурм, необходимо будет вывести из строя защитные батареи, расположенные на орбите Ключа.
+
+</Dest>
+    </String>
+    <String List="0" sID="00B308" Partial="1">
+      <EDID>LC082_OperationsCenterCommandTerminal_Desktop</EDID>
+      <REC id="3" idMax="7">TMLM:UNAM</REC>
+      <Source>System: Bolivar
+Orbital: Bolivar I
+Type: Rock
+Temperature: Temperate
+
+With the agent traveling to Neon, the Vigilance will continue monitoring their efforts in the Bolivar System, orbiting Bolivar I. High traffic and potential political hurdles make traveling in Freestar Collective space unwise.
+
+</Source>
+      <Dest>Система: Боливар
+Орбита: Боливар I
+Тип: Скала
+Температура: Умеренная
+
+После того, как агент отправится на Неон, &quot;Бдительный&quot; продолжит наблюдение за их действиями в системе Боливара, на орбите Боливара I. Высокий трафик и возможные политические препятствия делают путешествие в пространстве Содружества Свободных Систем неразумным.
+
+</Dest>
+    </String>
+    <String List="0" sID="00B30C">
+      <EDID>LC082_OperationsCenterCommandTerminal_Desktop</EDID>
+      <REC id="1" idMax="7">TMLM:UNAM</REC>
+      <Source>System: Aranae
+Orbital: Aranae II-a
+Type: Barren
+Temperature: Deep Freeze
+
+The Siren of the Stars will be in orbit around Aranae IV. A barren planet, Aranae II-a has been chosen as a location to shadow our agent due to its proximity and inhospitable biomes. To maintain operational security, MAST will be notified of the Vigilance&apos;s flight records after the mission is complete.</Source>
+      <Dest>Система: Аранэ
+Орбитальный: Аранэ II-a
+Тип: Бесплодный
+Температура: Глубокое оледенение
+
+Корабль &quot;Сирена Звезд&quot; будет находиться на орбите вокруг Аранэ IV. Бесплодная планета Аранэ II-a была выбрана в качестве места для слежки за нашим агентом из-за ее близости и негостеприимных биомов. В целях обеспечения оперативной безопасности ВАНТ будет уведомлен о полетных данных &quot;Бдительного&quot; после завершения миссии.</Dest>
+    </String>
+    <String List="0" sID="00B30E">
+      <EDID>LC082_OperationsCenterCommandTerminal_Desktop</EDID>
+      <REC id="0" idMax="7">TMLM:UNAM</REC>
+      <Source>System: Sol
+Orbital: Phobos
+Type: Asteroid
+Temperature: Cold
+
+The Vigilance is scheduled to be in the Sol System for an extended period to focus on technical upgrades and mission planning. MAST has been notified of their position.
+</Source>
+      <Dest>Система: Sol
+Орбита: Фобос
+Тип: Астероид
+Температура: Холод
+
+Планируется, что корабль &quot;Бдительный&quot; будет находиться в солнечной системе в течение длительного периода времени, чтобы сосредоточиться на техническом обновлении и планировании миссии. ВАНТ был уведомлен об их положении.
+</Dest>
+    </String>
+    <String List="0" sID="00B310">
+      <EDID>LC082_OperationsCenterCommandTerminal_Desktop</EDID>
+      <REC>TMLM:FULL</REC>
+      <Source>UC Vigilance Command Station</Source>
+      <Dest>Командный пункт &quot;Бдительного&quot; ОК</Dest>
+    </String>
+    <String List="0" sID="00B485">
+      <EDID>OE_Civilians_Story_Miners_03_HitmanTerminal</EDID>
+      <REC id="1" idMax="1">TMLM:UNAM</REC>
+      <Source>Sobek 
+
+Don&apos;t get comfy. Security&apos;s been poking around the Stretch with a Freestar Deputy. Your target must&apos;ve had friends in high places. They haven&apos;t found any witnesses yet, but you never know who&apos;s going to squeal. 
+
+If I were you, I&apos;d think about extending that contract. And hide your kit, too. If someone clocks you and the Rangers come out there, you don&apos;t want them finding weapons on you. I&apos;ll send another message when it&apos;s safe. Until then, don&apos;t try to make contact. It&apos;s safer for both of us.
+
+See you when I see you. 
+
+Mordred
+</Source>
+      <Dest>Собек
+
+Не расслабляйся. Служба безопасности обшаривает &quot;Растяжку&quot; с представителем Содружества. У твоей цели наверняка были друзья в высшем свете. Свидетелей пока не нашли, но никогда не знаешь, кто настучит. 
+
+На твоем месте я бы подумал о продлении контракта. И спрячь свой инструмент. Если кто-то засечет тебя и объявятся рейнджеры, ты же не хочешь, спалиться с пушкой. Я отправлю еще одно сообщение, когда будет безопасно. До тех пор не пытайся вступить в контакт. Так будет безопаснее для нас обоих.
+
+До встречи.
+
+Мордред
+</Dest>
+    </String>
+    <String List="0" sID="00B486">
+      <EDID>OE_Civilians_Story_Miners_03_HitmanTerminal</EDID>
+      <REC id="1" idMax="1">TMLM:ITXT</REC>
+      <Source>Watch Your Back</Source>
+      <Dest>Береги спину</Dest>
+    </String>
+    <String List="0" sID="00B487">
+      <EDID>OE_Civilians_Story_Miners_03_HitmanTerminal</EDID>
+      <REC id="0" idMax="1">TMLM:UNAM</REC>
+      <Source>Mordred- 
+
+Job&apos;s done. Target was eliminated, and the client paid up. 
+
+Close call with Security on my way out of Akila City. I followed the usual protocol and took a contract to get out of town without raising any alarms. Consolidated Mining this time. Three-month gig. Not exactly my kind of work, but at least hauling rocks will keep me in shape. 
+Let me know when this reaches you. I&apos;m sure you have a ship nearby. 
+
+Sobek 
+</Source>
+      <Dest>Мордред- 
+
+Работа выполнена. Цель была устранена, а клиент расплатился. 
+
+На пути из Акила-Сити у меня произошла неприятность со службой безопасности. Я последовал обычному протоколу и взял контракт, чтобы выбраться из города, не поднимая тревоги. На этот раз - с &quot;Консолидейтед Майнинг&quot;. Трехмесячный контракт. Не совсем моя тема, но, по крайней мере, переноска камней поможет мне быть в форме. 
+Сообщи мне, когда это дойдет до тебя. Я уверен, что у тебя поблизости есть корабль. 
+
+Собек 
+</Dest>
+    </String>
+    <String List="0" sID="00B488">
+      <EDID>OE_Civilians_Story_Miners_03_HitmanTerminal</EDID>
+      <REC id="0" idMax="1">TMLM:ITXT</REC>
+      <Source>Close Call</Source>
+      <Dest>Не по плану</Dest>
+    </String>
+    <String List="0" sID="00B535" Partial="1">
+      <EDID>FC06_CatalinaTerminalMenu</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>ADMINISTRATIVE MODE
+
+&gt; Install Disruptor MK4
+DisruptorMK4 program successfully installed
+
+&gt; Access mainframe
+Access granted
+
+&gt; Run DisruptorMK4
+Executing...
+Operation successful
+
+&gt; Dear Freestar Rangers, you&apos;re a step behind as usual
+&gt; I don&apos;t have much time left so let&apos;s go out with a bang
+&gt; There&apos;s an abandoned Stroud-Eklund asteroid excavation facility in system
+&gt; See you soon
+&gt; Maya
+
+
+
+</Source>
+      <Dest>АДМИНИСТРАТИВНЫЙ РЕЖИМ
+
+&gt; Установить Дизруптор MK4
+Программа ДизрупторMK4 успешно установлена
+
+&gt; Получить доступ к главной системе
+Доступ предоставлен
+
+&gt; Запустить ДизрупторMK4
+Выполнение...
+Операция выполнена успешно
+
+&gt; Дорогие рейнджеры Содружества, вы как всегда на шаг позади.
+&gt; У меня осталось не так много времени, так что дайте уйти с музыкой.
+&gt; В системе находится заброшенное астероидное оборудование Страуд-Эклуд.
+&gt; До скорой встречи
+&gt; Майя
+
+
+
+</Dest>
+    </String>
+    <String List="0" sID="00B753" Partial="1">
+      <EDID>FC06_RangersTerminalMenu</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>ADMINISTRATIVE MODE
+
+&gt; Install Disruptor MK4
+DisruptorMK4 program successfully installed
+
+&gt; Access mainframe
+Access granted
+
+&gt; Run DisruptorMK4
+Executing...
+Operation successful
+
+&gt; Dear Freestar Rangers, you&apos;re a step behind as usual
+&gt; I don&apos;t have much time left so let&apos;s go out with a bang
+&gt; There&apos;s an abandoned Stroud-Eklund asteroid excavation facility in system
+&gt; See you soon
+&gt; Maya
+
+
+
+</Source>
+      <Dest>АДМИНИСТРАТИВНЫЙ РЕЖИМ
+
+&gt; Установить Дизруптор MK4
+Программа ДизрупторMK4 успешно установлена
+
+&gt; Получить доступ к главной системе
+Доступ предоставлен
+
+&gt; Запустить ДизрупторMK4
+Выполнение...
+Операция выполнена успешно
+
+&gt; Дорогие рейнджеры Содружества, вы как всегда на шаг позади.
+&gt; У меня осталось не так много времени, так что дайте уйти с музыкой.
+&gt; В системе находится заброшенное астероидное оборудование Страуд-Эклуд.
+&gt; До скорой встречи
+&gt; Майя
+
+
+
+</Dest>
+    </String>
+    <String List="0" sID="00B754" Partial="1">
+      <EDID>FC06_RangersTerminalMenu</EDID>
+      <REC>TMLM:FULL</REC>
+      <Source>Freestar Rangers Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00B8D5" Partial="1">
+      <EDID>DR019_RobotTerminal</EDID>
+      <REC>TMLM:UNAM</REC>
+      <Source>DO NOT release these robots! These Model A&apos;s are from a Freestar freighter we jumped near  Cheyenne. Two bots were defending the ship. It took us an hour to hack in and put them to sleep.
+
+Donny thinks he can re-code them to do chores around the station. So unless that&apos;s your name, STOP NOW! If they wake up, these robots will attack on sight.</Source>
+      <Dest>НЕ ВЫПУСКАЙТЕ этих роботов! Эти модели А - с грузового судна Содружества, который мы захватили недалеко от Шайенна. Два бота защищали корабль. Нам потребовался час, чтобы взломать их и деактивировать.
+
+Донни считает, что он может перепрограммировать их для выполнения работ вокруг станции. ОСТАНОВИТЕСЬ СЕЙЧАС ЖЕ! Если они проснутся, эти роботы нападут на вас.</Dest>
+    </String>
+    <String List="0" sID="00BA33" Partial="1">
+      <EDID>TheRock_AlexMainTerminalMenu</EDID>
+      <REC>TMLM:FULL</REC>
+      <Source>Freestar Ranger Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00BA3C" Partial="1">
+      <EDID>TheRock_AlexMessagesTerminalMenu</EDID>
+      <REC id="5" idMax="5">TMLM:UNAM</REC>
+      <Source>To: All Rangers
+From: Daniel Blake
+Subject: Recruiting
+
+I know you&apos;ve all heard me say it before, but the Council would really like to see us bolster our ranks, so here&apos;s my obligatory reminder to keep a look out for anyone you think might be Ranger material. There&apos;s fewer of us now than there have been since I joined up, and I don&apos;t have to tell you all that was a long damn time ago.
+
+Fact is, the Freestar Collective ain&apos;t exactly getting safer by the day. There&apos;s always been more trouble than there&apos;s been Rangers to handle it, but that&apos;s more true now that it ever has been. We need more help, and we need it soon.
+</Source>
+      <Dest>Для: Всем рейнджерам
+От: Дэниел Блейк
+Тема: Набор рекрутов
+
+Я знаю, что вы все уже слышали от меня об этом, но Совету очень хотелось бы, чтобы мы пополнили свои ряды, так что вот вам мое обязательное напоминание о том, чтобы вы присматривались к тем, кто, по вашему мнению, может быть кандидатом в рейнджеры. Сейчас нас меньше, чем было с тех пор, как я вступил в Совет, и мне не нужно говорить вам, что это было чертовски давно.
+
+Факт в том, что Содружество Свободных Звезд не становится безопаснее. Проблем всегда было больше, чем рейнджеров, способных с ними справиться, но сейчас это верно как никогда. Нам нужна помощь, и быстрее.
+</Dest>
+    </String>
+    <String List="0" sID="00BA49" Partial="1">
+      <EDID>TheRock_HelgaMainTerminalMenu</EDID>
+      <REC id="1" idMax="1">TMLM:ITXT</REC>
+      <Source>Freestar Ranger Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00BA4A" Partial="1">
+      <EDID>TheRock_HelgaMainTerminalMenu</EDID>
+      <REC id="0" idMax="1">TMLM:ITXT</REC>
+      <Source>Freestar Ranger Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00BA4B" Partial="1">
+      <EDID>TheRock_HelgaMainTerminalMenu</EDID>
+      <REC>TMLM:FULL</REC>
+      <Source>Freestar Ranger Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00BA53" Partial="1">
+      <EDID>TheRock_HelgaMessagesTerminalMenu</EDID>
+      <REC id="5" idMax="5">TMLM:UNAM</REC>
+      <Source>To: All Rangers
+From: Daniel Blake
+Subject: Recruiting
+
+I know you&apos;ve all heard me say it before, but the Council would really like to see us bolster our ranks, so here&apos;s my obligatory reminder to keep a look out for anyone you think might be Ranger material. There&apos;s fewer of us now than there have been since I joined up, and I don&apos;t have to tell you all that was a long damn time ago.
+
+Fact is, the Freestar Collective ain&apos;t exactly getting safer by the day. There&apos;s always been more trouble than there&apos;s been Rangers to handle it, but that&apos;s more true now that it ever has been. We need more help, and we need it soon.
+</Source>
+      <Dest>Для: Всем рейнджерам
+От: Дэниел Блейк
+Тема: Набор рекрутов
+
+Я знаю, что вы все уже слышали от меня об этом, но Совету очень хотелось бы, чтобы мы пополнили свои ряды, так что вот вам мое обязательное напоминание о том, чтобы вы присматривались к тем, кто, по вашему мнению, может быть кандидатом в рейнджеры. Сейчас нас меньше, чем было с тех пор, как я вступил в Совет, и мне не нужно говорить вам, что это было чертовски давно.
+
+Факт в том, что Содружество Свободных Звезд не становится безопаснее. Проблем всегда было больше, чем рейнджеров, способных с ними справиться, но сейчас это верно как никогда. Нам нужна помощь, и быстрее.
+</Dest>
+    </String>
+    <String List="0" sID="00BBCF">
+      <EDID>TheRock_BlakeJournalTerminalMenu</EDID>
+      <REC id="2" idMax="2">TMLM:UNAM</REC>
+      <Source>May 1st, 2330
+
+Seems like every time I get a slate from one of the Governors, they&apos;ve just got to bring up retirement. &quot;We ain&apos;t trying to push you into it,&quot; they all say, &quot;we&apos;re just looking to the future. Got to be prepared, after all!&quot; 
+
+Feels like I&apos;ve read some version of that a half dozen times in the past month alone. 
+
+I&apos;ve got no illusions that I&apos;m the best Marshal the Rangers ever had, but damn, am I doing such a bad job that they want me gone? Or is it something else? No way I&apos;d believe Emma would go around behind my back and talk to the Council. She jokes about it, sure, but I trust her like family.
+
+What would I even do, anyway? Am I supposed to set up some farm on my own and while away my last days watching the crops grow until the sun goes down? To hell with that. Truth is, I live for the job and nothing else. When I can&apos;t do that anymore, I&apos;ll hang up my spurs. The Governors can wait.</Source>
+      <Dest>1 мая 2330 г.
+
+Кажется, что каждый раз, когда я получаю от кого-то из губернаторов письмо, он обязательно заводит речь о пенсии. &quot;Мы не пытаемся вас к этому подтолкнуть&quot;, - говорят они, - &quot;мы просто смотрим в будущее. Надо быть готовым, в конце концов!&quot; 
+
+Такое ощущение, что только за последний месяц я прочитал какую-то версию этой фразы полдюжины раз. 
+
+Я не питаю иллюзий, что я лучший маршал из всех, что когда-либо были у рейнджеров, но, черт возьми, неужели я так плохо справляюсь со своими обязанностями, что они хотят меня убрать? Или дело в чем-то другом? Я ни за что не поверю, что Эмма будет действовать за моей спиной и разговаривать с Советом. Она, конечно, шутит по этому поводу, но я доверяю ей как себе.
+
+Чем я вообще буду заниматься? Неужели я должен завести какую-нибудь ферму и коротать свои последние дни, наблюдая за ростом урожая до захода солнца? К черту все это. По правде говоря, я живу ради работы и ничего более. Когда я больше не смогу этого делать, я повешу свою форму в шкаф. Губернаторы подождут.</Dest>
+    </String>
+    <String List="0" sID="00BBD1">
+      <EDID>TheRock_BlakeJournalTerminalMenu</EDID>
+      <REC id="1" idMax="2">TMLM:UNAM</REC>
+      <Source>May 3rd, 2330
+
+I&apos;m starting to worry about Autumn. As much as I&apos;d like to deny it, Emma might be right. Maybe tracking down that new smuggling syndicate we&apos;ve been getting reports about was too big an assignment. She&apos;s young, headstrong and ain&apos;t the best at keeping in touch while she&apos;s out in the field, so the long silence might mean she&apos;s in some kind of trouble.
+
+For now, I&apos;m going to sit tight and hope we get some kind of word soon. Emma always says we&apos;ve got to have faith in the people we give a badge to, so for now I&apos;ll stay the course. But if another week goes by without news, I might need to send someone out to track her down.
+
+I ain&apos;t much for superstition or luck, but I&apos;ll cross my fingers anyway.</Source>
+      <Dest>3 мая 2330 г.
+
+Я начинаю беспокоиться за &quot;Осень&quot;. Как бы мне ни хотелось отрицать это, Эмма может быть права. Возможно, отслеживание нового синдиката контрабандистов, о котором мы получаем сообщения, было слишком серьезным заданием. Она молода, упряма и не умеет поддерживать связь во время работы, поэтому долгая тишина может означать, что она в какой-то беде.
+
+Пока что я собираюсь сидеть тихо и надеяться, что скоро мы получим какую-нибудь весточку. Эмма всегда говорит, что мы должны верить в людей, которым даем значок, так что пока я останусь при своем мнении. Но если пройдет еще неделя без новостей, возможно, мне придется послать кого-нибудь на ее поиски.
+
+Я не очень люблю суеверия и приметы, но все равно скрещу пальцы.</Dest>
+    </String>
+    <String List="0" sID="00BBD3" Partial="1">
+      <EDID>TheRock_BlakeJournalTerminalMenu</EDID>
+      <REC id="0" idMax="2">TMLM:UNAM</REC>
+      <Source>May 6th, 2330
+
+Sent around the usual message to the others about recruiting. I hate to nag, but I don&apos;t know what else to do. We&apos;re way below where I&apos;d like us to be, and if there really is another smuggling syndicate setting up shop in the Freestar Collective, we&apos;re going to be spread dangerously thin.
+
+At this point, I&apos;m ready to accept any halfway decent candidate who walks into the Rock. Emma&apos;s got an eye for talent, and I trust her to weed out anyone that&apos;s unfit. If it gets the Council off my back, I ain&apos;t going to complain.
+</Source>
+      <Dest>6 мая 2330 г.
+
+Разослал остальным обычное сообщение о наборе. Ненавижу ворчать, но я не знаю, что еще можно сделать. Мы находимся далеко не на том уровне, на котором мне хотелось бы, и если в Содружество Свободных Звезд действительно появился еще один синдикат контрабандистов, нам придется несладко.
+
+На данный момент я готов принять любого относительно приличного кандидата, который зайдет в &quot;Рок&quot;. У Эммы есть нюх на таланты, и я доверяю ей, она отсеет всех, кто не подходит. Если это избавит меня от Совета, я не буду жаловаться.
+</Dest>
+    </String>
+    <String List="0" sID="00BBEC" Partial="1">
+      <EDID>UC07_EclipticOutpost_TerminalMenu_SpecimenCage01</EDID>
+      <REC id="2" idMax="2">TMLM:ITXT</REC>
+      <Source>|08w-N| &quot;The Freestar Disrespected&quot;</Source>
+      <Dest>|08w-N| &quot;Пренебрежение Содружеством&quot;</Dest>
+    </String>
+    <String List="0" sID="00BC29" Partial="1">
+      <EDID>UC01_NarionWar_Terminal_MainMenu</EDID>
+      <REC>TMLM:UNAM</REC>
+      <Source>Beginning in 2196, the Narion War - humanity&apos;s first large-scale conflict among the stars - is remembered as a defining moment for the Settled Systems. 
+
+As the first major conflict to make extensive use of grav jump-enabled ships, the Narion War was less defined by key space battles and more by an extended, cat-and-mouse interplay between the two powers, as the well-armed and professional UC Navy tried again and again to pin down the piecemeal but savvy Freestar fleet.
+
+Unable to strike the killing blow, the UC resorted to ever more severe tactics to try and drive the Collective to capitulate, but without success. In fact, after many long years of war with little to show for it, even the populace of the UC itself began to turn against the cause, with protests roiling even New Atlantis, the citizenry demanding the war finally come to a humane close. So, when at long last, the final blow was struck - with the UC Navy finally cornering and obliterating the Freestar fleet in 2216 -  it was a hollow victory. 
+
+It was from the resulting negotiations - The Treaty of Narion - that the Settled Systems as we know them today emerged, both literally and figuratively. 
+
+Despite winning the war, the UC found themselves in an unenviable position, painted as a brutal aggressor even in their home systems. So, in the spirit of unity and lasting peace, the UC agreed to the demands of the Freestar Collective and the Narion settlers whose collusion triggered the conflict in the first place, and handed over Narion to the Collective, as they had requested at the start of hostilities (including the Clinic medical starstation), creating the Freestar Collective as we know it to this day.
+
+In return, the UC demanded two concessions: the first was payment for damages done in the form of mineral rights on multiple worlds across the galaxy. 
+
+The second, more significant demand was that no great faction may ever colonize more than three systems. The UC would have Alpha Centauri, Sol, and Wolf, and the Freestar Collective, Cheyenne, Volii, and Narion. 
+
+The Freestar Collective agreed to these terms, creating - and codifying into law - the Settled Systems as we know them today. The Treaty of Narion has since become the foundation of all contemporary political relations, and it&apos;s only official violation, the cause of the galaxy&apos;s greatest conflict - the Colony War.
+
+To learn more about the Colony War, please proceed to the &quot;Conflict Among the Stars&quot; mural.
+</Source>
+      <Dest>Начавшаяся в 2196 году Нарионская война - первый крупномасштабный конфликт человечества среди звезд - запомнилась как определяющий момент для Освоенных Систем. 
+
+Будучи первым крупным конфликтом, в котором широко использовались корабли, способные совершать гравитационные прыжки, война за Нарион была в меньшей степени определена ключевыми космическими сражениями, а в большей - длительным взаимодействием двух держав, когда хорошо вооруженный и профессиональный флот ОК снова и снова пытался сбить с толку разрозненный, но ловкий флот Содружества.
+
+Не имея возможности нанести решающий удар, ОК прибегала к все более жесткой тактике, пытаясь заставить Содружество капитулировать, но безуспешно. Более того, после долгих лет войны, не принесших никаких результатов, даже население ОК стало выступать против, протесты захлестнули даже Новую Атлантиду, жители которой требовали, чтобы война наконец-то завершилась мирным путем. И когда, наконец, был нанесен последний удар - в 2216 г. флот ОК наконец-то настиг и уничтожил флот Содружества, - это была пустая победа. 
+
+Именно в результате переговоров - Нарионского договора - возникли Поселенческие системы в том виде, в котором мы их знаем сегодня, как в прямом, так и в переносном смысле. 
+
+Несмотря на победу в войне, ОК оказались в незавидном положении: даже в своих родных системах их представляли как жестокого агрессора. Поэтому, в духе единства и прочного мира, ОК согласилась на требования Содружества Свободных Звезд и поселенцев Нариона, чей сговор спровоцировал конфликт, и передала Нарион Содружеству, как они и просили в начале военных действий (включая медицинскую станцию &quot;Клиника&quot;), создав Содружество Свободных Звезд в том виде, в котором мы знаем его и по сей день.
+
+Взамен ОК потребовала две уступки: первая - плата за нанесенный ущерб в виде прав на добычу полезных ископаемых на множестве миров по всей галактике. 
+
+Второе, более существенное, требование заключалось в том, что ни одна великая фракция не может колонизировать более трех систем. ОК будет иметь Альфа Центавра, Солнечную систему и Вольф, а Содружества Свободных Звезд - Шайенн, Волий и Нарион.
+
+Содружество Свободных Звезд согласились с этими условиями, создав и закрепив в законе Освоенные системы в том виде, в котором мы знаем их сегодня. С тех пор Нарионский договор стал основой всех современных политических отношений, а его единственное официальное нарушение - причиной величайшего конфликта в галактике - Войны колоний.
+
+Чтобы узнать больше о войне колоний, перейдите к фреске &quot;Межзвездный Конфликт&quot;.
+</Dest>
+    </String>
+    <String List="0" sID="00BCA3" Partial="1">
+      <EDID>EAW_MedTerrariumComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BCA5" Partial="1">
+      <EDID>EAW_MedTerrariumComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BCAB">
+      <EDID>EAW_MedTerrariumComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BCB6" Partial="1">
+      <EDID>EAW_TAWarehouseComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BCB8" Partial="1">
+      <EDID>EAW_TAWarehouseComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BCBE">
+      <EDID>EAW_TAWarehouseComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BCC6" Partial="1">
+      <EDID>EAW_ArmoredShipComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BCC8" Partial="1">
+      <EDID>EAW_ArmoredShipComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BCCE">
+      <EDID>EAW_ArmoredShipComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BCD6" Partial="1">
+      <EDID>EAW_RedMileComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BCD8" Partial="1">
+      <EDID>EAW_RedMileComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BCDE">
+      <EDID>EAW_RedMileComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BCE6" Partial="1">
+      <EDID>EAW_CliffsideComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BCE8" Partial="1">
+      <EDID>EAW_CliffsideComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BCEE">
+      <EDID>EAW_CliffsideComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BCF9" Partial="1">
+      <EDID>EAW_RoboticsFacilityComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BCFB" Partial="1">
+      <EDID>EAW_RoboticsFacilityComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD01">
+      <EDID>EAW_RoboticsFacilityComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD09" Partial="1">
+      <EDID>EAW_HiveComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BD0B" Partial="1">
+      <EDID>EAW_HiveComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD11">
+      <EDID>EAW_HiveComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD19" Partial="1">
+      <EDID>EAW_BindiComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BD1B" Partial="1">
+      <EDID>EAW_BindiComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD21">
+      <EDID>EAW_BindiComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD29" Partial="1">
+      <EDID>EAW_NovaGalacticComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BD2B" Partial="1">
+      <EDID>EAW_NovaGalacticComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD31">
+      <EDID>EAW_NovaGalacticComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD39" Partial="1">
+      <EDID>EAW_MechFactoryComputerMenu_02</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BD3B" Partial="1">
+      <EDID>EAW_MechFactoryComputerMenu_02</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD41">
+      <EDID>EAW_MechFactoryComputerMenu_02</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD49" Partial="1">
+      <EDID>KreetTerminal01_WynnPersonal_Genesis</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BD4B" Partial="1">
+      <EDID>KreetTerminal01_WynnPersonal_Genesis</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD51">
+      <EDID>KreetTerminal01_WynnPersonal_Genesis</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD63" Partial="1">
+      <EDID>EAW_TestingFacilityComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BD65" Partial="1">
+      <EDID>EAW_TestingFacilityComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BD6B">
+      <EDID>EAW_TestingFacilityComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BD73" Partial="1">
+      <EDID>TheRock_BlakeMessagesTerminalMenu</EDID>
+      <REC id="5" idMax="5">TMLM:UNAM</REC>
+      <Source>To: All Rangers
+From: Daniel Blake
+Subject: Recruiting
+
+I know you&apos;ve all heard me say it before, but the Council would really like to see us bolster our ranks, so here&apos;s my obligatory reminder to keep a look out for anyone you think might be Ranger material. There&apos;s fewer of us now than there have been since I joined up, and I don&apos;t have to tell you all that was a long damn time ago.
+
+Fact is, the Freestar Collective ain&apos;t exactly getting safer by the day. There&apos;s always been more trouble than there&apos;s been Rangers to handle it, but that&apos;s more true now that it ever has been. We need more help, and we need it soon.
+</Source>
+      <Dest>Для: Всем рейнджерам
+От: Дэниел Блейк
+Тема: Набор рекрутов
+
+Я знаю, что вы все уже слышали от меня об этом, но Совету очень хотелось бы, чтобы мы пополнили свои ряды, так что вот вам мое обязательное напоминание о том, чтобы вы присматривались к тем, кто, по вашему мнению, может быть кандидатом в рейнджеры. Сейчас нас меньше, чем было с тех пор, как я вступил в Совет, и мне не нужно говорить вам, что это было чертовски давно.
+
+Факт в том, что Содружество Свободных Звезд не становится безопаснее. Проблем всегда было больше, чем рейнджеров, способных с ними справиться, но сейчас это верно как никогда. Нам нужна помощь, и быстрее.
+</Dest>
+    </String>
+    <String List="0" sID="00BDF3" Partial="1">
+      <EDID>TheRock_BlakeMainTerminalMenu</EDID>
+      <REC>TMLM:FULL</REC>
+      <Source>Freestar Ranger Terminal</Source>
+      <Dest>Терминал Рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="00BEBB" Partial="1">
+      <EDID>EAW_HeliumRefineryComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BEBD" Partial="1">
+      <EDID>EAW_HeliumRefineryComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BEC3">
+      <EDID>EAW_HeliumRefineryComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BED8" Partial="1">
+      <EDID>EAW_DerelictShipComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BEDA" Partial="1">
+      <EDID>EAW_DerelictShipComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BEE0">
+      <EDID>EAW_DerelictShipComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BEE8" Partial="1">
+      <EDID>EAW_AutoShipyardComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BEEA" Partial="1">
+      <EDID>EAW_AutoShipyardComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BEF0">
+      <EDID>EAW_AutoShipyardComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BF54" Partial="1">
+      <EDID>KreetTerminal03_WynnProject_Genesis</EDID>
+      <REC id="0" idMax="3">TMLM:UNAM</REC>
+      <Source>Hayden Wynn - Senior Xenobiologist
+Kreet Research Facility
+Project Log
+January 5th, 2308
+
+We&apos;re at war. 
+
+By establishing the colony of Vesta, the Freestar Collective have forced the UC&apos;s hand. The unmitigated gall, thinking they could establish control over a fourth star system.  Such a flagrant violation of the Treaty of Narion!
+
+Our diplomats tried to resolve this peacefully, but the Council of Governors wouldn&apos;t listen to reason. Apparently they claimed that Vesta was NOT a colony, but rather just an insignificant farming outpost. Nice try.
+
+By all accounts, the Red Devils and Stalkers worked in perfect unison, and the results were everything we could have hoped for. No Red Devil or Stalker casualties. Vesta&apos;s defenders were apparently taken by complete surprise, which greatly contributed to their fatality rate (93%).
+
+This is a great day for the Red Devils, a great day for the United Colonies, and a great day for Xenowarfare.
+
+Note: No, it&apos;s not lost on me that this classified facility is actually located within Freestar Collective space. So goes the Great Game.</Source>
+      <Dest>Хайден Уинн - старший ксенобиолог
+Исследовательский центр Крит
+Журнал регистрации проектов
+5 января 2308 г.
+
+Мы находимся в состоянии войны. 
+
+Основав колонию на Весте, Содружество Свободных Звезд наложил на себя руки ОК. Какая неслыханная наглость - думать, что они могут установить контроль над четвертой звездной системой.  Такое грубое нарушение Нарионского договора!
+
+Наши дипломаты пытались решить проблему мирным путем, но Совет правящих не захотел прислушаться к голосу разума. По всей видимости, они утверждали, что Веста - это НЕ колония, а всего лишь незначительный фермерский форпост. Хорошая попытка.
+
+По общему мнению, &quot;Красные дьяволы&quot; и &quot;Сталкеры&quot; работали сообща, и результаты оказались такими, на которые мы могли рассчитывать. Ни &quot;Красные дьяволы&quot;, ни &quot;Сталкеры&quot; не пострадали. Защитники Весты, видимо, были застигнуты врасплох, что это в значительной степени обусловило их смертность (93%).
+
+Это великий день для &quot;Красных дьяволов&quot;, великий день для Объединенных Колоний и великий день для ксенооружия.
+
+Примечание: Ни для кого не секрет, что этот засекреченный объект на самом деле находится в пространстве Содружества Свободных Звезд. Так идет &quot;Большая Игра&quot;.</Dest>
+    </String>
+    <String List="0" sID="00BF56">
+      <EDID>KreetTerminal03_WynnProject_Genesis</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BF88" Partial="1">
+      <EDID>EAW_MechFactoryComputerMenu_01</EDID>
+      <REC id="3" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 7, 2306
+
+Any fears that our Freestar Collective counterparts have managed to weaponize the Ashta have been completely dispelled.
+
+After the Michelson debacle, we determined the NCI should only be attached under full sedation, so that wasn&apos;t an issue. The problems started immediately afterward. The Ashta proved incredibly resistant to synchronization, and we never achieved control fidelity beyond 47%. Doctor Chin&apos;s arm was nearly ripped off five minutes into the first trial.
+
+In short, the Ashta simply can&apos;t be controlled. If not by us, then certainly not by the Freestar Collective.
+
+Doctor Paulson has been in touch with Colonel Kasarov. Looks like the Marines will have another species collected and dropped off by this time next week.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+7 мая 2306 г.
+
+Опасения по поводу того, что наши коллеги из Содружетсва сумели создать оружие из ашты, полностью развеялись.
+
+После фиаско с Михельсоном мы решили, что ИНУ можно подключать только под полной анестезией, так что с этим проблем не было. Проблемы начались сразу после этого. ашта оказалась невероятно устойчивой к синхронизации, и мы так и не смогли добиться точности управления выше 47%. Через пять минут после первого испытания доктору Чину чуть не оторвало руку.
+
+Короче говоря, ашта просто не поддается контролю. Если не мы, то уж точно не Содружество Свободных Звезд.
+
+Доктор Паульсон связался с полковником Касаровым. Похоже, морпехи заберут еще один вид и доставят его на следующей недели
+</Dest>
+    </String>
+    <String List="0" sID="00BF8A" Partial="1">
+      <EDID>EAW_MechFactoryComputerMenu_01</EDID>
+      <REC id="2" idMax="6">TMLM:UNAM</REC>
+      <Source>Hayden Wynn 
+Personal Journal
+May 5, 2306
+
+I&apos;m not sure how they managed it, but the UC Marines actually managed to bring us an Ashta. 
+
+It&apos;s not that the Ashta is a terrifying beast and natural predator (those are both exceptional and wonderful qualities, and essential to the work we&apos;re doing here). It&apos;s that the Ashta is native to the planet Akila in the Cheyenne system. Akila, home to Akila City, capital of the Freestar Collective. 
+
+Leave it to a group of groundpounders to grab a candidate right from the enemy&apos;s backyard. Though it does beg the question - have Freestar Collective scientists managed to weaponize their greatest natural predator? If so, our timetable just got accelerated.
+</Source>
+      <Dest>Хейден Уинн 
+Личный журнал
+5 мая 2306 г.
+
+Не знаю, как им это удалось, но морским пехотинцам ОК действительно удалось привезти нам ашту. 
+
+Дело не в том, что ашта - страшный зверь и прирожденный хищник (это исключительные и замечательные качества, необходимые для работы, которую мы здесь выполняем). Дело в том, что ашта обитает на планете Акила в системе Шайенн. Акила - родина Акила-Сити, столицы Содружества Свободных Звезд. 
+
+Оставлю это группе бойцов на земле - они возьмут образец прямо с заднего двора врага. Правда, возникает вопрос: удалось ли ученым из Содружества создать оружие из своего главного природного врага? Если да, то наш график исследований только что ускорился.
+</Dest>
+    </String>
+    <String List="0" sID="00BF90">
+      <EDID>EAW_MechFactoryComputerMenu_01</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BFA1">
+      <EDID>KreetTerminal04_WynnProject_Genesis</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00BFAD">
+      <EDID>KreetTerminal02_WynnProject_Genesis</EDID>
+      <REC id="0" idMax="3">TMLM:UNAM</REC>
+      <Source>Hayden Wynn - Senior Xenobiologist
+Kreet Research Facility
+Project Log
+February 11th, 2307
+
+My staff and I just arrived this morning, and I&apos;m not surprised to find the facility completely operational. As usual, the United Colonies spared no expense. It&apos;s all very exciting. Inspirational, really, knowing you have the full support of the decision makers. 
+
+I have to admit, I was surprised to learn that the lab is a closely guarded secret, located IN Freestar Collective space, no less. But we go where the work takes us.
+
+Xenowarfare is the evolution of armed ground conflict. We know it, and the Freestar Collective surely knows it as well. Forget what the calendar says - this is 1942 all over again. We may as well be the Manhattan Project, racing to create the game changer before the other side.
+
+So, to that effect, I am overjoyed to officially announce:
+
+Project Petshop - Phase 1 is a go.
+</Source>
+      <Dest>Хайден Уинн - старший ксенобиолог
+Исследовательский центр Крит
+Журнал регистрации проектов
+11 февраля 2307 г.
+
+Я и мои сотрудники прибыли сегодня утром, и я не удивлен, что объект полностью готов к работе. Как обычно, Объединенные колонии не пожалели средств. Все это очень интересно. Вдохновляет осознание того, что ты пользуешься полной поддержкой тех, кто принимает решения. 
+
+Признаться, я был удивлен, узнав, что лаборатория является тщательно охраняемым секретом и находится в пространстве Содружества, не меньше. Но мы идем туда, куда нас ведет работа.
+
+Ксенооружие - это эволюция вооруженных наземных конфликтов. Мы это знаем, и Содружество, несомненно, тоже. Забудьте о том, что говорит календарь - это 1942 год заново. Мы можем стать Манхэттенским проектом, спешащим создать новое оружие раньше других.
+
+В связи с этим я с радостью официально объявляю:
+
+Проект &quot;Зоомагазин&quot; - первая фаза начата.
+</Dest>
+    </String>
+    <String List="0" sID="00BFAF">
+      <EDID>KreetTerminal02_WynnProject_Genesis</EDID>
+      <REC>TMLM:BTXT</REC>
+      <Source>Kreet Research Base</Source>
+      <Dest>Исследовательская база Крит</Dest>
+    </String>
+    <String List="0" sID="00E0AE">
+      <EDID>UC_NA_FSE_GuardMale01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Freestar Embassy Security</Source>
+      <Dest>СБ посольства Содружества</Dest>
+    </String>
+    <String List="0" sID="00EB90" Partial="1">
+      <EDID>UC05_FreestarArchivalMonitor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Freestar Archival Monitor</Source>
+      <Dest>Архивный монитор Содружества</Dest>
+    </String>
+    <String List="0" sID="00F3E0">
+      <EDID>[0029CE86]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Decomissioned Freestar Mech Factory</Source>
+      <Dest>Демонтированный мехзавод Содружества</Dest>
+    </String>
+    <String List="0" sID="00F3E1">
+      <EDID>[0029ADE5]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Freestar Militia Outpost</Source>
+      <Dest>Аванпост ополченцев Содружества</Dest>
+    </String>
+    <String List="0" sID="00F967">
+      <EDID>CityNeonFreestarRanger</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Freestar Rangers Outpost</Source>
+      <Dest>Аванпост рейнджеров Содружества</Dest>
+    </String>
+    <String List="0" sID="00FA66" Partial="1">
+      <EDID>LC024World</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Freestar Mech Factory</Source>
+      <Dest>Мехзавод Содружества</Dest>
+    </String>
+    <String List="0" sID="02D60D">
+      <EDID>FC08</EDID>
+      <REC id="7" idMax="12">QUST:NNAM</REC>
+      <Source>Investigate the Freestar mech factory</Source>
+      <Dest>Исследуйте механизированный завод Содружества</Dest>
+    </String>
+    <String List="0" sID="02D60E">
+      <EDID>FC08</EDID>
+      <REC id="6" idMax="12">QUST:NNAM</REC>
+      <Source>Land at the Freestar mech factory</Source>
+      <Dest>Совершить посадку на механизированном заводе Содружества</Dest>
+    </String>
+    <String List="0" sID="02D907">
+      <EDID>SE_Player_Attack01</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Freestar vs Ecliptic</Source>
+      <Dest>Содружество против Эклиптики</Dest>
+    </String>
+    <String List="0" sID="02DBD6">
+      <EDID>SE_Player_Attack04</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Freestar vs Crimson Fleet</Source>
+      <Dest>Содружество vs Багрового флота</Dest>
+    </String>
+    <String List="0" sID="02DBD9">
+      <EDID>SE_Player_Attack06</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Freestar vs Spacers</Source>
+      <Dest>Содружество против Спейсеров</Dest>
+    </String>
+    <String List="0" sID="02DD85">
+      <EDID>SE_Player_Attack10</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Freestar vs Varuun</Source>
+      <Dest>Содружество против Варуун</Dest>
+    </String>
+    <String List="0" sID="02E1F5" Partial="1">
+      <EDID>LC024FirstsHideoutLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Freestar Mech Factory</Source>
+      <Dest>Мехзавод Содружества</Dest>
+    </String>
+    <String List="0" sID="02F699" Partial="1">
+      <EDID>UC05</EDID>
+      <REC id="9" idMax="36">QUST:NNAM</REC>
+      <Source>Collect the Freestar Collective Archival Code yourself</Source>
+      <Dest>Соберите архивный код Содружества Свободных Звезд самостоятельно</Dest>
+    </String>
+    <String List="0" sID="02F6A1" Partial="1">
+      <EDID>UC05</EDID>
+      <REC id="1" idMax="36">QUST:NNAM</REC>
+      <Source>Acquire the Freestar Collective Archival Code</Source>
+      <Dest>Добудьте архивный код Содружества Свободных Звезд</Dest>
+    </String>
+    <String List="0" sID="02F71A" Partial="1">
+      <EDID>FC02</EDID>
+      <REC id="1" idMax="22">QUST:NNAM</REC>
+      <Source>Complete a Freestar Ranger mission</Source>
+      <Dest>Выполнить задание рейнджера Содружества</Dest>
+    </String>
+    <String List="0" sID="031D1D">
+      <EDID>EncShip_FreestarCitizen_A_Responder01</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Responder</Source>
+      <Dest>Ответчик Содружество</Dest>
+    </String>
+    <String List="0" sID="032E06" Partial="1">
+      <EDID>SQ_ClearBountyTerminalMenu_Deskop</EDID>
+      <REC id="1" idMax="2">TMLM:UNAM</REC>
+      <Source>Unfortunately, local regulations prevent us from offering this service within Freestar Collective space. Please contact the Freestar Collective authorities to clear up any legal difficulties.</Source>
+      <Dest>К сожалению, местные правила не позволяют нам предоставлять эту услугу на территории Содружества Свободных Звезд. Пожалуйста, свяжитесь с руководством Содружества Свободных Звезд, чтобы прояснить все юридические вопросы.</Dest>
+    </String>
+    <String List="0" sID="032F27" Partial="1">
+      <EDID>SQ_ClearBountyTerminalMenu_Deskop</EDID>
+      <REC id="2" idMax="2">TMLM:UNAM</REC>
+      <Source>Unfortunately, local regulations prevent us from offering this service within Freestar Collective space. Please contact the Freestar Collective authorities to clear up any legal difficulties.</Source>
+      <Dest>К сожалению, местные правила не позволяют нам предоставлять эту услугу на территории Содружества Свободных Звезд. Пожалуйста, свяжитесь с руководством Содружества Свободных Звезд, чтобы прояснить все юридические вопросы.</Dest>
+    </String>
+    <String List="0" sID="033F9B" Partial="2">
+      <EDID>SE_FAB11_LvlShip_FreestarCitizen_C_Cargo</EDID>
+      <REC>GBFM:FULL</REC>
+      <Source>Freestar Citizen C Cargo</Source>
+      <Dest>Содружество Гражданинский Грузовой С</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
